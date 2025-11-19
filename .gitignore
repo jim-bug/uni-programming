@@ -1,0 +1,9 @@
+# Cartella generata da Verilator
+obj_dir/
+
+# Eseguibili di simulazione
+sim_top
+sim_*
+
+# File VCD
+*.vcd
