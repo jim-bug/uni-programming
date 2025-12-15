@@ -7,3 +7,5 @@ sim_*
 
 # File VCD
 *.vcd
+
+*.arm
