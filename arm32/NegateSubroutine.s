@@ -1,0 +1,15 @@
+; Autore: Ignazio Leonardo Calogero Sperandeo
+; Data: 2025-12-19
+; Consegna: Scrivere in assembly ARM 32 una subroutine che riceva come unico argomento un valore intero con segno a 32 bit e restituisca il valore ricevuto cambiato di segno.		
+; by jim-bug // :)
+
+
+	MAIN 
+		MOV		R0, #5
+		BL		NEGATE
+		END
+
+	NEGATE
+		MOVS	R0, #-2
+		RSB		R0, R0, #0		; reverse substract, r0 = 0-r0
+   
