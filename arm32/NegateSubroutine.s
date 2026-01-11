@@ -4,12 +4,12 @@
 ; by jim-bug // :)
 
 
-	MAIN 
+MAIN
 		MOV		R0, #5
 		BL		NEGATE
 		END
-
-	NEGATE
-		MOVS	R0, #-2
+		
+NEGATE
 		RSB		R0, R0, #0		; reverse substract, r0 = 0-r0
+		MOV		PC, LR
    
