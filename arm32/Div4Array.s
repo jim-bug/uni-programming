@@ -22,7 +22,7 @@ LOOP
 		STR		R3, [R0, R2, LSL #2] ; riscrivo l'elemento nell'array
 		
 		ADD		R2, R2, #1           ; incremento l'indice
-		B		LOOP                   ; torno all'inizio del ciclo
+		B		LOOP                 ; torno all'inizio del ciclo
 		
 END_LOOP
 		MOV		PC, LR
