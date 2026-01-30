@@ -5,7 +5,7 @@
 
 START
 					ldr		r0,=ARRAY
-					mov		r1,#4
+					mov		r1, #4
 					mov		r2, #0      ; valore sostitutivo
 					bl		COUNT_AND_SUBSTITUTE
 					end
