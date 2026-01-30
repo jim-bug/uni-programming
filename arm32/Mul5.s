@@ -5,9 +5,10 @@
 
 
 MAIN
-		MOV		R0, #10
-		BL		MOL
-		END
+        MOV     R0, #10
+        BL      MOL
+        END
+        
 MOL
-		ADD		R0, R0, R0, LSL #2  ; x * 5 => x * 4 + x, x * 4 lo calcolo facendo uno shift di 2 a sinistra
-		MOV		PC, LR
+        ADD     R0, R0, R0, LSL #2       ; x * 5 => x * 4 + x, x * 4 lo calcolo facendo uno shift di 2 a sinistra
+        MOV     PC, LR

@@ -4,12 +4,13 @@
 ;		by jim-bug // :)
 		
 MAIN
-		MOV		R0, #111
-		MOV		R1, #10
-		BL		MIN
-		END
+        MOV     R0, #111
+        MOV     R1, #10
+        BL      MIN
+        END
+        
 MIN
-		CMP		R0, R1
-		MOVGT	R0, R1
-		MOV		PC, LR
+        CMP     R0, R1
+        MOVGT   R0, R1
+        MOV     PC, LR
 		

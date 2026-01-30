@@ -4,37 +4,37 @@
 ;		by jim-bug // :)
 
 START
-					ldr		r0,=ARRAY
-					mov		r1, #4
-					mov		r2, #0      ; valore sostitutivo
-					bl		COUNT_AND_SUBSTITUTE
-					end
+					LDR		R0, =ARRAY
+					MOV		R1, #4
+					MOV		R2, #0               ; valore sostitutivo
+					BL		COUNT_AND_SUBSTITUTE
+					END
 					
 COUNT_AND_SUBSTITUTE
 					
-					mov		r3, #0      ; contatore numeri negativi
-					mov		r4, #0      ; contatore ciclo
+					MOV		R3, #0               ; contatore numeri negativi
+					MOV		R4, #0               ; contatore ciclo
 					
 LOOP
-					cmp		r4, r1      ; r4 >= r1 ?
-					bge		END_LOOP
+					CMP		R4, R1               ; R4 >= R1 ?
+					BGE		END_LOOP
 					
-					ldr		r5, [r0, r4, lsl #2]
-					cmp		r5, #0
-					blt		NEGATIVE_NUMBER
+					LDR		R5, [R0, R4, LSL #2]
+					CMP		R5, #0
+					BLT		NEGATIVE_NUMBER
 					
-					b		NEXT         ; salto l'incremento del contatore (dei numeri negativi) se array[r4] è positivo
+					B		NEXT                 ; salto l'incremento del contatore (dei numeri negativi) se array[R4] è positivo
 					
 NEGATIVE_NUMBER
-					add		r3, r3, #1
-					str		r2, [r0, r4, lsl #2]
+					ADD		R3, R3, #1
+					STR		R2, [R0, R4, LSL #2]
 					
 NEXT
-					add		r4, r4, #1
-					b		LOOP
+					ADD		R4, R4, #1
+					B		LOOP
 					
 END_LOOP
-					mov		r0, r3      
-					mov		pc, LR
+					MOV		R0, R3      
+					MOV		PC, LR
 					
-ARRAY				dcd		4,-3,-2,1
+ARRAY				DCD		4, -3, -2, 1

@@ -5,11 +5,11 @@
 
 
 MAIN
-		MOV		R0, #5
-		BL		NEGATE
-		END
-		
+        MOV     R0, #5
+        BL      NEGATE
+        END
+        
 NEGATE
-		RSB		R0, R0, #0		; reverse substract, r0 = 0-r0
-		MOV		PC, LR
+        RSB     R0, R0, #0               ; reverse subtract, R0 = 0 - R0
+        MOV     PC, LR
    
