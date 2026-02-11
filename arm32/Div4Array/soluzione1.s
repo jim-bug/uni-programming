@@ -14,15 +14,15 @@ DIV_ARRAY
         MOV     R2, #0                   ; indice i = 0
         
 LOOP
-        CMP     R2, R1                   ; r2 >= r1 ?
+        CMP     R2, R1                   ; R2 >= R1 ?
         BGE     END_LOOP
         
-        LDR     R3, [R0, R2, LSL #2]     ; leggo l'elemento dell'array, array[r2]
-        LSR     R3, R3, #2               ; divido per 4 (Logical Shift Right)
-        STR     R3, [R0, R2, LSL #2]     ; riscrivo l'elemento nell'array
+        LDR     R3, [R0, R2, LSL #2]     ; leggo elemento array[R2]
+        LSR     R3, R3, #2               ; divido per 4 (shift right di 2)
+        STR     R3, [R0, R2, LSL #2]     ; scrivo risultato nell'array
         
         ADD     R2, R2, #1               ; incremento l'indice
-        B       LOOP                     ; torno all'inizio del ciclo
+        B       LOOP
         
 END_LOOP
         MOV     PC, LR

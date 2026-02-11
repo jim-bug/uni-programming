@@ -5,10 +5,10 @@
 
 
 MAIN
-        MOV     R0, #10
-        BL      MOL
+        MOV     R0, #10                  ; valore da moltiplicare
+        BL      MUL5
         END
         
-MOL
-        ADD     R0, R0, R0, LSL #2       ; x * 5 => x * 4 + x, x * 4 lo calcolo facendo uno shift di 2 a sinistra
-        MOV     PC, LR
+MUL5
+        ADD     R0, R0, R0, LSL #2       ; x * 5 = x + (x << 2) = x + x*4
+        MOV     PC, LR                   ; restituisco risultato in R0

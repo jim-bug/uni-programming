@@ -5,11 +5,11 @@
 
 
 MAIN
-        MOV     R0, #5
+        MOV     R0, #5                   ; valore da negare
         BL      NEGATE
         END
         
 NEGATE
-        RSB     R0, R0, #0               ; reverse subtract, R0 = 0 - R0
-        MOV     PC, LR
+        RSB     R0, R0, #0               ; reverse subtract: R0 = 0 - R0
+        MOV     PC, LR                   ; restituisco valore negato in R0
    

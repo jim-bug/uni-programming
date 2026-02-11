@@ -1,7 +1,7 @@
 #!/bin/bash
 # Autore: Ignazio Leonardo Calogero Sperandeo
 # Data: 2025-12-15
-# eseguiamo arm32!!!
+# eseguiamo arm32!!!, update: esiste visUAL, ma questo è più bello :)
 # by jim-bug // :)
 
 get_command(){

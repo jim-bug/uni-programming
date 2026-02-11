@@ -8,7 +8,6 @@ MAIN
         MOV     R1, #10
         BL      MIN
         END
-        
 MIN
         CMP     R0, R1
         MOVGT   R0, R1
