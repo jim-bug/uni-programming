@@ -12,6 +12,7 @@ Raccolta di esercizi di programmazione in Assembly ARM 32 della materia di Archi
 - [**NegateSubroutine**](NegateSubroutine/) - Cambia il segno di un intero usando reverse subtract (RSB)
 - [**OddArrayCounter**](OddArrayCounter/) - Conta e sostituisce i valori dispari di un array con i loro indici
 - [**SubReg**](SubReg/) - Sottrae un valore da ogni elemento di un array e conta quanti diventano negativi
+- [**CheckAndSubstitute**](CheckAndSubstitute/) - Scorre un array e conta quanti elementi sono maggiori (o minori, dipende dall'esercizio) di 15, questi elementi andranno sovrascritti con l'indice corrente.
 
 
 **Autore**: Ignazio Leonardo Calogero Sperandeo
