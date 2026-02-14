@@ -1,6 +1,6 @@
 # Esercizi Assembly ARM 32
 
-Raccolta di esercizi di programmazione in Assembly ARM 32 della materia di Architetture dei Calcolatori A.A. 25/26. Per ogni esercizio ho proposto due possibili soluzioni.
+Raccolta di esercizi di programmazione in Assembly ARM 32 della materia: Architetture dei Calcolatori A.A. 25/26. Per ogni esercizio ho proposto due possibili soluzioni.
 
 ## Elenco Esercizi
 
