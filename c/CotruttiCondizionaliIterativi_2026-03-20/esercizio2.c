@@ -11,7 +11,7 @@ int main(void) {
 	int year;
 	
 	do {
-		printf("Inserisci l'anno (a partire da 0): ");
+		printf("Inserisci l'anno (a partire da 1): ");
 		scanf("%d", &year);
 	} while (year <= 0);
 
