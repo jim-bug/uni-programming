@@ -10,14 +10,14 @@
 int main(void) {
 	char carattere;
 
-	printf("Inserisci il carattere (lettera minuscola): ");
+	printf("Inserisci il carattere: ");
 	scanf(" %c", &carattere);
 	
 	if (carattere >= 'A' && carattere <= 'Z'){
 		carattere += 32;
 	} else {
 		while (!(carattere >= 'a' && carattere <= 'z')) {
-			printf("Inserisci il carattere (lettera minuscola): ");
+			printf("Inserisci il carattere: ");
 			scanf(" %c", &carattere);
 		}
 	}
