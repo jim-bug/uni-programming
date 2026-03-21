@@ -39,33 +39,33 @@ Svolgimento degli esercizi proposti nel corso di Fondamenti di Programmazione(A.
 
 ### Costrutti Condizionali e Iterativi - 01 (2026-03-20) - Valore Assoluto, Calcolatrice, Scambio Variabili
 
-- **Link:** [Apri codice](./CotruttiCondizionaliIterativi/esercizio1.c)
+- **Link:** [Apri codice](./CotruttiCondizionaliIterativi_2026-03-20/esercizio1.c)
 - **Descrizione:** Tre sottoproblemi: (1) Calcolare il valore assoluto di un numero in input; (2) Permettere all'utente di inserire due numeri e un operatore (+, -, *, /) per stampare il risultato; (3) Scambiare il valore di due variabili intere.
 
 ### Costrutti Condizionali e Iterativi - 02 (2026-03-20) - Verifica Anno Bisestile
 
-- **Link:** [Apri codice](./CotruttiCondizionaliIterativi/esercizio2.c)
+- **Link:** [Apri codice](./CotruttiCondizionaliIterativi_2026-03-20/esercizio2.c)
 - **Descrizione:** Dato un anno in input, verificare se è bisestile. Un anno è bisestile se divisibile per 4 ma non per 100, oppure se divisibile per 400.
 
 ### Costrutti Condizionali e Iterativi - 03 (2026-03-20) - Ordinamento Tre Numeri
 
-- **Link:** [Apri codice](./CotruttiCondizionaliIterativi/esercizio3.c)
+- **Link:** [Apri codice](./CotruttiCondizionaliIterativi_2026-03-20/esercizio3.c)
 - **Descrizione:** Chiede all'utente di inserire tre numeri interi (n1, n2, n3) e li ordina in modo crescente, stampando i nuovi valori delle variabili.
 
 ### Costrutti Condizionali e Iterativi - 04 (2026-03-20) - Vocale o Consonante
 
-- **Link base:** [Apri codice](./CotruttiCondizionaliIterativi/esercizio4-1.c)
-- **Link case-insensitive:** [Apri codice](./CotruttiCondizionaliIterativi/esercizio4-2.c)
+- **Link base:** [Apri codice](./CotruttiCondizionaliIterativi_2026-03-20/esercizio4-1.c)
+- **Link case-insensitive:** [Apri codice](./CotruttiCondizionaliIterativi_2026-03-20/esercizio4-2.c)
 - **Descrizione:** Chiede all'utente di inserire un carattere minuscolo e determina se è una vocale o una consonante. La versione base accetta solo minuscole; la versione case-insensitive accetta sia maiuscole che minuscole.
 
 ### Costrutti Condizionali e Iterativi - 05 (2026-03-20) - Fattoriale
 
-- **Link:** [Apri codice](./CotruttiCondizionaliIterativi/esercizio5.c)
+- **Link:** [Apri codice](./CotruttiCondizionaliIterativi_2026-03-20/esercizio5.c)
 - **Descrizione:** Chiede all'utente di inserire un numero intero N e stampa il valore del fattoriale di N. Ricorda che 0! = 1 e il fattoriale è il prodotto di tutti i numeri compresi tra 1 e N.
 
 ### Costrutti Condizionali e Iterativi - 06 (2026-03-20) - Serie di Fibonacci
 
-- **Link:** [Apri codice](./CotruttiCondizionaliIterativi/esercizio6.c)
+- **Link:** [Apri codice](./CotruttiCondizionaliIterativi_2026-03-20/esercizio6.c)
 - **Descrizione:** Stampa i primi N numeri di Fibonacci, con N definito dall'utente. La sequenza inizia con 1 e 1, e ogni successivo valore è la somma dei due precedenti (1 1 2 3 5 8 13 21 34 55...).
 
 ## Warning
