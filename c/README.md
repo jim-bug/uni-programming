@@ -1,6 +1,6 @@
 # Esercizi di Programmazione C
 
-Svolgimento degli esercizi proposti nel corso di Fondamenti di Programmazione(A.A. 25/26). Per ogni esercitazione assegnata c'è una macroarea assegnata con corrispettiva cartella contenente gli esercizi svolti. Per ogni esercizio si propone una possibile soluzione.
+Svolgimento degli esercizi proposti nel corso di Fondamenti di Programmazione (A.A. 25/26). Per ogni esercitazione assegnata c'è una macroarea assegnata con corrispettiva cartella contenente gli esercizi svolti. Per ogni esercizio si propone una possibile soluzione.
 
 ## Convenzioni
 
@@ -75,3 +75,8 @@ Svolgimento degli esercizi proposti nel corso di Fondamenti di Programmazione(A.
 > - Le soluzioni presenti sono proposte didattiche: possono esistere implementazioni diverse ugualmente corrette.
 > - Alcuni programmi assumono input validi secondo la consegna; con input fuori specifica il comportamento potrebbe non essere significativo.
 > - In base alla macroarea dell'esercizio la soluzione è designata sugli argomenti svolti fino a quel punto nel corso.
+>
+
+**Autore:** Ignazio Leonardo Calogero Sperandeo
+
+by jimbug // :)
