@@ -68,6 +68,34 @@ Svolgimento degli esercizi proposti nel corso di Fondamenti di Programmazione (A
 - **Link:** [Apri codice](./CotruttiCondizionaliIterativi_2026-03-20/esercizio6.c)
 - **Descrizione:** Stampa i primi N numeri di Fibonacci, con N definito dall'utente. La sequenza inizia con 1 e 1, e ogni successivo valore è la somma dei due precedenti (1 1 2 3 5 8 13 21 34 55...).
 
+---
+
+### Array Monodimensionali - 01 (2026-03-27) - Ricerca di un Valore
+
+- **Link:** [Apri codice](./ArrayMonodimensionali_2026-03-27/esercizio1.c)
+- **Descrizione:** Consente di inserire una sequenza di numeri interi positivi in un array di dimensione N e permette di verificare se un valore richiesto è presente nella sequenza.
+
+### Array Monodimensionali - 02 (2026-03-27) - Shift a Sinistra
+
+- **Link base:** [Apri codice](./ArrayMonodimensionali_2026-03-27/esercizio2.c)
+- **Link variante con k:** [Apri codice](./ArrayMonodimensionali_2026-03-27/esercizio2-1.c)
+- **Descrizione:** Inserisce N numeri interi in un array e sposta tutti gli elementi di una posizione a sinistra. La variante extra permette di specificare quante posizioni k spostare a sinistra.
+
+### Array Monodimensionali - 03 (2026-03-30) - Verifica Palindromo a 5 Cifre
+
+- **Link:** [Apri codice](./ArrayMonodimensionali_2026-03-27/esercizio3.c)
+- **Descrizione:** Verifica se un numero intero a 5 cifre inserito dall'utente è palindromo, separando le cifre tramite divisione intera e operatore modulo.
+
+### Array Monodimensionali - 04 (2026-03-30) - Ricerca di Pattern in Sequenza
+
+- **Link:** [Apri codice](./ArrayMonodimensionali_2026-03-27/esercizio4.c)
+- **Descrizione:** Cerca un pattern di interi senza salti all'interno di una sequenza più lunga e restituisce l'indice di inizio (base 0) della prima occorrenza, oppure -1 se assente.
+
+### Array Monodimensionali - 05 (2026-03-30) - Numeri Primi con Setaccio di Eratostene
+
+- **Link:** [Apri codice](./ArrayMonodimensionali_2026-03-27/esercizio5.c)
+- **Descrizione:** Usa un array di 1000 elementi per trovare e stampare tutti i numeri primi tra 2 e 999 applicando il metodo del Setaccio di Eratostene.
+
 ## Warning
 
 > ⚠️ **Attenzione**
