@@ -44,9 +44,9 @@ int main(void){
 }
 
 int find_pattern(int sequence[], int pattern[], int sequence_length, int pattern_length){
-	for (int i = 0; i < sequence_length; i++){
+	for (int i = 0; i <= sequence_length - pattern_length; i++){
 		int j;
-		for (j = 0; j <= sequence_length - pattern_length; j++){
+		for (j = 0; j < pattern_length; j++){
 			if (sequence[i + j] != pattern[j]){
 				break;
 			}

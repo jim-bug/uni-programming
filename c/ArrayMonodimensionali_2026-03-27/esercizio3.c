@@ -7,8 +7,10 @@
 
 #include <stdio.h>
 
+
 void separate_digits(int[], int, int);
 int is_palindrome(int[], int);
+
 int main(void){
 	int number, len = 5;
 	int decomposed_number[len];
