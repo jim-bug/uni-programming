@@ -18,7 +18,7 @@ int main(void){
 
 	for(int i = 2; i < length; i++){
 		if(numbers[i]) {
-			printf("%d) %d\n", prime_count+1, numbers[i]);
+			printf("%d) %d\n", prime_count+1, i);
 			prime_count++;
 		}
 	}
@@ -27,8 +27,8 @@ int main(void){
 }
 
 void initialize_array(int values[], int length){
-	for (int index = 0; index < length; index++){
-		values[index] = index;
+	for (int i = 0; i < length; i++){
+		values[i] = 1;
 	}
 
 }

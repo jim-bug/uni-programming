@@ -10,8 +10,13 @@
 
 int main(void) {
 	int size, shift_amount;
-	printf("Inserisci di quanto effettuare lo shift: ");
-	scanf("%d", &shift_amount);
+
+
+	do {
+		printf("Inserisci di quanto effettuare lo shift: ");
+		scanf("%d", &shift_amount);
+	} while (shift_amount < 0);
+	
 
 	do {
 		printf("Inserisci la dimensione dell'array: ");
@@ -26,7 +31,10 @@ int main(void) {
 		scanf("%d", &array[i]);
 	}
 
-	for (int shift = 0; shift < shift_amount; shift++) {
+
+
+	shift_amount %= size;	// ottimizzazione su quanti shift fare
+	for (int shift = 0; shift < shift_amount; shift++) {		// possibile ottimizzazione: shiftare tutto in un colpo solo
 		for(int i = 0; i < (size-1); i++) {
 			int temporary = array[i];
 			array[i] = array[i+1];
@@ -34,7 +42,7 @@ int main(void) {
 		}
 	}
 
-	printf("Sequenza dopo lo shift di: %d volte", shift_amount);
+	printf("Sequenza dopo lo shift di: %d volte ", shift_amount);
 	for(int i = 0; i < size; i++){
 		printf("%d ", array[i]);
 	}
