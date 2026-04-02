@@ -104,7 +104,7 @@ Raccolta delle prove d'esame e prove in itinere proposte durante il corso di Fon
 
 ### Itinere - 01 (2025-04-15) - Conteggio di Coppie con Somma Specifica
 
-- **Link:** [Apri codice](./Esami_2026-04-01/Itinere_2025-04-15/esercizio1.c)
+- **Link:** [Apri codice](./Esami/Itinere_2025-04-15/esercizio1.c)
 - **Descrizione:** Chiede all'utente di inserire una sequenza di N numeri interi e un valore di somma target S. Conta e stampa il numero di coppie distinte tali la loro somma faccia S, considerando solo coppie distinte dal punto di vista degli indici.
 
 ## Warning
