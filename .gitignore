@@ -1,62 +1,54 @@
-# Cartella generata da Verilator
-obj_dir/
-
-# Eseguibili di simulazione
-sim_top
-sim_*
-
-# File VCD
-*.vcd
-
-*.arm
-
-# Eseguibili (ELF)
-
-# Prerequisites
-*.d
-
-# Object files
+## Eseguibili e file compilati
 *.o
-*.ko
-*.obj
+*.out
 *.elf
+*.exe
+*.app
+*.a
+*.so
+*.dylib
+*.dll
 
-# Linker output
+## File oggetti e intermedi
+*.obj
+*.ko
+*.d
+*.su
+
+## File di debug
+*.dSYM/
+*.idb
+*.pdb
+
+## Linker output
 *.ilk
 *.map
 *.exp
 
-# Precompiled Headers
+## Precompiled headers
 *.gch
 *.pch
 
-# Libraries
+## Librerie
 *.lib
-*.a
 *.la
 *.lo
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
+## Hex files
+*.hex
 *.i*86
 *.x86_64
-*.hex
 
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
+## ARM Assembly
+*.arm
 
-# Kernel Module Compile Results
+## SystemVerilog / Verilator
+obj_dir/
+sim_top
+sim_*
+*.vcd
+
+## Kernel Module Compile Results
 *.mod*
 *.cmd
 .tmp_versions/
@@ -64,3 +56,11 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+## IDE e editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
