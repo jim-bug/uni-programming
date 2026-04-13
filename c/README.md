@@ -107,6 +107,11 @@ Raccolta delle prove d'esame e prove in itinere proposte durante il corso di Fon
 - **Link:** [Apri codice](./Esami/Itinere_2025-04-15/esercizio1.c)
 - **Descrizione:** Chiede all'utente di inserire una sequenza di N numeri interi e un valore di somma target S. Conta e stampa il numero di coppie distinte tali la loro somma faccia S, considerando solo coppie distinte dal punto di vista degli indici.
 
+### Itinere - 02 (2026-04-13) - Secondo Massimo di Sequenza Distinta
+
+- **Link:** [Apri codice](./Esami/Itinere_2026-04-13/esercizio1.c)
+- **Descrizione:** Chiede all'utente di inserire una sequenza di N numeri interi distinti (N ≥ 2) e identifica il secondo massimo della sequenza.
+
 ## Warning
 
 > ⚠️ **Attenzione**
