@@ -98,6 +98,33 @@ Svolgimento degli esercizi proposti nel corso di Fondamenti di Programmazione (A
 
 ---
 
+### Matrici - 01 (2026-04-24) - Confronto tra Due Matrici
+
+- **Link:** [Apri codice](./Matrici_2026-04-24/esercizio1.c)
+- **Descrizione:** Date due matrici di interi di dimensione N×M inizializzate in-line, verifica se sono uguali oppure no e stampa a schermo l'esito del confronto.
+
+### Matrici - 02 (2026-04-24) - Conteggio e Presenza di un Valore
+
+- **Link:** [Apri codice](./Matrici_2026-04-24/esercizio2.c)
+- **Descrizione:** Data una matrice di interi N×M e un valore intero k letti da tastiera, conta quante volte k compare nella matrice tramite una funzione. Aggiunge inoltre una funzione booleana che indica se k e presente almeno una volta, riutilizzando il conteggio.
+
+### Matrici - 03 (2026-04-24) - Scambio tra Diagonali
+
+- **Link:** [Apri codice](./Matrici_2026-04-24/esercizio3.c)
+- **Descrizione:** Chiede all'utente il numero di righe n (n > 0) di una matrice quadrata di interi, ne acquisisce i valori e scambia tra loro gli elementi della diagonale principale e della diagonale secondaria.
+
+### Matrici - 04 (2026-04-24) - Verifica Vittoria al Tris
+
+- **Link:** [Apri codice](./Matrici_2026-04-24/esercizio4.c)
+- **Descrizione:** Implementa una funzione che, data una griglia 3×3 di Tris e un giocatore ('X' o 'O'), restituisce un booleano che indica se il giocatore ha vinto. Il programma legge la griglia da tastiera e determina l'esito della partita.
+
+### Matrici - 05 (2026-04-24) - Matrice a Spirale Oraria
+
+- **Link:** [Apri codice](./Matrici_2026-04-24/esercizio5.c)
+- **Descrizione:** Dato un intero positivo n, genera una matrice quadrata n×n contenente i numeri da 1 a n^2 disposti in ordine crescente a spirale in senso orario, con riempimento a partire dalla cella in alto a sinistra.
+
+---
+
 ## Esami
 
 Raccolta delle prove d'esame e prove in itinere proposte durante il corso di Fondamenti di Programmazione (A.A. 25/26). Sono presenti anche svolgimenti di esami passati.
