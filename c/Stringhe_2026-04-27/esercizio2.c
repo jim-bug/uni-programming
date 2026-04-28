@@ -15,7 +15,7 @@
 int count_chars(char[], char, char);
 
 int main(void){
-	int upper_letters, lower_letters, digits;
+	int upper_letters, lower_letters, digits, others;
 	char str1[MAX_LEN + 1];
 
 	printf("Inserisci la prima stringa: ");
@@ -24,8 +24,9 @@ int main(void){
 	upper_letters = count_chars(str1, 'A', 'Z');
 	lower_letters = count_chars(str1, 'a', 'z');
 	digits = count_chars(str1, '0', '9');
+	others = (int)strlen(str1) - upper_letters - lower_letters - digits;
 
-	printf("Nella stringa %s sono presenti:\n\t1) Lettere Maiuscole: %d\n\t2) Lettere Minuscole: %d\n\t3) Cifre: %d\n\t4) Resto: %d\n", str1, upper_letters, lower_letters, digits, (int)strlen(str1) - upper_letters - lower_letters - digits);
+	printf("Nella stringa %s sono presenti:\n\t1) Lettere Maiuscole: %d\n\t2) Lettere Minuscole: %d\n\t3) Cifre: %d\n\t4) Resto: %d\n", str1, upper_letters, lower_letters, digits, others);
 
 	return 0;
 }
