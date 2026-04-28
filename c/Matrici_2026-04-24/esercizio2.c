@@ -52,6 +52,6 @@ int is_present(int matrix[][M], int n, int m, int k){
 			return 1;
 		}
 	}
-
+	
 	return 0;
 }

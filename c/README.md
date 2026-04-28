@@ -125,6 +125,19 @@ Svolgimento degli esercizi proposti nel corso di Fondamenti di Programmazione (A
 
 ---
 
+### Stringhe - 01 (2026-04-27) - Copia, Concatenazione e Confronto di Stringhe
+
+- **Link senza string.h:** [Apri codice](./Stringhe_2026-04-27/esercizio1-1.c)
+- **Link con string.h:** [Apri codice](./Stringhe_2026-04-27/esercizio1-2.c)
+- **Descrizione:** Implementa, in due versioni, le funzioni per copiare una stringa in un'altra, concatenare due stringhe e confrontarle in ordine alfabetico. La prima versione usa funzioni definite manualmente, la seconda utilizza le funzioni di `string.h`.
+
+### Stringhe - 02 (2026-04-27) - Conteggio di Caratteri in una Stringa
+
+- **Link:** [Apri codice](./Stringhe_2026-04-27/esercizio2.c)
+- **Descrizione:** Chiede all'utente di inserire una stringa di dimensione massima 100 e conta il numero di lettere maiuscole, lettere minuscole, cifre e altri caratteri presenti.
+
+---
+
 ## Esami
 
 Raccolta delle prove d'esame e prove in itinere proposte durante il corso di Fondamenti di Programmazione (A.A. 25/26). Sono presenti anche svolgimenti di esami passati.
