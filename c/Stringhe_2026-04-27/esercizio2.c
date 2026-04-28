@@ -18,7 +18,7 @@ int main(void){
 	int upper_letters, lower_letters, digits, others;
 	char str1[MAX_LEN + 1];
 
-	printf("Inserisci la prima stringa: ");
+	printf("Inserisci la stringa: ");
 	scanf("%100[^\n]", str1);
 
 	upper_letters = count_chars(str1, 'A', 'Z');
