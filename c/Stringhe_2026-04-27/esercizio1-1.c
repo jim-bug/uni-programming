@@ -59,7 +59,7 @@ void string_concat(char destination[], char source[]){
 	int dest_len = string_length(destination);
 	int src_len = string_length(source);
 
-    if (dest_len + src_len > MAX_LEN+1) return;
+    if (dest_len + src_len > MAX_LEN) return;
 
 	for (int i = 0; i < src_len; i++){
 		destination[dest_len + i] = source[i];
