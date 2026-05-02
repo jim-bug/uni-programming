@@ -17,7 +17,7 @@ void password_generator(char[], int);
 
 int main(void){
 	srand(time(NULL));
-	
+
 	char password[MAX_LEN + 1];
 	int len;
 
@@ -28,11 +28,7 @@ int main(void){
 
 
 	password_generator(password, len);
-	printf("Password generata: ");
-	for (int i = 0; i < len; i++){
-		printf("%c", password[i]);
-	}
-	printf("\n");
+	printf("Password generata: %s\n", password);
 
 
 	return 0;
@@ -46,4 +42,6 @@ void password_generator(char pass[], int len){
 		int index = rand() % len_all;
 		pass[i] = ALL[index];
 	}
+
+	pass[len] = '\0';
 }

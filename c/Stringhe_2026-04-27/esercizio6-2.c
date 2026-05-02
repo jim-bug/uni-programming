@@ -35,13 +35,9 @@ int main(void){
 		scanf("%d", &n);
 	} while (n <= 0);
 
-    for (int k = 0; k < n; k++){    // inserito solo per scopo di test
+    for (int i = 0; i < n; i++){    // inserito solo per scopo di test
         password_generator(password, len);
-        printf("%d) Password generata: ", k + 1);
-        for (int i = 0; i < len; i++){
-            printf("%c", password[i]);
-        }
-        printf(" esito validazione password: %d\n", valida_password(password, len));
+        printf("%d) Password generata: %s esito validazione password: %sVALIDA\n", i + 1, password, valida_password(password, len) ? "" : "NON ");
     }
 
 	return 0;
