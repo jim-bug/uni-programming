@@ -136,6 +136,33 @@ Svolgimento degli esercizi proposti nel corso di Fondamenti di Programmazione (A
 - **Link:** [Apri codice](./Stringhe_2026-04-27/esercizio2.c)
 - **Descrizione:** Chiede all'utente di inserire una stringa di dimensione massima 100 e conta il numero di lettere maiuscole, lettere minuscole, cifre e altri caratteri presenti.
 
+### Stringhe - 03 (2026-04-29) - Palindromi
+
+- **Link:** [Apri codice](./Stringhe_2026-04-27/esercizio3.c)
+- **Descrizione:** Scrive una funzione che riceve una stringa e restituisce 1 se è palindroma, 0 altrimenti, ignorando gli spazi ma mantenendo il confronto case-sensitive. Il programma legge una stringa di lunghezza massima 100 caratteri e ne verifica la natura palindroma.
+
+### Stringhe - 04 (2026-04-29) - Validazione Password
+
+- **Link:** [Apri codice](./Stringhe_2026-04-27/esercizio4.c)
+- **Descrizione:** Implementa la funzione `valida_password` che controlla lunghezza minima di 8 caratteri, presenza di almeno una maiuscola, una minuscola, una cifra e un carattere speciale tra `! @ # $ % ^ & *`. Il programma legge una stringa di lunghezza massima 50 caratteri e stampa se la password è valida.
+
+### Stringhe - 05 (2026-04-29) - Tombola
+
+- **Link base:** [Apri codice](./Stringhe_2026-04-27/esercizio5-1.c)
+- **Link ottimizzato:** [Apri codice](./Stringhe_2026-04-27/esercizio5-2.c)
+- **Descrizione:** Definisce una funzione `tombola` che genera una sequenza casuale senza ripetizioni e conta quante volte viene chiamata `rand`. La versione ottimizzata riduce al minimo le chiamate a `rand` ed è pensata per test anche con quantità di numeri molto superiori, ad esempio 50.000.
+
+### Stringhe - 06 (2026-04-29) - Generazione Password Casuale
+
+- **Link base:** [Apri codice](./Stringhe_2026-04-27/esercizio6-1.c)
+- **Link con validazione:** [Apri codice](./Stringhe_2026-04-27/esercizio6-2.c)
+- **Descrizione:** Genera una password casuale di lunghezza scelta dall'utente tra 8 e 50 caratteri, usando maiuscole, minuscole, cifre e i caratteri speciali dell'esercizio precedente. La versione con validazione garantisce anche che la password superi il controllo della funzione `valida_password`.
+
+### Stringhe - 07 (2026-04-29) - Anagrammi
+
+- **Link:** [Apri codice](./Stringhe_2026-04-27/esercizio7.c)
+- **Descrizione:** Verifica se due stringhe inserite dall'utente sono anagrammi, considerando solo lettere minuscole e ignorando gli spazi nel confronto.
+
 ---
 
 ## Esami
