@@ -11,6 +11,7 @@ int conta_positivi(int*, size_t);
 
 int main (void){
 	size_t n;
+	
 	do {
 		printf("Inserisci la lunghezza della sequenza (> 0): ");
 		scanf("%lu", &n);
