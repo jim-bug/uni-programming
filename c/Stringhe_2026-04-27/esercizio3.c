@@ -18,7 +18,7 @@ int main(void){
 	scanf("%100[^\n]", str1);
 
 
-	printf("La stringa %s %s palindromo\n", palindrome(str1) ? "è" : "non è");
+	printf("La stringa %s palindromo\n", palindrome(str1) ? "è" : "non è");
 
 	return 0;
 }
