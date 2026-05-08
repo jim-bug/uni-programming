@@ -34,9 +34,9 @@ int valida_password (const char pass[]){
 
 	for (int i = 0;i < len; i++){			// metodo alternativo: usare strpbrk()
 		if (isdigit(pass[i])) digit = 1;
-		if (islower(pass[i])) lower = 1;
-		if (isupper(pass[i])) upper = 1;
-		if (search(pass[i], SPECIALS)) special = 1;
+		else if (islower(pass[i])) lower = 1;
+		else if (isupper(pass[i])) upper = 1;
+		else if (search(pass[i], SPECIALS)) special = 1;
 	}
 
 	return (len >= 8 && lower && special && upper && digit) ? 1 : 0;
