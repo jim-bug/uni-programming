@@ -19,6 +19,7 @@ int main (void){
 	
 	printf("Inserisci la stringa: ");
 	scanf("%100[^\n]", str);
+	
 	printf("Inserisci l'elemento da cercare: ");
 	scanf(" %c", &k);
 

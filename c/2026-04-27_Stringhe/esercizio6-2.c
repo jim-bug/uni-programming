@@ -17,7 +17,7 @@
 void password_generator(char[], int);
 void shuffle(char[], int);                   // dall'esercizio5-2 (adattata)
 int valida_password(const char[], int);      // dall'esercizio 4  (adattata)
-int search(const char[], char, int);         // dall'esercizio 4  (adattata)
+int search(const char[], char);         // dall'esercizio 4  (adattata)
 
 int main(void){
 	srand(time(NULL));
@@ -80,23 +80,21 @@ void shuffle(char str[], int len){
 }
 
 int valida_password (const char pass[], int len){
-//	int len = strlen(pass);
 	const char SPECIALS[] = "!@#$%^&*";
-    int len_specials = strlen(SPECIALS);
 	int upper = 0, lower = 0, digit = 0, special = 0;
 
 	for (int i = 0;i < len; i++){
 		if (isdigit(pass[i])) digit = 1;
-		if (islower(pass[i])) lower = 1;
-		if (isupper(pass[i])) upper = 1;
-		if (search(SPECIALS, pass[i], len_specials)) special = 1;
+		else if (islower(pass[i])) lower = 1;
+		else if (isupper(pass[i])) upper = 1;
+		else if (search(SPECIALS, pass[i])) special = 1;
 	}
 
 	return (len >= 8 && lower && special && upper && digit) ? 1 : 0;
 }
 
-int search(const char sequence[], char k, int len) {
-//	int len = strlen(sequence);
+int search(const char sequence[], char k) {
+	int len = strlen(sequence);
 
 	for (int i = 0; i < len; i++) {
 		if (k == sequence[i]) return 1;

@@ -15,7 +15,6 @@
 int my_atoi(const char[]);
 
 int main (void){
-
 	char str[MAX_LEN + 1];
 	
 	printf("Inserisci la stringa: ");
@@ -27,16 +26,27 @@ int main (void){
 
 }
 
-int my_atoi(const char str[]){
-	double number = 0;
-	int len = strlen(str);
+int my_atoi(const char str[]) {
+    int i = 0;
+    int sign = 1;
+    int number = 0;
 
-	for (int i = len-1; i >= 0; i --){
-		if (isdigit(str[i])){
-			number += (str[i] - '0') * pow(10.0, (double) len - 1 - i);
-		}
-	}
+    while (isspace((unsigned char)str[i])) {	// ignoro spazi iniziali
+        i++;
+    }
 
-	if (str[0] == '-') return - (int) number;
-	return (int) number;
+    if (str[i] == '-' || str[i] == '+') {		// gestisco eventuale segno
+        if (str[i] == '-') {
+            sign = -1;
+        }
+        i++;
+    }
+
+    while (isdigit((unsigned char)str[i])) {	// converto i caratteri numerici in intero
+        number = number * 10 + (str[i] - '0');
+        i++;
+    }
+
+    return sign * number;
 }
+

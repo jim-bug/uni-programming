@@ -32,7 +32,7 @@ int main(void){
 int tombola(int arr[], int len){
 	int count = 0;
 	for (int i = 0; i < len; ){
-		int temp = rand() % (len + 1);
+		int temp = 1 + rand() % (len);
 		if (!search(arr, temp, i)){
 			arr[i] = temp;
 			i ++;

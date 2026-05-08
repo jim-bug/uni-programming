@@ -23,7 +23,7 @@ int main(void){
     scanf(" %100[^\n]", str2);
     
     
-    printf("Le stringhe %s e %s %ssono anagrammi\n",str1, str2, verify(str1, str2) ? "" : "non ");
+    printf("Le stringhe %s e %s %ssono anagrammi\n", str1, str2, verify(str1, str2) ? "" : "non ");
     
     return 0;
 }
