@@ -9,7 +9,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define LEN 50000
+#define LEN 1000000
 
 
 int shuffle(int[], int);

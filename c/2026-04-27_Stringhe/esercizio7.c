@@ -36,13 +36,11 @@ int verify(const char str1[], const char str2[]){
     int supp[ALPHABET_LEN] = {0};
 
     for (int i = 0;i < len_str1; i++){
-        if (str1[i] != ' ' && (str1[i] < 'a' || str1[i] > 'z')) return 0;
-        if (str1[i] != ' ') supp[str1[i] - 'a'] ++;
+        if (str1[i] >= 'a' && str1[i] <= 'z') supp[str1[i] - 'a'] ++;
     }
 
     for (int i = 0; i < len_str2; i++){
-        if (str2[i] != ' ' && (str2[i] < 'a' || str2[i] > 'z')) return 0;
-        if (str2[i] != ' ') supp[str2[i] - 'a'] --;
+		if (str2[i] >= 'a' && str2[i] <= 'z') supp[str2[i] - 'a'] --;
     }
 
     for (int i = 0; i < ALPHABET_LEN; i++){
