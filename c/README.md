@@ -192,6 +192,33 @@ Svolgimento degli esercizi proposti nel corso di Fondamenti di Programmazione (A
 
 ---
 
+### Ricorsione - 01 (2026-05-13) - Lunghezza di una Stringa
+
+- **Link:** [Apri codice](./2026-05-13-Ricorsione/esercizio1.c)
+- **Descrizione:** Definisce una funzione ricorsiva in C che restituisce la lunghezza di una stringa data.
+
+### Ricorsione - 02 (2026-05-13) - Ricerca Lineare
+
+- **Link:** [Apri codice](./2026-05-13-Ricorsione/esercizio2.c)
+- **Descrizione:** Definisce una funzione ricorsiva `linear_search` per effettuare la ricerca lineare di un elemento all'interno di un array.
+
+### Ricorsione - 03 (2026-05-13) - Ricerca Binaria
+
+- **Link:** [Apri codice](./2026-05-13-Ricorsione/esercizio3.c)
+- **Descrizione:** Definisce una funzione ricorsiva `binary_search` per la ricerca binaria di un elemento in un array. Il prototipo richiesto è `int binary_search(int key, int array[], int low, int high);`. La funzione gestisce due casi base per terminare la ricerca e due casi ricorsivi per proseguirla.
+
+### Ricorsione - 04 (2026-05-13) - Somma dei Pari Maggiori di k
+
+- **Link:** [Apri codice](./2026-05-13-Ricorsione/esercizio4.c)
+- **Descrizione:** Definisce una funzione ricorsiva in C che, ricevendo in input due numeri interi n e k, calcola la somma dei primi n numeri pari che siano maggiori di k.
+
+### Ricorsione - 05 (2026-05-13) - Massimo in Array di Float
+
+- **Link:** [Apri codice](./2026-05-13-Ricorsione/esercizio5.c)
+- **Descrizione:** Definisce una funzione ricorsiva in C che restituisce il valore massimo contenuto in un array di float.
+
+---
+
 ## Esami
 
 Raccolta delle prove d'esame e prove in itinere proposte durante il corso di Fondamenti di Programmazione (A.A. 25/26). Sono presenti anche svolgimenti di esami passati.
