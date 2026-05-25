@@ -24,6 +24,11 @@ int main(void) {
 
 	int *matrix = malloc(rows * cols * sizeof(int));
 
+	if (matrix == NULL){
+		printf("Impossibile allocare la memoria\n");
+		return -1;
+	}
+
 	for (size_t i = 0; i < rows; i++) {
 		for (size_t j = 0; j < cols; j++) {
 			printf("Inserisci l'elemento alla posizione [%zu, %zu]: ", i, j);

@@ -1,0 +1,500 @@
+Pietanza001|Antipasto|10.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza002|Primo|11.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza003|Secondo|12.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza004|Contorno|13.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza005|Dolce|14.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza006|Antipasto|15.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza007|Primo|16.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza008|Secondo|17.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza009|Contorno|18.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza010|Dolce|19.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza011|Antipasto|20.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza012|Primo|21.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza013|Secondo|22.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza014|Contorno|23.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza015|Dolce|24.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza016|Antipasto|25.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza017|Primo|26.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza018|Secondo|27.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza019|Contorno|28.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza020|Dolce|29.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza021|Antipasto|30.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza022|Primo|31.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza023|Secondo|32.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza024|Contorno|33.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza025|Dolce|34.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza026|Antipasto|35.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza027|Primo|36.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza028|Secondo|37.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza029|Contorno|38.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza030|Dolce|39.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza031|Antipasto|40.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza032|Primo|41.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza033|Secondo|42.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza034|Contorno|43.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza035|Dolce|44.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza036|Antipasto|45.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza037|Primo|46.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza038|Secondo|47.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza039|Contorno|48.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza040|Dolce|49.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza041|Antipasto|50.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza042|Primo|51.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza043|Secondo|52.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza044|Contorno|53.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza045|Dolce|54.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza046|Antipasto|55.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza047|Primo|56.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza048|Secondo|57.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza049|Contorno|58.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza050|Dolce|59.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza051|Antipasto|60.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza052|Primo|61.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza053|Secondo|62.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza054|Contorno|63.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza055|Dolce|64.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza056|Antipasto|65.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza057|Primo|66.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza058|Secondo|67.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza059|Contorno|68.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza060|Dolce|69.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza061|Antipasto|10.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza062|Primo|11.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza063|Secondo|12.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza064|Contorno|13.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza065|Dolce|14.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza066|Antipasto|15.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza067|Primo|16.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza068|Secondo|17.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza069|Contorno|18.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza070|Dolce|19.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza071|Antipasto|20.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza072|Primo|21.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza073|Secondo|22.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza074|Contorno|23.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza075|Dolce|24.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza076|Antipasto|25.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza077|Primo|26.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza078|Secondo|27.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza079|Contorno|28.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza080|Dolce|29.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza081|Antipasto|30.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza082|Primo|31.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza083|Secondo|32.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza084|Contorno|33.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza085|Dolce|34.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza086|Antipasto|35.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza087|Primo|36.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza088|Secondo|37.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza089|Contorno|38.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza090|Dolce|39.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza091|Antipasto|40.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza092|Primo|41.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza093|Secondo|42.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza094|Contorno|43.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza095|Dolce|44.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza096|Antipasto|45.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza097|Primo|46.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza098|Secondo|47.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza099|Contorno|48.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza100|Dolce|49.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza101|Antipasto|50.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza102|Primo|51.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza103|Secondo|52.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza104|Contorno|53.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza105|Dolce|54.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza106|Antipasto|55.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza107|Primo|56.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza108|Secondo|57.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza109|Contorno|58.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza110|Dolce|59.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza111|Antipasto|60.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza112|Primo|61.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza113|Secondo|62.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza114|Contorno|63.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza115|Dolce|64.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza116|Antipasto|65.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza117|Primo|66.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza118|Secondo|67.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza119|Contorno|68.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza120|Dolce|69.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza121|Antipasto|10.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza122|Primo|11.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza123|Secondo|12.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza124|Contorno|13.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza125|Dolce|14.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza126|Antipasto|15.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza127|Primo|16.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza128|Secondo|17.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza129|Contorno|18.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza130|Dolce|19.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza131|Antipasto|20.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza132|Primo|21.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza133|Secondo|22.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza134|Contorno|23.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza135|Dolce|24.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza136|Antipasto|25.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza137|Primo|26.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza138|Secondo|27.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza139|Contorno|28.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza140|Dolce|29.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza141|Antipasto|30.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza142|Primo|31.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza143|Secondo|32.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza144|Contorno|33.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza145|Dolce|34.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza146|Antipasto|35.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza147|Primo|36.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza148|Secondo|37.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza149|Contorno|38.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza150|Dolce|39.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza151|Antipasto|40.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza152|Primo|41.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza153|Secondo|42.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza154|Contorno|43.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza155|Dolce|44.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza156|Antipasto|45.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza157|Primo|46.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza158|Secondo|47.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza159|Contorno|48.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza160|Dolce|49.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza161|Antipasto|50.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza162|Primo|51.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza163|Secondo|52.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza164|Contorno|53.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza165|Dolce|54.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza166|Antipasto|55.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza167|Primo|56.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza168|Secondo|57.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza169|Contorno|58.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza170|Dolce|59.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza171|Antipasto|60.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza172|Primo|61.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza173|Secondo|62.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza174|Contorno|63.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza175|Dolce|64.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza176|Antipasto|65.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza177|Primo|66.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza178|Secondo|67.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza179|Contorno|68.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza180|Dolce|69.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza181|Antipasto|10.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza182|Primo|11.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza183|Secondo|12.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza184|Contorno|13.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza185|Dolce|14.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza186|Antipasto|15.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza187|Primo|16.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza188|Secondo|17.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza189|Contorno|18.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza190|Dolce|19.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza191|Antipasto|20.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza192|Primo|21.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza193|Secondo|22.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza194|Contorno|23.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza195|Dolce|24.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza196|Antipasto|25.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza197|Primo|26.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza198|Secondo|27.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza199|Contorno|28.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza200|Dolce|29.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza201|Antipasto|30.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza202|Primo|31.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza203|Secondo|32.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza204|Contorno|33.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza205|Dolce|34.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza206|Antipasto|35.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza207|Primo|36.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza208|Secondo|37.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza209|Contorno|38.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza210|Dolce|39.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza211|Antipasto|40.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza212|Primo|41.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza213|Secondo|42.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza214|Contorno|43.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza215|Dolce|44.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza216|Antipasto|45.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza217|Primo|46.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza218|Secondo|47.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza219|Contorno|48.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza220|Dolce|49.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza221|Antipasto|50.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza222|Primo|51.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza223|Secondo|52.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza224|Contorno|53.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza225|Dolce|54.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza226|Antipasto|55.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza227|Primo|56.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza228|Secondo|57.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza229|Contorno|58.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza230|Dolce|59.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza231|Antipasto|60.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza232|Primo|61.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza233|Secondo|62.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza234|Contorno|63.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza235|Dolce|64.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza236|Antipasto|65.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza237|Primo|66.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza238|Secondo|67.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza239|Contorno|68.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza240|Dolce|69.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza241|Antipasto|10.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza242|Primo|11.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza243|Secondo|12.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza244|Contorno|13.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza245|Dolce|14.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza246|Antipasto|15.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza247|Primo|16.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza248|Secondo|17.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza249|Contorno|18.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza250|Dolce|19.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza251|Antipasto|20.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza252|Primo|21.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza253|Secondo|22.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza254|Contorno|23.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza255|Dolce|24.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza256|Antipasto|25.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza257|Primo|26.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza258|Secondo|27.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza259|Contorno|28.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza260|Dolce|29.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza261|Antipasto|30.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza262|Primo|31.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza263|Secondo|32.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza264|Contorno|33.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza265|Dolce|34.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza266|Antipasto|35.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza267|Primo|36.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza268|Secondo|37.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza269|Contorno|38.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza270|Dolce|39.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza271|Antipasto|40.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza272|Primo|41.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza273|Secondo|42.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza274|Contorno|43.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza275|Dolce|44.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza276|Antipasto|45.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza277|Primo|46.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza278|Secondo|47.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza279|Contorno|48.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza280|Dolce|49.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza281|Antipasto|50.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza282|Primo|51.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza283|Secondo|52.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza284|Contorno|53.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza285|Dolce|54.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza286|Antipasto|55.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza287|Primo|56.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza288|Secondo|57.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza289|Contorno|58.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza290|Dolce|59.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza291|Antipasto|60.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza292|Primo|61.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza293|Secondo|62.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza294|Contorno|63.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza295|Dolce|64.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza296|Antipasto|65.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza297|Primo|66.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza298|Secondo|67.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza299|Contorno|68.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza300|Dolce|69.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza301|Antipasto|10.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza302|Primo|11.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza303|Secondo|12.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza304|Contorno|13.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza305|Dolce|14.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza306|Antipasto|15.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza307|Primo|16.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza308|Secondo|17.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza309|Contorno|18.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza310|Dolce|19.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza311|Antipasto|20.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza312|Primo|21.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza313|Secondo|22.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza314|Contorno|23.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza315|Dolce|24.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza316|Antipasto|25.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza317|Primo|26.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza318|Secondo|27.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza319|Contorno|28.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza320|Dolce|29.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza321|Antipasto|30.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza322|Primo|31.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza323|Secondo|32.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza324|Contorno|33.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza325|Dolce|34.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza326|Antipasto|35.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza327|Primo|36.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza328|Secondo|37.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza329|Contorno|38.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza330|Dolce|39.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza331|Antipasto|40.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza332|Primo|41.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza333|Secondo|42.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza334|Contorno|43.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza335|Dolce|44.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza336|Antipasto|45.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza337|Primo|46.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza338|Secondo|47.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza339|Contorno|48.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza340|Dolce|49.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza341|Antipasto|50.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza342|Primo|51.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza343|Secondo|52.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza344|Contorno|53.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza345|Dolce|54.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza346|Antipasto|55.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza347|Primo|56.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza348|Secondo|57.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza349|Contorno|58.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza350|Dolce|59.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza351|Antipasto|60.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza352|Primo|61.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza353|Secondo|62.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza354|Contorno|63.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza355|Dolce|64.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza356|Antipasto|65.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza357|Primo|66.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza358|Secondo|67.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza359|Contorno|68.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza360|Dolce|69.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza361|Antipasto|10.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza362|Primo|11.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza363|Secondo|12.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza364|Contorno|13.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza365|Dolce|14.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza366|Antipasto|15.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza367|Primo|16.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza368|Secondo|17.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza369|Contorno|18.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza370|Dolce|19.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza371|Antipasto|20.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza372|Primo|21.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza373|Secondo|22.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza374|Contorno|23.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza375|Dolce|24.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza376|Antipasto|25.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza377|Primo|26.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza378|Secondo|27.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza379|Contorno|28.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza380|Dolce|29.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza381|Antipasto|30.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza382|Primo|31.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza383|Secondo|32.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza384|Contorno|33.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza385|Dolce|34.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza386|Antipasto|35.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza387|Primo|36.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza388|Secondo|37.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza389|Contorno|38.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza390|Dolce|39.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza391|Antipasto|40.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza392|Primo|41.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza393|Secondo|42.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza394|Contorno|43.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza395|Dolce|44.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza396|Antipasto|45.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza397|Primo|46.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza398|Secondo|47.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza399|Contorno|48.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza400|Dolce|49.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza401|Antipasto|50.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza402|Primo|51.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza403|Secondo|52.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza404|Contorno|53.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza405|Dolce|54.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza406|Antipasto|55.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza407|Primo|56.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza408|Secondo|57.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza409|Contorno|58.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza410|Dolce|59.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza411|Antipasto|60.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza412|Primo|61.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza413|Secondo|62.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza414|Contorno|63.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza415|Dolce|64.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza416|Antipasto|65.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza417|Primo|66.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza418|Secondo|67.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza419|Contorno|68.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza420|Dolce|69.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza421|Antipasto|10.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza422|Primo|11.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza423|Secondo|12.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza424|Contorno|13.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza425|Dolce|14.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza426|Antipasto|15.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza427|Primo|16.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza428|Secondo|17.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza429|Contorno|18.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza430|Dolce|19.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza431|Antipasto|20.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza432|Primo|21.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza433|Secondo|22.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza434|Contorno|23.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza435|Dolce|24.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza436|Antipasto|25.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza437|Primo|26.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza438|Secondo|27.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza439|Contorno|28.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza440|Dolce|29.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza441|Antipasto|30.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza442|Primo|31.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza443|Secondo|32.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza444|Contorno|33.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza445|Dolce|34.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza446|Antipasto|35.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza447|Primo|36.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza448|Secondo|37.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza449|Contorno|38.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza450|Dolce|39.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza451|Antipasto|40.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza452|Primo|41.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza453|Secondo|42.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza454|Contorno|43.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza455|Dolce|44.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza456|Antipasto|45.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza457|Primo|46.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza458|Secondo|47.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza459|Contorno|48.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza460|Dolce|49.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza461|Antipasto|50.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza462|Primo|51.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza463|Secondo|52.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza464|Contorno|53.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza465|Dolce|54.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza466|Antipasto|55.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza467|Primo|56.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza468|Secondo|57.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza469|Contorno|58.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza470|Dolce|59.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza471|Antipasto|60.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza472|Primo|61.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza473|Secondo|62.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza474|Contorno|63.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza475|Dolce|64.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza476|Antipasto|65.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza477|Primo|66.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza478|Secondo|67.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza479|Contorno|68.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza480|Dolce|69.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza481|Antipasto|10.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza482|Primo|11.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza483|Secondo|12.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza484|Contorno|13.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza485|Dolce|14.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0
+Pietanza486|Antipasto|15.0|3|Basilico: 60.0;Formaggio: 70.0;Burro: 80.0
+Pietanza487|Primo|16.0|4|Formaggio: 50.0;Burro: 60.0;Farina: 70.0;Uova: 80.0
+Pietanza488|Secondo|17.0|5|Burro: 55.0;Farina: 65.0;Uova: 75.0;Carne: 85.0;Pesce: 95.0
+Pietanza489|Contorno|18.0|6|Farina: 60.0;Uova: 70.0;Carne: 80.0;Pesce: 90.0;Patate: 100.0;Zucchine: 110.0
+Pietanza490|Dolce|19.0|7|Uova: 50.0;Carne: 60.0;Pesce: 70.0;Patate: 80.0;Zucchine: 90.0;Carote: 100.0;Pomodoro: 110.0
+Pietanza491|Antipasto|20.0|3|Carne: 55.0;Pesce: 65.0;Patate: 75.0
+Pietanza492|Primo|21.0|4|Pesce: 60.0;Patate: 70.0;Zucchine: 80.0;Carote: 90.0
+Pietanza493|Secondo|22.0|5|Patate: 50.0;Zucchine: 60.0;Carote: 70.0;Pomodoro: 80.0;Olio: 90.0
+Pietanza494|Contorno|23.0|6|Zucchine: 55.0;Carote: 65.0;Pomodoro: 75.0;Olio: 85.0;Sale: 95.0;Aglio: 105.0
+Pietanza495|Dolce|24.0|7|Carote: 60.0;Pomodoro: 70.0;Olio: 80.0;Sale: 90.0;Aglio: 100.0;Pepe: 110.0;Basilico: 120.0
+Pietanza496|Antipasto|25.0|3|Pomodoro: 50.0;Olio: 60.0;Sale: 70.0
+Pietanza497|Primo|26.0|4|Olio: 55.0;Sale: 65.0;Aglio: 75.0;Pepe: 85.0
+Pietanza498|Secondo|27.0|5|Sale: 60.0;Aglio: 70.0;Pepe: 80.0;Basilico: 90.0;Formaggio: 100.0
+Pietanza499|Contorno|28.0|6|Aglio: 50.0;Pepe: 60.0;Basilico: 70.0;Formaggio: 80.0;Burro: 90.0;Farina: 100.0
+Pietanza500|Dolce|29.0|7|Pepe: 55.0;Basilico: 65.0;Formaggio: 75.0;Burro: 85.0;Farina: 95.0;Uova: 105.0;Carne: 115.0

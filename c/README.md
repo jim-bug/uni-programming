@@ -242,6 +242,28 @@ Svolgimento degli esercizi proposti nel corso di Fondamenti di Programmazione (A
 
 ---
 
+### Strutture - 01 (2026-05-22) - Pietanza
+
+- **Link:** [Apri codice](./2026-05-22-Strutture/esercizio1.c)
+- **Descrizione:** Implementa una `struct` per rappresentare una pietanza con nome, ingredienti e dosi (g), tempo di cottura e tipo (antipasto, primo, secondo, contorno, dolce). Nel `main` acquisisce una pietanza (numero ingredienti a scelta, massimo 10) e ne stampa i dati.
+
+### Strutture - 02 (2026-05-22) - Ricettario Digitale
+
+- **Link:** [Apri codice](./2026-05-22-Strutture/esercizio2.c)
+- **Descrizione:** Gestisce un ricettario digitale (max 100 pietanze) con menu testuale: inserimento, visualizzazione ingredienti per nome, elenco per tipologia, pietanze con un ingrediente, elenco con tempo di cottura minore di una soglia ed uscita.
+
+### Strutture - 03 (2026-05-22) - Selection Sort
+
+- **Link:** [Apri codice](./2026-05-22-Strutture/esercizio3.c)
+- **Descrizione:** Ordina un array di interi con l'algoritmo selection sort, selezionando ogni volta il minimo e spostandolo nella parte ordinata.
+
+### Strutture - 04 (2026-05-22) - Ricettario su File
+
+- **Link:** [Apri codice](./2026-05-22-Strutture/esercizio4.c)
+- **Descrizione:** Estende il ricettario per leggere/scrivere da file. Il nome del file e passato da riga di comando; all'avvio carica i dati esistenti e ogni nuova pietanza viene salvata anche su file.
+
+---
+
 ## Esami
 
 Raccolta delle prove d'esame e prove in itinere proposte durante il corso di Fondamenti di Programmazione (A.A. 25/26). Sono presenti anche svolgimenti di esami passati.
