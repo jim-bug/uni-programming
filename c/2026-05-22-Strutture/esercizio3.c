@@ -21,7 +21,7 @@ int main(void){
 
 	for (int i = 0; i < n; i++){
 		printf("Inserisci l'elemento alla posizione %d: ", i + 1);
-		scanf("%d)", &arr[i]);
+		scanf("%d", &arr[i]);
 	}
 
 	printf("Sequenza di partenza: ");
