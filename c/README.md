@@ -264,6 +264,23 @@ Svolgimento degli esercizi proposti nel corso di Fondamenti di Programmazione (A
 
 ---
 
+### Strutture Dati - 01 (2026-05-25) - Lista Concatenata
+
+- **Link:** [Apri codice](./2026-05-25-StuttureDati/esercizio1.c)
+- **Descrizione:** Implementa una lista concatenata semplice di interi con menu testuale: inserimento in testa, in coda e ordinato, eliminazione per valore, ricerca sequenziale, inversione (reverse), conteggio degli elementi, stampa e caricamento di nodi da file.
+
+### Strutture Dati - 02 (2026-05-25) - Pila (Stack)
+
+- **Link:** [Apri codice](./2026-05-25-StuttureDati/esercizio2.c)
+- **Descrizione:** Implementa una pila (LIFO) basata su nodi concatenati con le operazioni `push`, `pop`, `peek`, verifica di pila vuota, stampa e liberazione della memoria.
+
+### Strutture Dati - 03 (2026-05-25) - Coda (Queue)
+
+- **Link:** [Apri codice](./2026-05-25-StuttureDati/esercizio3.c)
+- **Descrizione:** Implementa una coda (FIFO) con `struct` a due puntatori (testa e coda) per ottenere `enqueue` e `dequeue` in tempo costante, oltre alle operazioni `front`, verifica di coda vuota, stampa e liberazione della memoria.
+
+---
+
 ## Esami
 
 Raccolta delle prove d'esame e prove in itinere proposte durante il corso di Fondamenti di Programmazione (A.A. 25/26). Sono presenti anche svolgimenti di esami passati.
