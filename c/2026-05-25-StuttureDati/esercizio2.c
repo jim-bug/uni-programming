@@ -1,3 +1,10 @@
+/*
+*	Autore: Ignazio Leonardo Calogero Sperandeo
+*	Data: 2026-05-25
+*	Consegna: Rif. README.md
+*	by jimbug // :)
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
