@@ -1,0 +1,101 @@
+100
+I Promessi Sposi,Alessandro,Manzoni,800,38
+La Divina Commedia,Dante,Alighieri,900,100
+Il Fu Mattia Pascal,Luigi,Pirandello,250,18
+Uno Nessuno e Centomila,Luigi,Pirandello,180,8
+Se Questo è un Uomo,Primo,Levi,200,17
+Il Nome della Rosa,Umberto,Eco,500,7
+I Malavoglia,Giovanni,Verga,300,15
+La Coscienza di Zeno,Italo,Svevo,400,8
+Decameron,Giovanni,Boccaccio,800,100
+Il Barone Rampante,Italo,Calvino,250,30
+Il Visconte Dimezzato,Italo,Calvino,120,10
+Il Cavaliere Inesistente,Italo,Calvino,150,12
+Marcovaldo,Italo,Calvino,200,20
+Le Città Invisibili,Italo,Calvino,160,9
+L'Amica Geniale,Elena,Ferrante,330,60
+Storia di chi fugge e di chi resta,Elena,Ferrante,400,70
+Gomorra,Roberto,Saviano,330,10
+Il Gattopardo,Giuseppe,Tomasi di Lampedusa,300,8
+Sostiene Pereira,Antonio,Tabucchi,200,25
+Novecento,Alessandro,Baricco,60,1
+Oceano Mare,Alessandro,Baricco,250,20
+Io Non Ho Paura,Niccolò,Ammaniti,220,10
+Come Dio Comanda,Niccolò,Ammaniti,400,22
+La Lunga Vita di Marianna Ucrìa,Dacia,Maraini,350,15
+Lessico Famigliare,Natalia,Ginzburg,250,12
+Cristo si è fermato a Eboli,Carlo,Levi,280,20
+Il Conformista,Alberto,Moravia,320,18
+Gli Indifferenti,Alberto,Moravia,300,16
+Il Giorno della Civetta,Leonardo,Sciascia,150,12
+A Ciascuno il Suo,Leonardo,Sciascia,160,10
+1984,George,Orwell,320,24
+La Fattoria degli Animali,George,Orwell,150,10
+Fahrenheit 451,Ray,Bradbury,200,3
+Il Mondo Nuovo,Aldous,Huxley,280,18
+Cecità,José,Saramago,300,15
+Cent'anni di Solitudine,Gabriel,García Márquez,400,20
+L'Amore ai Tempi del Colera,Gabriel,García Márquez,380,6
+La Casa degli Spiriti,Isabel,Allende,450,14
+Paula,Isabel,Allende,350,20
+Delitto e Castigo,Fëdor,Dostoevskij,600,39
+I Fratelli Karamazov,Fëdor,Dostoevskij,800,114
+Guerra e Pace,Lev,Tolstoj,1200,365
+Anna Karenina,Lev,Tolstoj,900,239
+Il Maestro e Margherita,Michail,Bulgakov,400,32
+Lo Straniero,Albert,Camus,150,11
+La Peste,Albert,Camus,300,5
+Il Processo,Franz,Kafka,250,10
+La Metamorfosi,Franz,Kafka,100,3
+Alla Ricerca del Tempo Perduto,Marcel,Proust,2400,7
+Madame Bovary,Gustave,Flaubert,350,35
+I Miserabili,Victor,Hugo,1500,365
+Notre-Dame de Paris,Victor,Hugo,500,59
+Il Conte di Montecristo,Alexandre,Dumas,1200,117
+I Tre Moschettieri,Alexandre,Dumas,700,67
+Orgoglio e Pregiudizio,Jane,Austen,400,61
+Ragione e Sentimento,Jane,Austen,350,50
+Emma,Jane,Austen,450,55
+Cime Tempestose,Emily,Brontë,380,34
+Jane Eyre,Charlotte,Brontë,450,38
+Grandi Speranze,Charles,Dickens,500,59
+Oliver Twist,Charles,Dickens,480,53
+David Copperfield,Charles,Dickens,800,64
+Moby Dick,Herman,Melville,650,135
+Il Grande Gatsby,F.,Scott Fitzgerald,180,9
+Furore,John,Steinbeck,500,30
+Uomini e Topi,John,Steinbeck,120,6
+Il Vecchio e il Mare,Ernest,Hemingway,130,1
+Per Chi Suona la Campana,Ernest,Hemingway,480,43
+Addio alle Armi,Ernest,Hemingway,350,41
+Il Giovane Holden,J.D.,Salinger,250,26
+Il Signore degli Anelli,J.R.R.,Tolkien,1200,62
+Lo Hobbit,J.R.R.,Tolkien,320,19
+Harry Potter e la Pietra Filosofale,J.K.,Rowling,300,17
+Harry Potter e la Camera dei Segreti,J.K.,Rowling,340,18
+Le Cronache di Narnia,C.S.,Lewis,780,105
+Il Trono di Spade,George,R.R. Martin,850,73
+Lo scontro dei re,George,R.R. Martin,900,70
+Tempesta di Spade,George,R.R. Martin,1100,82
+Dune,Frank,Herbert,600,48
+Fondazione,Isaac,Asimov,250,5
+Io Robot,Isaac,Asimov,300,9
+Neuromante,William,Gibson,280,24
+La Guida Galattica per gli Autostoppisti,Douglas,Adams,220,35
+Il Codice da Vinci,Dan,Brown,500,105
+Angeli e Demoni,Dan,Brown,550,137
+It,Stephen,King,1200,22
+Shining,Stephen,King,500,58
+Il Miglio Verde,Stephen,King,400,6
+Misery,Stephen,King,380,4
+L'Ombra dello Scorpione,Stephen,King,1000,78
+Assassinio sull'Orient Express,Agatha,Christie,250,34
+Dieci Piccoli Indiani,Agatha,Christie,220,16
+Il Mastino dei Baskerville,Arthur,Conan Doyle,200,15
+Uno Studio in Rosso,Arthur,Conan Doyle,150,14
+Dracula,Bram,Stoker,400,27
+Frankenstein,Mary,Shelley,280,24
+Dr. Jekyll e Mr. Hyde,Robert,Louis Stevenson,120,10
+L'Isola del Tesoro,Robert,Louis Stevenson,250,34
+Il Ritratto di Dorian Gray,Oscar,Wilde,280,20
+Alice nel Paese delle Meraviglie,Lewis,Carroll,150,12

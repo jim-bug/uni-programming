@@ -281,6 +281,40 @@ Svolgimento degli esercizi proposti nel corso di Fondamenti di Programmazione (A
 
 ---
 
+### File - 01 (2026-06-03) - Conteggio Righe in File
+
+- **Link:** [Apri codice](./2026-06-03-File/esercizio1.c)
+- **Descrizione:** Chiede all'utente il nome di un file di testo e conta il numero di righe presenti nel file.
+
+### File - 02 (2026-06-03) - Frequenza Lettere
+
+- **Link:** [Apri codice](./2026-06-03-File/esercizio2.c)
+- **Descrizione:** Conta le occorrenze delle 26 lettere dell'alfabeto in un file di testo, salvando il risultato in un nuovo file chiamato `frequenza_lettere.txt`.
+
+**Nota:** L'esercizio 03 e identico a Strutture - 04: vedi [2026-05-22-Strutture/esercizio4.c](./2026-05-22-Strutture/esercizio4.c).
+
+### File - 04 (2026-06-03) - ROT13 su File
+
+- **Link:** [Apri codice](./2026-06-03-File/esercizio4.c)
+- **Descrizione:** Legge un file di testo un carattere alla volta e stampa a schermo la codifica basata sul sistema di cifratura ROT13.
+
+### File - 05 (2026-06-03) - Libro con Capitoli Mediamente Piu Lunghi
+
+- **Link:** [Apri codice](./2026-06-03-File/esercizio5.c)
+- **Descrizione:** Legge da file i dati di una serie di libri (titolo, autore, numero di pagine e capitoli) e individua quello con i capitoli mediamente piu lunghi tramite una funzione e una struttura `Libro`.
+
+### File - 06 (2026-06-03) - Matrice su File
+
+- **Link:** [Apri codice](./2026-06-03-File/esercizio6.c)
+- **Descrizione:** Chiede all'utente le dimensioni di una matrice, calcola i valori degli elementi come prodotto degli indici (i x j) e scrive i dati su un file.
+
+### File - 07 (2026-06-03) - Somma Colonne da File
+
+- **Link:** [Apri codice](./2026-06-03-File/esercizio7.c)
+- **Descrizione:** Legge la matrice salvata nell'esercizio precedente, la memorizza in un array bidimensionale e stampa a schermo la somma degli elementi di ogni colonna.
+
+---
+
 ## Esami
 
 Raccolta delle prove d'esame e prove in itinere proposte durante il corso di Fondamenti di Programmazione (A.A. 25/26). Sono presenti anche svolgimenti di esami passati.
