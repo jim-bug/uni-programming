@@ -315,6 +315,23 @@ Svolgimento degli esercizi proposti nel corso di Fondamenti di Programmazione (A
 
 ---
 
+### Liste - 01 (2026-06-04) - Gestione Lista Ordinata
+
+- **Link:** [Apri codice](./2026-06-04-Liste/esercizio1.c)
+- **Descrizione:** Gestisce una lista di interi con menu: inserimento ordinato con stampa, conteggio delle occorrenze di un valore, cancellazione di tutte le occorrenze e aggiornamento degli elementi al quadrato con stampa della lista risultante.
+
+### Liste - 02 (2026-06-04) - Volantino Digitale (Lista Doppiamente Concatenata)
+
+- **Link:** [Apri codice](./2026-06-04-Liste/esercizio2.c)
+- **Descrizione:** Realizza un volantino digitale con una lista doppiamente concatenata di promozioni (nome, prezzo, percentuale di sconto). Permette di sfogliare avanti/indietro, trovare la promozione con sconto massimo e inserisce promozioni di esempio.
+
+### Liste - 03 (2026-06-04) - Albero Binario di Ricerca
+
+- **Link:** [Apri codice](./2026-06-04-Liste/esercizio3.c)
+- **Descrizione:** Gestisce interi in un albero binario di ricerca con menu: inserimento ordinato e stampa in ordine, conteggio delle occorrenze di un valore.
+
+---
+
 ## Esami
 
 Raccolta delle prove d'esame e prove in itinere proposte durante il corso di Fondamenti di Programmazione (A.A. 25/26). Sono presenti anche svolgimenti di esami passati.
