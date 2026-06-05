@@ -24,7 +24,6 @@ int main(int argc, char* argv[]){
 		return -1;
 	}
 
-	printf("")
 	while(fscanf(input, "%c", &temp) == 1){
 		temp = toupper(temp);
 		if (temp >= 'A' && temp <= 'Z') printf("%c", (temp - 'A' + SHIFT) % 26 + 'A');

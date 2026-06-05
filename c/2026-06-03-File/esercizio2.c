@@ -31,6 +31,7 @@ int main(int argc, char* argv[]){
 
 	if ((output = fopen("frequenza_lettere.txt", "w")) == NULL){
 		printf("Impossibile aprire il file di output.\n");
+		fclose(input);
 		return -1;
 	}
 

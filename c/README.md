@@ -346,6 +346,26 @@ Raccolta delle prove d'esame e prove in itinere proposte durante il corso di Fon
 - **Link:** [Apri codice](./Esami/2026-04-13-Itinere/esercizio1.c)
 - **Descrizione:** Chiede all'utente di inserire una sequenza di N numeri interi distinti (N ≥ 2) e identifica il secondo massimo della sequenza.
 
+### Esame - 2023-07-14 (Finale)
+
+- **Quesito 1**: Cifrario di Cesare su file
+	- Implementare una funzione che trasformi ogni lettera nella lettera che si trova $k$ posizioni più avanti nell'alfabeto (gestione circolare con `%`).
+	- Il programma deve accettare tre parametri da riga di comando: file sorgente, file destinazione e chiave `k`.
+	- Controllare che la chiave sia compresa tra 0 e 25.
+
+- **Quesito 2**: Struttura per rubrica telefonica
+	- Definire una struttura per una lista lineare dove ogni nodo contiene nome del contatto, numero di telefono e città di residenza.
+	- Implementare la funzione di inserimento di un nuovo elemento nella lista.
+
+- **Quesito 3**: Ricerca per nome
+	- Scrivere una funzione che, dato l'inizio della lista definita nel Quesito 2 e una stringa, restituisca il nodo il cui nome corrisponde alla stringa (o `NULL` se non presente).
+
+- **Quesito 4**: Programma di gestione rubrica
+	- Realizzare un programma che, in loop, permetta di usare le funzioni precedenti per:
+		- Inserire un nuovo contatto solo se il nome non è già presente.
+		- Visualizzare il numero di un contatto dato il suo nome.
+		- Visualizzare l'elenco di tutti i contatti residenti in una città specificata dall'utente.
+
 ## Warning
 
 > ⚠️ **Attenzione**

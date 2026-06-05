@@ -34,13 +34,10 @@ int main(int argc, char* argv[]){
 		return -1;
 	}
 
-	// fprintf(output, "%zu %zu\n", rows, cols);
-
 	for(size_t i = 0; i < rows; i ++){
 		for (size_t j = 0; j < cols; j++){
 			fscanf(input, "%d", (i * cols) + j + matrix);
 		}
-		// fscanf(input, "\n");
 	}
 
 	fclose(input);
