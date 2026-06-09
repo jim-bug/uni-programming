@@ -58,6 +58,11 @@ int main(int argc, char* argv[]){
 
         switch(op){
             case 1:{
+                if (head == NULL){
+                    printf("Nessuna promozione disponibile.\n");
+                    break;
+                }
+
                 Volantino* temp = head;
                 char op;
 
@@ -110,7 +115,7 @@ Volantino* create(Promozione promo){
     Volantino* vol = malloc(sizeof(Volantino));
 
     if (vol == NULL){
-        printf("Impossibile allocare il volantino.\n");
+        fprintf(stderr, "Impossibile allocare il volantino.\n");
         return NULL;
     }
 
@@ -153,13 +158,16 @@ Volantino* scorri(Volantino* head, char verso){
 }
 
 Promozione massima_percentuale(Volantino* head){
+    if (head == NULL){
+        Promozione vuota = {"Nessuna promozione", 0.0, 0};
+        return vuota;
+    }
+
     Promozione max_promo = head->promo;
-    int max = head->promo.percentuale;
     head = head->next;
 
     while(head != NULL){
-        if (head->promo.percentuale > max){
-            max = head->promo.percentuale;
+        if (head->promo.percentuale > max_promo.percentuale){
             max_promo = head->promo;
         }
         head = head->next;

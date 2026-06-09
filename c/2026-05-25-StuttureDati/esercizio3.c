@@ -32,7 +32,7 @@ void print_menu();
 
 
 int main(void){
-    Queue* coda = {NULL, NULL};
+    Queue coda = {NULL, NULL};
     int op;
 
     do {
@@ -48,14 +48,14 @@ int main(void){
                 scanf("%d", &value);
                 Node* new = create_node(value);
 
-                enqueue(coda, new);
+                enqueue(&coda, new);
 
                 break;
             }
             case 2: {
                 int value;
 
-                if (dequeue(coda, &value)){
+                if (dequeue(&coda, &value)){
                     printf("Il valore del nodo appena rimosso è: %d.\n", value);
                 } else {
                     printf("Coda vuota.\n");
@@ -65,7 +65,7 @@ int main(void){
             }
             case 3: {
                 int value;
-                if (front(coda, &value)){
+                if (front(&coda, &value)){
                     printf("Valore del primo nodo: %d.\n", value);
                 } else {
                     printf("Coda vuota.\n");
@@ -74,7 +74,7 @@ int main(void){
                 break;
             }
             case 4: {
-                print(coda);
+                print(&coda);
 
                 break;
             }
@@ -86,23 +86,23 @@ int main(void){
                 scanf(" %100[^\n]", file_name);
 
                 if((fp = fopen(file_name, "r")) == NULL){
-                    printf("Impossibile aprire il file.\n");
+                    fprintf(stderr, "Impossibile aprire il file.\n");
                     break;
                 }
 
                 while(fscanf(fp, "%d", &value) == 1){
                     Node* temp = create_node(value);
-                    enqueue(coda, temp);
+                    enqueue(&coda, temp);
                 }
 
                 fclose(fp);
 
                 break;            
             }
-            case 6: free_queue(coda); break;
+            case 6: free_queue(&coda); break;
             default: printf("Opzione non valida.\n"); break;
         }
-    } while(op != 5);
+    } while(op != 6);
 
     return 0;
 }
@@ -111,7 +111,7 @@ Node* create_node(int value){
     Node* head = malloc(sizeof(Node));
 
     if(head == NULL){
-        printf("Impossibile allocare il nodo.\n");
+        fprintf(stderr, "Impossibile allocare il nodo.\n");
         return NULL;
     }
 

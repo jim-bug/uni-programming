@@ -44,8 +44,7 @@ int main(void) {
 	Ricettario ricettario;
 	int opzione, last = 0;
 
-	printf("Inserisci il numero di pietanze da inserire: ");
-	scanf("%d", &ricettario.numero_pietanze);
+	ricettario.numero_pietanze = 0;
 
 	do {
 		print_menu();
@@ -54,8 +53,13 @@ int main(void) {
 
 		switch(opzione){
 			case 1:
+				if (last >= MAX_PIETANZE){
+					printf("Numero massimo di pietanze raggiunto.\n");
+					break;
+				}
 				insert(&ricettario, last);
 				last ++;
+				ricettario.numero_pietanze = last;
 
 				break;
 			case 2:{
@@ -124,8 +128,10 @@ void print_menu(){
 void insert(Ricettario* ricettario, int i){
 	int index;
 	
-	printf("Inserisci il numero di ingredienti della pietanza: ");
-	scanf("%d", &ricettario->pietanze[i].numero_ingredienti);
+	do {
+		printf("Inserisci il numero di ingredienti della pietanza (0-%d): ", MAX_INGREDIENTI);
+		scanf("%d", &ricettario->pietanze[i].numero_ingredienti);
+	} while (ricettario->pietanze[i].numero_ingredienti < 0 || ricettario->pietanze[i].numero_ingredienti > MAX_INGREDIENTI);
 
 	printf("Inserisci il nome della pietanza: ");
 	scanf(" %99[^\n]", ricettario->pietanze[i].nome);

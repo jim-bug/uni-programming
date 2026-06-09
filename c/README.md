@@ -279,6 +279,16 @@ Svolgimento degli esercizi proposti nel corso di Fondamenti di Programmazione (A
 - **Link:** [Apri codice](./2026-05-25-StuttureDati/esercizio3.c)
 - **Descrizione:** Implementa una coda (FIFO) con `struct` a due puntatori (testa e coda) per ottenere `enqueue` e `dequeue` in tempo costante, oltre alle operazioni `front`, verifica di coda vuota, stampa e liberazione della memoria.
 
+### Strutture Dati - 04 (2026-05-25) - Lista Doppiamente Concatenata
+
+- **Link:** [Apri codice](./2026-05-25-StuttureDati/esercizio4.c)
+- **Descrizione:** Implementa una lista doppiamente concatenata di interi con menu testuale: inserimento in testa, in coda e ordinato, eliminazione per valore, ricerca sequenziale, inversione (reverse), conteggio, stampa in entrambi i versi (testa→coda e coda→testa sfruttando il puntatore `prev`) e caricamento di nodi da file.
+
+### Strutture Dati - 05 (2026-05-25) - Albero Binario di Ricerca (BST)
+
+- **Link:** [Apri codice](./2026-05-25-StuttureDati/esercizio5.c)
+- **Descrizione:** Implementa un albero binario di ricerca di interi con menu testuale: inserimento, ricerca, eliminazione (con i tre casi: foglia, un figlio, due figli tramite successore), minimo e massimo, visite in ordine/preordine/postordine e per livelli (BFS con coda), calcolo dell'altezza, conteggio di nodi e foglie, caricamento da file e liberazione ricorsiva della memoria.
+
 ---
 
 ### File - 01 (2026-06-03) - Conteggio Righe in File
@@ -365,6 +375,26 @@ Raccolta delle prove d'esame e prove in itinere proposte durante il corso di Fon
 		- Inserire un nuovo contatto solo se il nome non è già presente.
 		- Visualizzare il numero di un contatto dato il suo nome.
 		- Visualizzare l'elenco di tutti i contatti residenti in una città specificata dall'utente.
+
+### Simulazione - 2026-06-08
+
+- **Quesito 1** [10 pt]: Spedizioni di un'azienda di logistica su file — [Apri codice](./Esami/2026-06-08-Simulazione/esercizio1.c)
+	- Leggere un file di testo in cui ogni riga contiene codice del pacco (stringa senza spazi), distanza in km (intero) e peso in kg (reale); ogni pacco compare una sola volta.
+	- Il programma accetta da riga di comando il file di input e il file di output.
+	- Calcolare per ciascun pacco il costo di spedizione (`distanza × peso`) e scrivere su file: l'elenco (uno per riga) dei codici con costo superiore a 50.0, il codice del pacco con costo minimo e quello con costo massimo.
+
+- **Quesito 2** [5 pt]: Struttura per esami universitari — [Apri codice](./Esami/2026-06-08-Simulazione/esercizio2.c)
+	- Definire una lista concatenata in cui ogni nodo contiene matricola dello studente (intero), codice dell'insegnamento (stringa senza spazi, es. `INF01`) e voto (intero).
+	- Implementare la funzione di inserimento mantenendo l'ordinamento crescente per matricola ed evitando i duplicati (stessa matricola e stesso insegnamento).
+
+- **Quesito 3** [5 pt]: Verifica anomalie di verbalizzazione — [Apri codice](./Esami/2026-06-08-Simulazione/esercizio2.c)
+	- Scrivere una funzione che, data la lista del Quesito 2 e una matricola, verifichi la presenza di voti non validi (strettamente minori di 18 o maggiori di 31, dove 31 è il 30 e lode).
+	- Restituire 1 se esiste almeno un'anomalia per quella matricola, altrimenti 0.
+
+- **Quesito 4** [10 pt]: Programma di gestione esami — [Apri codice](./Esami/2026-06-08-Simulazione/esercizio2.c)
+	- Riutilizzando le funzioni dei quesiti precedenti: inserire tre registrazioni d'esame includendo intenzionalmente almeno un'anomalia.
+	- Verificare se per una specifica matricola è presente un'anomalia tra i voti, stampando un messaggio appropriato.
+	- Scorrere l'intera lista e, per ciascuna matricola, stampare il numero totale di esami registrati.
 
 ## Warning
 

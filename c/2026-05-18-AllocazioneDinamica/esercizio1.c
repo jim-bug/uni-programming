@@ -23,13 +23,13 @@ int main(void) {
 	int *arr = create(n);
 
 	if (arr == NULL){
-		printf("Impossibile allocare la memoria\n");
+		fprintf(stderr, "Impossibile allocare la memoria\n");
 		return -1;
 	}
 
 	printf("\nSomma degli elementi dell'array: %d\n\n", sum(arr, n));
 	for (int i = 0; i < n; i++){
-		printf("Elemento alla posizione %d: %d\n", i + 1, *(arr + 1));
+		printf("Elemento alla posizione %d: %d\n", i + 1, *(arr + i));
 	}
 
 	free(arr);

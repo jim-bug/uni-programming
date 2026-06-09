@@ -12,10 +12,12 @@ void selection_sort(int*, int);
 void swap(int*, int*);
 
 int main(void){
-	size_t n;
+	int n;
 
-	printf("Inserisci la lunghezza dell'array: ");
-	scanf("%d", &n);
+	do {
+		printf("Inserisci la lunghezza dell'array (> 0): ");
+		scanf("%d", &n);
+	} while (n <= 0);
 
 	int arr[n];
 

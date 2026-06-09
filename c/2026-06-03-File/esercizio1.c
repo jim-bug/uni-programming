@@ -19,7 +19,7 @@ int main(void){
 	scanf(" %30[^\n]", file_name);
 
 	if ((fp = fopen(file_name, "r")) == NULL){
-		printf("Errore nell'apertura del file.\n");
+		fprintf(stderr, "Errore nell'apertura del file.\n");
 		return -1;
 	}
 

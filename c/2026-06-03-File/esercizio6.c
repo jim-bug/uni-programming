@@ -18,7 +18,7 @@ int main(int argc, char* argv[]){
 	FILE* output;
 
 	if ((output = fopen(argv[1], "w")) == NULL){
-		printf("Impossibile aprire il file.\n");
+		fprintf(stderr, "Impossibile aprire il file.\n");
 		return -1;
 	}
 
@@ -31,7 +31,7 @@ int main(int argc, char* argv[]){
 	int* matrix;
 
 	if ((matrix = malloc(rows * cols * sizeof(int))) == NULL){
-		printf("Impossibile allocare la memoria.\n");
+		fprintf(stderr, "Impossibile allocare la memoria.\n");
 		return -1;
 	}
 

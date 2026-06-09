@@ -20,17 +20,21 @@ int main(int argc, char* argv[]){
 	FILE* input;
 
 	if ((input = fopen(argv[1], "r")) == NULL){
-		printf("Impossibile aprire il file.\n");
+		fprintf(stderr, "Impossibile aprire il file.\n");
 		return -1;
 	}
 
 
-	fscanf(input, "%zu %zu", &rows, &cols);
+	if (fscanf(input, "%zu %zu", &rows, &cols) != 2){
+		fprintf(stderr, "File non valido.\n");
+		fclose(input);
+		return -1;
+	}
 
 	int* matrix;
 
 	if ((matrix = malloc(rows * cols * sizeof(int))) == NULL){
-		printf("Impossibile allocare la memoria.\n");
+		fprintf(stderr, "Impossibile allocare la memoria.\n");
 		return -1;
 	}
 

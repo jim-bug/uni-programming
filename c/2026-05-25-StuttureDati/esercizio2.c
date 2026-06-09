@@ -45,18 +45,25 @@ int main(void){
                 break;
             }
             case 2: {
+                if (is_empty(head)){
+                    printf("Pila vuota.\n");
+                    break;
+                }
+
                 int value;
                 head = pop(head, &value);
 
-                printf("Il valore eliminato è: %d\n.", value);
+                printf("Il valore eliminato è: %d.\n", value);
 
                 break;
             }
             case 3: {
                 int value;
-                peek(head, &value);
-
-                printf("Il valore del primo nodo è: %d.\n", value);
+                if (peek(head, &value)){
+                    printf("Il valore del primo nodo è: %d.\n", value);
+                } else {
+                    printf("Pila vuota.\n");
+                }
 
                 break;
             }
@@ -73,7 +80,7 @@ int main(void){
                 scanf(" %100[^\n]", file_name);
 
                 if((fp = fopen(file_name, "r")) == NULL){
-                    printf("Impossibile aprire il file.\n");
+                    fprintf(stderr, "Impossibile aprire il file.\n");
                     break;
                 }
 
@@ -99,7 +106,7 @@ int main(void){
 Node* create_node(int value){
     Node* top = malloc(sizeof(Node));
     if (top == NULL){
-        printf("Impossibile allocare il nodo.\n");
+        fprintf(stderr, "Impossibile allocare il nodo.\n");
         return NULL;
     }
 

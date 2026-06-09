@@ -69,7 +69,7 @@ int main(int argc, char* argv[]) {
 
 	FILE *fp;
 	if ((fp = fopen(argv[1], "r+")) == NULL){
-		printf("Impossibile aprire il file\n");
+		fprintf(stderr, "Impossibile aprire il file\n");
 		return -1;
 	}
 
@@ -126,7 +126,7 @@ int main(int argc, char* argv[]) {
 				break;
 			}
 			case 6:
-				printf("Uscita da programma ...\n")
+				printf("Uscita da programma ...\n");
 				break;
 			default:
 				printf("Opzione non valida!\n");
@@ -182,14 +182,14 @@ void insert(Ricettario* ricettario, FILE* fp, int i){
 	scanf(" %lf", &ricettario->pietanze[i].tempo);
 	printf("Inserisci il tipo di pietanza: \n");
 	do{
-		for (int i = 0; i < LEN_TIPI; i++){
+		for (int i = 0; i < TYPES_LEN; i++){
 			printf("%d) %s\n", i, TIPI[i]);
 		}
-	
-	
+
+
 		printf("Scelta: ");
 		scanf(" %d", &index);
-	} while (index < 0 || index >= LEN_TIPI);
+	} while (index < 0 || index >= TYPES_LEN);
 
 	strcpy(ricettario->pietanze[i].tipo, TIPI[index]);
 

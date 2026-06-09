@@ -10,9 +10,9 @@
 
 #define MAX_LEN_FILE 100
 
-
 typedef struct Node {
     int data;
+    struct Node* prev;
     struct Node* next;
 } Node;
 
@@ -24,7 +24,8 @@ Node* delete_by_value(Node*, int);
 int search(Node*, int);
 Node* reverse(Node*);
 int count(Node*);
-void print(Node*);
+void print_forward(Node*);
+void print_backward(Node*);
 void free_list(Node*);
 void print_menu();
 
@@ -33,7 +34,7 @@ int main(void){
     int op;
 
     do {
-        printf("\t\t\t\t\t\tBENVENUTO NEL MENU DELLE OPERAZIONI SU LISTA CONCATENATA\t\t\t\t\t\t");
+        printf("\t\t\t\t\t\tBENVENUTO NEL MENU DELLE OPERAZIONI SU LISTA DOPPIAMENTE CONCATENATA\t\t\t\t\t\t");
         print_menu();
         printf("Opzione scelta: ");
         scanf("%d", &op);
@@ -96,12 +97,18 @@ int main(void){
                 break;
             }
             case 8: {
-                printf("\nELEMENTI DELLA LISTA\n");
-                print(head);
+                printf("\nELEMENTI DELLA LISTA (testa -> coda)\n");
+                print_forward(head);
 
                 break;
             }
             case 9: {
+                printf("\nELEMENTI DELLA LISTA (coda -> testa)\n");
+                print_backward(head);
+
+                break;
+            }
+            case 10: {
                 char file_name[MAX_LEN_FILE + 1];
                 FILE* fp;
                 int value;
@@ -122,10 +129,10 @@ int main(void){
                 break;
 
             }
-            case 10: free_list(head); break;
+            case 11: free_list(head); break;
             default: printf("Opzione non valida!\n"); break;
         }
-    } while (op != 10);
+    } while (op != 11);
 
     return 0;
 }
@@ -138,18 +145,37 @@ Node* create_node(int value){
     }
 
     node->data = value;
+    node->prev = NULL;
     node->next = NULL;
 
     return node;
 }
 
 Node* insert_from_head(Node* head, Node* new_head){
-    if (new_head == NULL)
-        return head;
+    if (new_head == NULL) return head;
 
+    new_head->prev = NULL;
     new_head->next = head;
 
+    if (head != NULL) head->prev = new_head;
+
     return new_head;
+}
+
+Node* insert_from_tail(Node* head, Node* new_tail){
+    if (new_tail == NULL) return head;
+    if (head == NULL) return new_tail;
+
+    Node* curr = head;
+    while(curr->next != NULL){
+        curr = curr->next;
+    }
+
+    curr->next = new_tail;
+    new_tail->prev = curr;
+    new_tail->next = NULL;
+
+    return head;
 }
 
 Node* insert_sorted(Node* head, Node* new_node){
@@ -158,55 +184,38 @@ Node* insert_sorted(Node* head, Node* new_node){
     if (head == NULL || new_node->data <= head->data) return insert_from_head(head, new_node);
 
     Node* curr = head;
-    while (curr->next != NULL && curr->next->data < new_node->data) {
+    while (curr->next != NULL && curr->next->data < new_node->data){
         curr = curr->next;
     }
+
     new_node->next = curr->next;
+    new_node->prev = curr;
+
+    if (curr->next != NULL) curr->next->prev = new_node;
     curr->next = new_node;
 
     return head;
 }
 
-Node* insert_from_tail(Node* head, Node* new_tail){
-    if (head == NULL) return new_tail;
-
-    Node* curr = head;
-
-    while(curr->next != NULL) {
-        curr = curr->next;
-    }
-
-    curr->next = new_tail;
-
-    return head;
-}
-
 Node* delete_by_value(Node* head, int value){
-    if (head == NULL) return head;
-
-    if(head->data == value) {
-        Node* temp = head->next;
-        free(head);
-        return temp;
-    }
-
     Node* curr = head;
-    while(curr->next != NULL && curr->next->data != value){
+    while(curr != NULL && curr->data != value){
         curr = curr->next;
     }
 
-    if(curr->next == NULL) return head;
+    if (curr == NULL) return head;   // valore non trovato
 
-    Node* del = curr->next;
-    curr->next = del->next;
-    
-    free(del);
+    if (curr->prev != NULL) curr->prev->next = curr->next;
+    else head = curr->next;          // era la testa
+
+    if (curr->next != NULL) curr->next->prev = curr->prev;
+
+    free(curr);
 
     return head;
 }
 
 int search(Node* head, int value){
-
     while(head != NULL){
         if (head->data == value) return 1;
         head = head->next;
@@ -216,21 +225,23 @@ int search(Node* head, int value){
 }
 
 Node* reverse(Node* head){
-    Node* prev = NULL;
     Node* curr = head;
+    Node* temp = NULL;
 
     while(curr != NULL){
-        Node* next = curr->next;
-        curr->next = prev;
+        temp = curr->prev;
+        curr->prev = curr->next;
+        curr->next = temp;
 
-        prev = curr;
-        curr = next;
+        curr = curr->prev;   // avanza al nodo successivo originale
     }
 
-    return prev;
+    if (temp != NULL) head = temp->prev;
+
+    return head;
 }
 
-int count(Node* head) {
+int count(Node* head){
     int counter = 0;
 
     while(head != NULL){
@@ -241,12 +252,33 @@ int count(Node* head) {
     return counter;
 }
 
-void print(Node* head) {
+void print_forward(Node* head){
+    printf("NULL <- ");
     while(head != NULL){
-        printf("[%d, *] -> ", head->data);
+        printf("[%d]", head->data);
+        if (head->next != NULL) printf(" <-> ");
         head = head->next;
     }
-    printf("NULL\n");
+    printf(" -> NULL\n");
+}
+
+void print_backward(Node* head){
+    if (head == NULL){
+        printf("NULL\n");
+        return;
+    }
+
+    while(head->next != NULL){
+        head = head->next;   // vai fino alla coda
+    }
+
+    printf("NULL <- ");
+    while(head != NULL){
+        printf("[%d]", head->data);
+        if (head->prev != NULL) printf(" <-> ");
+        head = head->prev;
+    }
+    printf(" -> NULL\n");
 }
 
 void free_list(Node* head){
@@ -258,6 +290,6 @@ void free_list(Node* head){
 }
 
 void print_menu(){
-    printf("\n\t1) Inserimento in testa\n\t2) Inserimento in Coda\n\t3) Inserimento ordinato (secondo value)\n\t4) Eliminazione nodo\n\t");
-    printf("5) Ricerca sequenziale\n\t6) Reverse\n\t7) Numero elemento inseriti\n\t8) Stampa elementi\n\t9) Carica nodi da file (in coda)\n\t10) Esci\n");
+    printf("\n\t1) Inserimento in testa\n\t2) Inserimento in coda\n\t3) Inserimento ordinato (secondo value)\n\t4) Eliminazione nodo\n\t");
+    printf("5) Ricerca sequenziale\n\t6) Reverse\n\t7) Numero elementi inseriti\n\t8) Stampa (testa -> coda)\n\t9) Stampa (coda -> testa)\n\t10) Carica nodi da file (in coda)\n\t11) Esci\n");
 }

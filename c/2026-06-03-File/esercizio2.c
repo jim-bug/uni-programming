@@ -7,6 +7,7 @@
 
 #include <stdio.h>
 #include <ctype.h>
+#include <string.h>
 
 
 #define ALPHABET_LEN 26
@@ -22,22 +23,22 @@ int main(int argc, char* argv[]){
 	FILE* output;
 	int counter[26] = {0};
 	char str[MAX_LEN_FILE + 1];
-	char occorrence = 'a';
 
 	if ((input = fopen(argv[1], "r")) == NULL){
-		printf("Impossibile aprire il file di input.\n");
+		fprintf(stderr, "Impossibile aprire il file di input.\n");
 		return -1;
 	}
 
 	if ((output = fopen("frequenza_lettere.txt", "w")) == NULL){
-		printf("Impossibile aprire il file di output.\n");
+		fprintf(stderr, "Impossibile aprire il file di output.\n");
 		fclose(input);
 		return -1;
 	}
 
 	while(fscanf(input, "%100s", str) == 1){ 
-		for (int i = 0; i < strlen(str); i++){
-			counter[tolower(str[i]) - 'a'] ++;
+		for (size_t i = 0; i < strlen(str); i++){
+			unsigned char c = str[i];
+			if (isalpha(c)) counter[tolower(c) - 'a'] ++;
 		}
 	}
 	

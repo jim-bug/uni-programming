@@ -20,14 +20,14 @@ int main(int argc, char* argv[]){
 	char temp;
 
 	if ((input = fopen(argv[1], "r")) == NULL){
-		printf("Impossibile aprire il file di input.\n");
+		fprintf(stderr, "Impossibile aprire il file di input.\n");
 		return -1;
 	}
 
 	while(fscanf(input, "%c", &temp) == 1){
-		temp = toupper(temp);
+		temp = toupper((unsigned char)temp);
 		if (temp >= 'A' && temp <= 'Z') printf("%c", (temp - 'A' + SHIFT) % 26 + 'A');
-		printf("%c", temp);
+		else printf("%c", temp);
 	}
 	printf("\n");
 

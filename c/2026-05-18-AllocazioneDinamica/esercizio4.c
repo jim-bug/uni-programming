@@ -23,7 +23,7 @@ int main(void) {
 	int* matrix = malloc(rows * cols * sizeof(int));
 
 	if (matrix == NULL){
-		printf("Impossibile allocare la memoria\n");
+		fprintf(stderr, "Impossibile allocare la memoria\n");
 		return -1;
 	}
 
@@ -43,6 +43,11 @@ int main(void) {
 	}
 
 	int* trasposed_matrix = matrice_trasposta(rows, cols, matrix);
+	
+	if (trasposed_matrix == NULL){
+		fprintf(stderr, "Impossibile allocare la memoria\n");
+		return -1;
+	}
 
 	printf("\nMatrice trasposta: \n");
 	for (size_t i = 0; i < cols; i++){
@@ -60,6 +65,8 @@ int main(void) {
 
 int* matrice_trasposta(size_t rows, size_t cols, int* matrix){	
 	int* t_matrix = malloc(cols * rows * sizeof(int));
+
+	if (t_matrix == NULL) return NULL;
 
 	for (size_t i = 0; i < rows; i++){
 		for (size_t j = 0; j < cols; j++){

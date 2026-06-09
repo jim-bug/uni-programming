@@ -79,7 +79,7 @@ Node* create_node(int value){
     Node* node = malloc(sizeof(Node));
 
     if(node == NULL){
-        printf("Impossibile allocare il nodo.\n");
+        fprintf(stderr, "Impossibile allocare il nodo.\n");
         return NULL;
     }
 
@@ -120,13 +120,14 @@ int count(Node* head, int value){
 }
 
 Node* delete(Node* head, int value){
-    if (head == NULL) return NULL;
 
     while (head != NULL && head->data == value) {
         Node* temp = head->next;
         free(head);
         head = temp;
     }
+
+    if (head == NULL) return NULL;
 
     Node* prev = head;
     Node* curr = head->next;

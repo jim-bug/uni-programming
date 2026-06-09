@@ -68,7 +68,7 @@ Node* create_node(int value){
     Node* new = malloc(sizeof(Node));
 
     if (new == NULL){
-        printf("Impossibile allocare il nodo.\n");
+        fprintf(stderr, "Impossibile allocare il nodo.\n");
         return NULL;
     }
 
@@ -114,8 +114,7 @@ int count(Node* root, int value){
             count ++;
             root = root->dx;        // convenzione scelta, i duplicati sempre a destra
         } 
-
-        if (value > root->data){
+        else if (value > root->data){
             root = root->dx;
         } else if (value < root->data){
             root = root->sx;

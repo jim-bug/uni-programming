@@ -32,7 +32,7 @@ int main(int argc, char* argv[]){
 	FILE* input;
 
 	if ((input = fopen(argv[1], "r")) == NULL){
-		printf("Errore nell'apertura del file.\n");
+		fprintf(stderr, "Errore nell'apertura del file.\n");
 		return -1;
 	}
 
@@ -45,7 +45,7 @@ int main(int argc, char* argv[]){
 	int n_chapter;
 
 	if (fscanf(input, "%zu", &n_book) != 1){
-		printf("File non valido.\n");
+		fprintf(stderr, "File non valido.\n");
 		fclose(input);
 		return -1;
 	}

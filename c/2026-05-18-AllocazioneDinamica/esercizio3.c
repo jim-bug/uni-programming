@@ -42,7 +42,7 @@ int main(void) {
 	int *arr = unisci_array(v1, v2, n1, n2);
 
 	if (arr == NULL){
-		printf("Impossibile allocare la memoria\n");
+		fprintf(stderr, "Impossibile allocare la memoria\n");
 		return -1;
 	}
 

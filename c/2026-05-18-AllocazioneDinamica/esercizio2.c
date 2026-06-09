@@ -25,7 +25,7 @@ int main(void) {
 	int *matrix = malloc(rows * cols * sizeof(int));
 
 	if (matrix == NULL){
-		printf("Impossibile allocare la memoria\n");
+		fprintf(stderr, "Impossibile allocare la memoria\n");
 		return -1;
 	}
 

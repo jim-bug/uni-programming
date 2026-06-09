@@ -32,8 +32,10 @@ int main(void) {
 	int n, index;
 	Pietanza pietanza;
 
-	printf("Inserisci il numero di ingredienti della pietanza: ");
-	scanf("%d", &n);
+	do {
+		printf("Inserisci il numero di ingredienti della pietanza (0-%d): ", MAX);
+		scanf("%d", &n);
+	} while (n < 0 || n > MAX);
 
 	printf("Inserisci il nome della pietanza: ");
 	scanf(" %100[^\n]", pietanza.nome);
