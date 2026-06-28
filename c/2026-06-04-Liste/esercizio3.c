@@ -87,14 +87,14 @@ Node* insert(Node* root, Node* new){
     Node* curr = root;
     while (curr != NULL){
         // if (new->data == curr->data) return curr;
-        if(new->data >= curr->data){
+        if (new->data >= curr->data){
             if (curr->dx == NULL){
                 curr->dx = new;
                 return root;
             }
 
             curr = curr->dx;
-        } else if(new->data < curr->data){
+        } else if (new->data < curr->data){
             if (curr->sx == NULL){
                 curr->sx = new;
                 return root;

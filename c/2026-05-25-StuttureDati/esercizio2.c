@@ -105,6 +105,7 @@ int main(void){
 
 Node* create_node(int value){
     Node* top = malloc(sizeof(Node));
+    
     if (top == NULL){
         fprintf(stderr, "Impossibile allocare il nodo.\n");
         return NULL;

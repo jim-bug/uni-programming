@@ -38,12 +38,12 @@ int main(void) {
 	} while (n < 0 || n > MAX);
 
 	printf("Inserisci il nome della pietanza: ");
-	scanf(" %100[^\n]", pietanza.nome);
+	scanf(" %99[^\n]", pietanza.nome);
 
 	for (int i = 0; i < n; i++) {
 		Ingrediente ingrediente;
 		printf("Inserisci il nome dell'ingrediente: ");
-		scanf(" %100[^\n]", ingrediente.nome);
+		scanf(" %99[^\n]", ingrediente.nome);
 
 		printf("Inserisci la dose (in g) dell'ingrediente: ");
 		scanf(" %lf", &ingrediente.dose);
@@ -59,7 +59,6 @@ int main(void) {
 			printf("%d) %s\n", i, TIPI[i]);
 		}
 	
-	
 		printf("Scelta: ");
 		scanf(" %d", &index);
 	} while (index < 0 || index >= LEN_TIPI);
@@ -67,6 +66,8 @@ int main(void) {
 	strcpy(pietanza.tipo, TIPI[index]);
 	
 	stampa(pietanza, n);
+
+	return 0;
 }
 
 void stampa(Pietanza pietanza, int n){

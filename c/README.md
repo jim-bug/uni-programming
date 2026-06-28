@@ -356,45 +356,73 @@ Raccolta delle prove d'esame e prove in itinere proposte durante il corso di Fon
 - **Link:** [Apri codice](./Esami/2026-04-13-Itinere/esercizio1.c)
 - **Descrizione:** Chiede all'utente di inserire una sequenza di N numeri interi distinti (N ≥ 2) e identifica il secondo massimo della sequenza.
 
-### Esame - 2023-07-14 (Finale)
+### Esame - 2025-06-13
 
-- **Quesito 1**: Cifrario di Cesare su file
-	- Implementare una funzione che trasformi ogni lettera nella lettera che si trova $k$ posizioni più avanti nell'alfabeto (gestione circolare con `%`).
-	- Il programma deve accettare tre parametri da riga di comando: file sorgente, file destinazione e chiave `k`.
-	- Controllare che la chiave sia compresa tra 0 e 25.
+- **Quesito 1**: Consumi dei dispositivi su file - [Apri codice](./Esami/2025-06-13-Esame/esercizio1.c)
+	- Leggere da file un elenco di dispositivi con ore di utilizzo e consumo orario, calcolare il consumo totale e scrivere su file i dispositivi con consumo totale superiore a 100, oltre ai nomi del dispositivo con consumo minimo e massimo.
 
-- **Quesito 2**: Struttura per rubrica telefonica
-	- Definire una struttura per una lista lineare dove ogni nodo contiene nome del contatto, numero di telefono e città di residenza.
-	- Implementare la funzione di inserimento di un nuovo elemento nella lista.
+- **Quesito 2**: Gestione check-in e overbooking - [Apri codice](./Esami/2025-06-13-Esame/esercizio2.c)
+	- Definire una lista concatenata di check-in ordinata per id, evitando duplicati sulla coppia id/volo.
 
-- **Quesito 3**: Ricerca per nome
-	- Scrivere una funzione che, dato l'inizio della lista definita nel Quesito 2 e una stringa, restituisca il nodo il cui nome corrisponde alla stringa (o `NULL` se non presente).
+- **Quesito 3**: Verifica overbooking su un volo - [Apri codice](./Esami/2025-06-13-Esame/esercizio2.c)
+	- Scrivere una funzione che controlli se, per un dato volo, esistono due passeggeri assegnati allo stesso posto.
 
-- **Quesito 4**: Programma di gestione rubrica
-	- Realizzare un programma che, in loop, permetta di usare le funzioni precedenti per:
-		- Inserire un nuovo contatto solo se il nome non è già presente.
-		- Visualizzare il numero di un contatto dato il suo nome.
-		- Visualizzare l'elenco di tutti i contatti residenti in una città specificata dall'utente.
+- **Quesito 4**: Gestione elenco passeggeri per volo - [Apri codice](./Esami/2025-06-13-Esame/esercizio2.c)
+	- Riutilizzare le funzioni precedenti per inserire alcuni check-in di esempio, segnalare un eventuale overbooking e stampare, per ogni volo presente, il numero totale di passeggeri.
+
+### Esame - 2023-07-14
+
+- **Quesito 1**: Cifrario di Cesare su file - [Apri codice](./Esami/2023-07-14-Finale/esercizio1.c)
+  - Implementare una funzione che trasformi ogni lettera nella lettera che si trova $k$ posizioni più avanti nell'alfabeto, con gestione circolare. Il programma accetta tre parametri da riga di comando: file sorgente, file destinazione e chiave `k`, che deve essere compresa tra 0 e 25.
+
+- **Quesito 2**: Struttura per rubrica telefonica - [Apri codice](./Esami/2023-07-14-Finale/esercizio2.c)
+  - Definire una struttura per una lista lineare dove ogni nodo contiene nome del contatto, numero di telefono e città di residenza, e implementare la funzione di inserimento di un nuovo elemento nella lista.
+
+- **Quesito 3**: Ricerca per nome - [Apri codice](./Esami/2023-07-14-Finale/esercizio2.c)
+  - Scrivere una funzione che, dato l'inizio della lista definita nel Quesito 2 e una stringa, restituisca il nodo il cui nome corrisponde alla stringa, oppure `NULL` se non presente.
+
+- **Quesito 4**: Programma di gestione rubrica - [Apri codice](./Esami/2023-07-14-Finale/esercizio2.c)
+  - Realizzare un programma che, in loop, permetta di inserire un nuovo contatto solo se il nome non è già presente, visualizzare il numero di un contatto dato il suo nome e stampare l'elenco di tutti i contatti residenti in una città specificata dall'utente.
 
 ### Simulazione - 2026-06-08
 
-- **Quesito 1** [10 pt]: Spedizioni di un'azienda di logistica su file — [Apri codice](./Esami/2026-06-08-Simulazione/esercizio1.c)
+- **Quesito 1**: Spedizioni di un'azienda di logistica su file — [Apri codice](./Esami/2026-06-08-Simulazione/esercizio1.c)
 	- Leggere un file di testo in cui ogni riga contiene codice del pacco (stringa senza spazi), distanza in km (intero) e peso in kg (reale); ogni pacco compare una sola volta.
 	- Il programma accetta da riga di comando il file di input e il file di output.
 	- Calcolare per ciascun pacco il costo di spedizione (`distanza × peso`) e scrivere su file: l'elenco (uno per riga) dei codici con costo superiore a 50.0, il codice del pacco con costo minimo e quello con costo massimo.
 
-- **Quesito 2** [5 pt]: Struttura per esami universitari — [Apri codice](./Esami/2026-06-08-Simulazione/esercizio2.c)
+- **Quesito 2**: Struttura per esami universitari — [Apri codice](./Esami/2026-06-08-Simulazione/esercizio2.c)
 	- Definire una lista concatenata in cui ogni nodo contiene matricola dello studente (intero), codice dell'insegnamento (stringa senza spazi, es. `INF01`) e voto (intero).
 	- Implementare la funzione di inserimento mantenendo l'ordinamento crescente per matricola ed evitando i duplicati (stessa matricola e stesso insegnamento).
 
-- **Quesito 3** [5 pt]: Verifica anomalie di verbalizzazione — [Apri codice](./Esami/2026-06-08-Simulazione/esercizio2.c)
+- **Quesito 3**: Verifica anomalie di verbalizzazione — [Apri codice](./Esami/2026-06-08-Simulazione/esercizio2.c)
 	- Scrivere una funzione che, data la lista del Quesito 2 e una matricola, verifichi la presenza di voti non validi (strettamente minori di 18 o maggiori di 31, dove 31 è il 30 e lode).
 	- Restituire 1 se esiste almeno un'anomalia per quella matricola, altrimenti 0.
 
-- **Quesito 4** [10 pt]: Programma di gestione esami — [Apri codice](./Esami/2026-06-08-Simulazione/esercizio2.c)
+- **Quesito 4**: Programma di gestione esami — [Apri codice](./Esami/2026-06-08-Simulazione/esercizio2.c)
 	- Riutilizzando le funzioni dei quesiti precedenti: inserire tre registrazioni d'esame includendo intenzionalmente almeno un'anomalia.
 	- Verificare se per una specifica matricola è presente un'anomalia tra i voti, stampando un messaggio appropriato.
 	- Scorrere l'intera lista e, per ciascuna matricola, stampare il numero totale di esami registrati.
+
+### Esame - 2026-06-10
+
+- **Quesito 1**: Programma in linguaggio C che legga un file di testo contenente un elenco di prodotti — [Apri codice](./Esami/2026-06-10-Finale/esercizio1.c)
+  - **Contenuto del file**: ogni riga contiene il nome del prodotto (stringa senza spazi) e un valore numerico reale associato (prezzo o giacenza).
+  - **Parametri da riga di comando**: il programma deve accettare il nome del file di input, il nome del file di output e un valore numerico di soglia.
+  - **Operazioni di output**: il programma deve scrivere nel file di output: il numero totale di prodotti con valore strettamente superiore alla soglia e l'elenco dei nomi di tali prodotti, uno per riga.
+
+- **Quesito 2**: Struttura dati: definire una lista concatenata per memorizzare un archivio di opere d'arte — [Apri codice](./Esami/2026-06-10-Finale/esercizio2.c)
+  - **Contenuto del nodo**: ogni nodo deve includere il titolo dell'opera (stringa), il codice inventario (stringa senza spazi o intero) e la corrente artistica (stringa).
+  - **Funzione**: implementare in C una funzione per l'inserimento in testa di una nuova opera nella lista.
+
+- **Quesito 3**: Funzione di ricerca per codice inventario — [Apri codice](./Esami/2026-06-10-Finale/esercizio3.c)
+  - **Obiettivo**: cercare l'opera corrispondente al codice nella lista.
+  - **Ritorno**: la funzione deve restituire il puntatore al nodo trovato oppure `NULL` se l'opera non è presente.
+
+- **Quesito 4**: Programma `main` in linguaggio C che riutilizzi le funzioni precedenti — [Apri codice](./Esami/2026-06-10-Finale/esercizio4.c)
+  - **Inserimento**: inserire tre opere nella lista assicurandosi, tramite l'apposita funzione, che siano univoche in base al codice inventario.
+  - **Ricerca**: cercare un'opera specifica tramite il suo codice inventario e stampare l'esito.
+  - **Stampa per corrente**: data una corrente artistica in input, scorrere la lista e stampare i titoli di tutte le opere appartenenti a quella corrente.
 
 ## Warning
 
@@ -404,7 +432,6 @@ Raccolta delle prove d'esame e prove in itinere proposte durante il corso di Fon
 > - Alcuni programmi assumono input validi secondo la consegna; con input fuori specifica il comportamento potrebbe non essere significativo.
 > - In base alla macroarea dell'esercizio la soluzione è designata sugli argomenti svolti fino a quel punto nel corso.
 >
-
 **Autore:** Ignazio Leonardo Calogero Sperandeo
 
 by jimbug // :)
