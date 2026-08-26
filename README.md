@@ -1,6 +1,6 @@
-# Uni Programming
+# uni-programming
 
-Raccolta di esercizi svolti nei corsi di Ingegneria Informatica — Università degli Studi di Palermo (A.A. 25/26).
+Raccolta di esercizi svolti nelle materie del dipartimento di Ingegneria Informatica — Università degli Studi di Palermo (dall'A.A. 25/26).
 
 | Cartella | Materia |
 | --- | --- |
