@@ -7,6 +7,7 @@ Raccolta di esercizi svolti nelle materie del dipartimento di Ingegneria Informa
 | [c](./c/) | Fondamenti di Programmazione |
 | [arm32](./arm32/) | Architetture dei Calcolatori |
 | [sysverilog](./sysverilog/) | Architetture dei Calcolatori |
+| [cc.it](./cc.it/) | Training per CC.IT |
 
 Per i testi e i dettagli degli esercizi, consulta il README di ogni cartella.
 
