@@ -4,6 +4,8 @@ Raccolta di esercizi svolti nelle materie del dipartimento di Ingegneria Informa
 
 | Cartella | Materia |
 | --- | --- |
+| [r](./r/) | Statistica |
+| [IoT](./IoT/) | Internet of Things |
 | [c](./c/) | Fondamenti di Programmazione |
 | [arm32](./arm32/) | Architetture dei Calcolatori |
 | [sysverilog](./sysverilog/) | Architetture dei Calcolatori |

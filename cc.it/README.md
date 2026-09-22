@@ -16,7 +16,6 @@ Raccolta di test e soluzioni sviluppate per prepararsi ai test di programmazione
 - **Link soluzione:** [Apri soluzione](./2023-ProgrammingTest/solution1.py)
 - **Descrizione:** Dato un codice corretto e una serie di sequenze candidate, il programma conta quante posizioni coincidono tra la sequenza corretta e ciascuna sequenza analizzata.
 
----
 
 ## Warning
 
