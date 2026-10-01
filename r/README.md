@@ -12,7 +12,7 @@ Svolgimento degli esercizi proposti nel corso di Statistica (A.A. 26/27). Per og
 
 ### Esercizio di riepilogo - 01 (2026-09-22) - Vettori, Matrici e Dataframe
 
-- **Link:** [Apri codice](./2026-09-22-2026-09-22-VettoriMatriciDataframe/esercizio1.r)
+- **Link:** [Apri codice](./2026-09-22-VettoriMatriciDataframe/esercizio1.r)
 - **Descrizione:** Costruisce la sequenza numerica `s1` da 1 a 100 con passo 5 e ne determina la lunghezza. Costruisce il vettore non numerico `s2`, formato da 10 ripetizioni di `"M"` e 10 ripetizioni di `"F"`, utilizzando un'unica istruzione. Unisce i due vettori nella matrice `M1`, verifica che l'oggetto sia una matrice, assegna alle colonne i nomi `eta` e `sesso`, crea il dataframe `M1.df` e seleziona le osservazioni con `eta <= 50`.
 
 
