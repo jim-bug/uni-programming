@@ -4,6 +4,7 @@ Raccolta di esercizi svolti nelle materie del dipartimento di Ingegneria Informa
 
 | Cartella | Materia |
 | --- | --- |
+| [algo](./algo/) | Algoritmi e Strutture Dati |
 | [r](./r/) | Statistica |
 | [IoT](./IoT/) | Internet of Things |
 | [c](./c/) | Fondamenti di Programmazione |
