@@ -1,0 +1,885 @@
+Product_Collection;Vertical_Segment;Status;Launch_Date;Lithography;Recommended_Customer_Price;nb_of_Cores;nb_of_Threads;Processor_Base_Frequency;Cache_Size;Cache_Type;Instruction_Set;TDP;Max_Memory_Size;Max_nb_of_Memory_Channels;Max_Memory_Bandwidth
+Legacy;Desktop;End of Interactive Support;2008;45;555;4;8;2930;2,079441542;SmartCache;64-bit;130;24;3;25,6
+Legacy;Desktop;End of Interactive Support;2008;45;305;4;8;2660;2,079441542;SmartCache;64-bit;130;24;3;25,6
+Legacy;Desktop;End of Interactive Support;2008;45;990;4;8;3200;2,079441542;SmartCache;64-bit;130;24;3;25,6
+Legacy;Desktop;End of Interactive Support;2009;45;203;4;4;2660;2,079441542;SmartCache;64-bit;95;16;2;21
+Legacy;Desktop;End of Interactive Support;2009;45;305;4;8;2930;2,079441542;SmartCache;64-bit;95;16;2;21
+Legacy;Desktop;End of Interactive Support;2009;45;305;4;8;3060;2,079441542;SmartCache;64-bit;130;24;3;25,6
+Legacy;Desktop;End of Interactive Support;2009;45;305;4;8;3200;2,079441542;SmartCache;64-bit;130;24;3;25,6
+Legacy;Desktop;End of Interactive Support;2009;45;281;4;8;2800;2,079441542;SmartCache;64-bit;95;16;2;21
+Legacy;Desktop;End of Interactive Support;2009;45;1059;4;8;3330;2,079441542;SmartCache;64-bit;130;24;3;25,6
+Legacy;Embedded;Launched;2009;45;403;2;4;2000;2,079441542;SmartCache;64-bit;38;144;3;25,6
+Legacy;Embedded;Launched;2009;45;504;4;8;2130;2,079441542;SmartCache;64-bit;60;144;3;25,6
+Legacy;Mobile;End of Interactive Support;2009;45;380;4;8;1600;1,791759469;SmartCache;64-bit;45;8;2;21
+Legacy;Server;Launched;2009;45;221;4;4;2000;1,386294361;SmartCache;64-bit;80;144;3;19,2
+Legacy;Server;Launched;2009;45;940;4;8;2530;2,079441542;SmartCache;64-bit;80;144;3;25,6
+Legacy;Server;End of Life;2009;45;305;4;8;1860;2,079441542;SmartCache;64-bit;45;32;2;21
+Legacy;Server;End of Life;2009;45;305;4;8;2660;2,079441542;SmartCache;64-bit;130;24;3;25,6
+Legacy;Server;Launched;2009;45;213,5;4;4;2400;2,079441542;SmartCache;64-bit;95;32;2;21
+Legacy;Server;End of Life;2009;45;230;4;8;2530;2,079441542;SmartCache;64-bit;95;32;2;21
+Legacy;Server;End of Life;2009;45;594;4;8;2930;2,079441542;SmartCache;64-bit;130;24;3;25,6
+Legacy;Server;Launched;2009;45;249;4;8;2660;2,079441542;SmartCache;64-bit;95;32;2;21
+Legacy;Server;End of Life;2009;45;305;4;8;3060;2,079441542;SmartCache;64-bit;130;24;3;25,6
+Legacy;Server;End of Life;2009;45;333,5;4;8;2800;2,079441542;SmartCache;64-bit;95;32;2;21
+Legacy;Server;End of Life;2009;45;305;4;8;3200;2,079441542;SmartCache;64-bit;130;24;3;25,6
+Legacy;Server;End of Life;2009;45;339;4;8;2930;2,079441542;SmartCache;64-bit;95;32;2;21
+Legacy;Server;End of Life;2009;45;1059;4;8;3200;2,079441542;SmartCache;64-bit;130;24;3;32
+Legacy;Server;End of Life;2009;45;1059;4;8;3330;2,079441542;SmartCache;64-bit;130;24;3;32
+Legacy;Desktop;End of Interactive Support;2010;32;86,5;2;2;2800;1,098612289;SmartCache;64-bit;73;16,38;2;17
+Legacy;Desktop;End of Interactive Support;2010;45;43;1;2;1660;-0,693147181;L2;64-bit;10;4;1;6,4
+Legacy;Desktop;End of Interactive Support;2010;45;63;2;4;1660;0;L2;64-bit;13;4;1;6,4
+Legacy;Desktop;End of Interactive Support;2010;45;63;2;4;1800;0;L2;64-bit;13;4;1;6,4
+Legacy;Desktop;End of Interactive Support;2010;45;42;1;2;1800;-0,693147181;L2;64-bit;10;4;1;6,4
+Legacy;Desktop;End of Interactive Support;2010;32;117;2;4;2930;1,386294361;SmartCache;64-bit;73;16,38;2;21
+Legacy;Desktop;End of Interactive Support;2010;32;113;2;4;3060;1,386294361;SmartCache;64-bit;73;16,38;2;21
+Legacy;Desktop;End of Interactive Support;2010;32;117;2;4;3200;1,386294361;SmartCache;64-bit;73;16,38;2;21
+Legacy;Desktop;End of Interactive Support;2010;32;177;2;4;3200;1,386294361;SmartCache;64-bit;73;16,38;2;21
+Legacy;Desktop;End of Interactive Support;2010;32;177;2;4;3200;1,386294361;SmartCache;64-bit;73;16,38;2;21
+Legacy;Desktop;End of Interactive Support;2010;32;185;2;4;3330;1,386294361;SmartCache;64-bit;73;16,38;2;21
+Legacy;Desktop;End of Interactive Support;2010;32;177;2;4;3330;1,386294361;SmartCache;64-bit;87;16,38;2;21
+Legacy;Desktop;End of Interactive Support;2010;32;305;2;4;3460;1,386294361;SmartCache;64-bit;73;16,6;2;21
+Legacy;Desktop;End of Interactive Support;2010;45;279;4;4;2400;2,079441542;SmartCache;64-bit;82;16;2;21
+Legacy;Desktop;End of Interactive Support;2010;45;213;4;4;2800;2,079441542;SmartCache;64-bit;95;16;2;21
+Legacy;Desktop;End of Interactive Support;2010;45;362;4;8;2530;2,079441542;SmartCache;64-bit;82;16;2;21
+Legacy;Desktop;End of Interactive Support;2010;45;353;4;8;2930;2,079441542;SmartCache;64-bit;95;16;2;21
+Legacy;Desktop;End of Interactive Support;2010;45;305;4;8;2800;2,079441542;SmartCache;64-bit;130;24;3;25,6
+Legacy;Desktop;End of Interactive Support;2010;32;594;6;12;3200;2,48490665;SmartCache;64-bit;130;24;3;25,6
+Legacy;Desktop;End of Interactive Support;2010;32;117;2;4;3330;1,386294361;SmartCache;64-bit;73;16,38;2;21
+Legacy;Desktop;End of Interactive Support;2010;32;305;2;4;3600;1,386294361;SmartCache;64-bit;73;16,6;2;21
+Legacy;Desktop;End of Interactive Support;2010;32;1059;6;12;3330;2,48490665;SmartCache;64-bit;130;24;3;25,6
+Legacy;Embedded;Launched;2010;32;210;2;4;2400;1,098612289;SmartCache;64-bit;35;8,79;2;17,1
+Legacy;Embedded;Launched;2010;32;247;2;4;2000;1,386294361;SmartCache;64-bit;25;8,79;2;17,1
+Legacy;Embedded;Launched;2010;32;248;2;4;1060;1,386294361;SmartCache;64-bit;18;8,79;2;12,8
+Legacy;Mobile;End of Interactive Support;2010;32;138;2;4;2130;1,098612289;SmartCache;64-bit;35;8,79;2;17,1
+Legacy;Mobile;End of Interactive Support;2010;32;177;2;4;2130;1,098612289;SmartCache;64-bit;35;8;2;17,1
+Legacy;Mobile;End of Interactive Support;2010;32;218,5;2;4;2400;1,098612289;SmartCache;64-bit;35;8,3;2;17,1
+Legacy;Mobile;End of Interactive Support;2010;32;269;2;4;2530;1,098612289;SmartCache;64-bit;35;8;2;17,1
+Legacy;Mobile;End of Interactive Support;2010;32;250;2;4;2660;1,386294361;SmartCache;64-bit;35;8;2;17,1
+Legacy;Mobile;End of Interactive Support;2010;32;248;2;4;1330;1,386294361;Normal;64-bit;18;8,79;2;12,8
+Legacy;Mobile;End of Interactive Support;2010;45;380;4;8;1730;1,791759469;SmartCache;64-bit;45;8;2;21
+Legacy;Mobile;End of Interactive Support;2010;45;570;4;8;1860;2,079441542;SmartCache;64-bit;45;8;2;21
+Legacy;Mobile;End of Interactive Support;2010;32;232;2;4;2530;1,386294361;SmartCache;64-bit;35;8,79;2;17,1
+Legacy;Mobile;End of Interactive Support;2010;32;105;2;2;1060;0,693147181;Normal;64-bit;18;8;2;17,1
+Legacy;Mobile;End of Interactive Support;2010;32;68;2;2;1860;0,693147181;SmartCache;64-bit;35;8;2;17,1
+Legacy;Mobile;End of Interactive Support;2010;32;68;2;2;1860;0,693147181;SmartCache;64-bit;35;8;2;17,1
+Legacy;Server;Launched;2010;32;380;4;8;2400;2,48490665;SmartCache;64-bit;80;288;3;25,6
+Legacy;Server;End of Life;2010;32;552,5;4;8;2530;2,48490665;SmartCache;64-bit;80;288;3;25,6
+Legacy;Server;End of Life;2010;32;775,5;4;8;2660;2,48490665;SmartCache;64-bit;80;288;3;25,6
+Legacy;Server;Launched;2010;32;539,5;6;12;2400;2,48490665;SmartCache;64-bit;80;288;3;32
+Legacy;Server;End of Life;2010;32;440;4;4;1860;2,48490665;SmartCache;64-bit;40;288;3;25,6
+Legacy;Server;End of Life;2010;32;552,5;4;8;2130;2,48490665;SmartCache;64-bit;40;288;3;25,6
+Legacy;Server;End of Life;2010;32;997,5;6;12;2260;2,48490665;SmartCache;64-bit;60;288;3;32
+Legacy;Server;End of Life;2010;32;997,5;6;12;2660;2,48490665;SmartCache;64-bit;95;288;3;32
+Legacy;Server;End of Life;2010;32;1220,5;6;12;2800;2,48490665;SmartCache;64-bit;95;288;3;32
+Legacy;Server;End of Life;2010;32;1440;4;8;3060;2,48490665;SmartCache;64-bit;95;288;3;32
+Legacy;Server;End of Life;2010;32;1441,5;6;12;2930;2,48490665;SmartCache;64-bit;95;288;3;32
+Legacy;Server;End of Life;2010;32;201;2;4;2260;1,386294361;SmartCache;64-bit;30;16,38;2;17
+Legacy;Server;End of Life;2010;32;594;6;12;3200;2,48490665;SmartCache;64-bit;130;24;3;25,6
+Legacy;Server;End of Life;2010;32;1663;4;8;3460;2,48490665;SmartCache;64-bit;130;288;3;32
+Legacy;Server;End of Life;2010;45;305;4;8;2800;2,079441542;SmartCache;64-bit;130;24;3;25,6
+Legacy;Server;End of Life;2010;32;594;6;12;3330;2,48490665;SmartCache;64-bit;130;24;3;32
+Legacy;Server;End of Life;2010;32;1664,5;6;12;3330;2,48490665;SmartCache;64-bit;130;288;3;32
+Legacy;Server;End of Life;2010;45;623;4;8;3060;2,079441542;SmartCache;64-bit;95;32;2;21
+Atom;Desktop;End of Interactive Support;2011;32;42;2;2;1860;0;L2;64-bit;10;4;1;6,4
+Core;Desktop;End of Life;2011;32;594;6;12;3200;2,48490665;SmartCache;64-bit;130;64,23;4;51,2
+Core;Desktop;End of Life;2011;32;1059;6;12;3300;2,708050201;SmartCache;64-bit;130;64;4;51,2
+Legacy;Desktop;End of Life;2011;32;64;2;2;2600;1,098612289;SmartCache;64-bit;65;32;2;17
+Legacy;Desktop;End of Life;2011;32;73,5;2;2;2200;1,098612289;SmartCache;64-bit;35;32;2;17
+Legacy;Desktop;End of Life;2011;32;75;2;2;2800;1,098612289;SmartCache;64-bit;65;32;2;21
+Legacy;Desktop;Launched;2011;32;71;2;2;2900;1,098612289;SmartCache;64-bit;65;32;2;21
+Legacy;Desktop;End of Life;2011;32;64;2;2;2700;1,098612289;SmartCache;64-bit;65;32;2;17
+Legacy;Desktop;End of Life;2011;32;75;2;2;3000;1,098612289;SmartCache;64-bit;65;32;2;21
+Legacy;Desktop;End of Life;2011;32;72;2;2;2300;1,098612289;SmartCache;64-bit;35;32;2;17
+Legacy;Desktop;End of Life;2011;32;120;2;4;3100;1,098612289;SmartCache;64-bit;65;32;2;21
+Legacy;Desktop;End of Life;2011;32;132;2;4;2500;1,098612289;SmartCache;64-bit;35;32;2;21
+Legacy;Desktop;End of Life;2011;32;134;2;4;3100;1,098612289;SmartCache;64-bit;65;32;2;21
+Legacy;Desktop;Launched;2011;32;115;2;4;3300;1,098612289;SmartCache;64-bit;65;32;2;21
+Legacy;Desktop;End of Life;2011;32;121;2;4;2600;1,098612289;SmartCache;64-bit;35;32;2;21
+Legacy;Desktop;End of Life;2011;32;139;2;4;3300;1,098612289;SmartCache;64-bit;65;32;2;21
+Legacy;Desktop;End of Life;2011;32;117;2;4;3400;1,098612289;SmartCache;64-bit;65;32;2;21
+Legacy;Desktop;End of Life;2011;32;187;4;4;2800;1,791759469;SmartCache;64-bit;95;32;2;21
+Legacy;Desktop;End of Life;2011;32;177;4;4;3000;1,791759469;SmartCache;64-bit;95;32;2;21
+Legacy;Desktop;Launched;2011;32;174;4;4;3100;1,791759469;SmartCache;64-bit;95;32;2;21
+Legacy;Desktop;Launched;2011;32;261;4;8;3400;2,079441542;SmartCache;64-bit;95;32;2;21
+Legacy;Desktop;End of Interactive Support;2011;32;1059;6;12;3460;2,48490665;SmartCache;64-bit;130;24;3;25,6
+Legacy;Desktop;End of Life;2011;32;42;2;2;2400;0,693147181;SmartCache;64-bit;65;32;2;17
+Legacy;Desktop;Launched;2011;32;41;2;2;2500;0,693147181;SmartCache;64-bit;65;32;2;17
+Legacy;Desktop;End of Life;2011;32;37;1;2;1800;0,405465108;SmartCache;64-bit;35;32;2;17
+Legacy;Embedded;Launched;2011;32;187;2;4;2100;1,098612289;SmartCache;64-bit;35;16,6;2;21,3
+Legacy;Embedded;Launched;2011;32;209;2;4;1300;1,098612289;SmartCache;64-bit;17;16,6;2;21,3
+Legacy;Embedded;Launched;2011;32;250;2;4;2500;1,098612289;SmartCache;64-bit;35;16,6;2;21,3
+Legacy;Embedded;Launched;2011;32;89;1;1;1400;0,405465108;SmartCache;64-bit;17;16,6;2;21,3
+Legacy;Embedded;Launched;2011;32;72;2;2;1600;0,693147181;SmartCache;64-bit;35;16,6;2;21,3
+Legacy;Embedded;Launched;2011;32;111;2;2;1100;0,693147181;SmartCache;64-bit;17;16,6;2;21,3
+Legacy;Mobile;Launched;2011;32;187;2;4;2200;1,098612289;SmartCache;64-bit;35;16,6;2;21,3
+Legacy;Mobile;Launched;2011;32;236;2;4;2500;1,098612289;SmartCache;64-bit;35;16,6;2;21,3
+Legacy;Mobile;Launched;2011;32;269;2;4;2600;1,098612289;SmartCache;64-bit;35;16;2;21,3
+Legacy;Mobile;Launched;2011;32;378;4;8;2400;1,791759469;SmartCache;64-bit;45;32;2;25,6
+Legacy;Mobile;Launched;2011;32;568;4;8;2500;2,079441542;SmartCache;64-bit;45;32;2;25,6
+Legacy;Mobile;Launched;2011;32;570;4;8;2300;2,079441542;SmartCache;64-bit;45;32;2;25,6
+Legacy;Mobile;Launched;2011;32;72;2;2;1600;0,693147181;SmartCache;64-bit;35;16,6;2;21,3
+Legacy;Mobile;Launched;2011;32;86;2;2;1900;0,693147181;L3;64-bit;35;16;2;21,3
+Legacy;Mobile;End of Interactive Support;2011;32;134;2;2;1200;0,693147181;SmartCache;64-bit;18;8;2;12,8
+Legacy;Server;End of Life;2011;32;191,5;4;4;1600;1,386294361;SmartCache;64-bit;80;288;3;25,6
+Legacy;Server;End of Life;2011;32;223;4;4;2130;2,079441542;SmartCache;64-bit;80;288;3;25,6
+Legacy;Server;Launched;2011;32;277,5;4;4;2260;2,079441542;SmartCache;64-bit;80;288;3;25,6
+Legacy;Server;Launched;2011;32;775,5;6;12;2530;2,48490665;SmartCache;64-bit;80;288;3;32
+Legacy;Server;End of Life;2011;32;774;4;8;2930;2,48490665;SmartCache;64-bit;130;288;3;25,6
+Legacy;Server;End of Life;2011;32;1441,5;6;12;3060;2,48490665;SmartCache;64-bit;95;288;3;32
+Legacy;Server;End of Life;2011;32;1663;4;8;3600;2,48490665;SmartCache;64-bit;130;288;3;32
+Legacy;Server;End of Life;2011;32;1664,5;6;12;3460;2,48490665;SmartCache;64-bit;130;288;3;32
+Xeon;Server;End of Life;2011;32;196;4;4;3100;2,079441542;SmartCache;64-bit;80;32;2;21
+Xeon;Server;End of Life;2011;32;189;2;4;2200;1,098612289;SmartCache;64-bit;20;32;2;21
+Xeon;Server;End of Life;2011;32;192;4;4;3100;1,791759469;SmartCache;64-bit;95;32;2;21
+Xeon;Server;End of Life;2011;32;230;4;8;3200;2,079441542;SmartCache;64-bit;80;32;2;21
+Xeon;Server;End of Life;2011;32;255,5;4;8;3300;2,079441542;SmartCache;64-bit;80;32;2;21
+Xeon;Server;End of Life;2011;32;250;4;8;3200;2,079441542;SmartCache;64-bit;95;32;2;21
+Xeon;Server;End of Life;2011;32;267,5;4;8;3300;2,079441542;SmartCache;64-bit;95;32;2;21
+Xeon;Server;End of Life;2011;32;294;4;8;2400;2,079441542;SmartCache;64-bit;45;32;2;21
+Xeon;Server;End of Life;2011;32;332,5;4;8;3400;2,079441542;SmartCache;64-bit;95;32;2;21
+Xeon;Server;End of Life;2011;32;333,5;4;8;3400;2,079441542;SmartCache;64-bit;80;32;2;21
+Xeon;Server;End of Life;2011;32;617,5;4;8;3500;2,079441542;SmartCache;64-bit;95;32;2;21
+Atom;Desktop;End of Interactive Support;2012;32;47;2;4;1860;0;L2;64-bit;10;4;1;6,4
+Atom;Server;End of Life;2012;32;54;2;4;1600;0;Normal;64-bit;8,1;8;1;10,6
+Atom;Server;End of Life;2012;32;64;2;4;1600;0;Normal;64-bit;6,1;8;1;10,6
+Core;Desktop;End of Life;2012;32;305;4;8;3600;2,302585093;SmartCache;64-bit;130;64,23;4;51,2
+Core;Desktop;End of Life;2012;32;1059;6;12;3500;2,708050201;SmartCache;64-bit;150;64,45;4;51,2
+Core;Mobile;Launched;2012;22;1096;4;8;2900;2,079441542;SmartCache;64-bit;55;32;2;25,6
+Core;Mobile;Launched;2012;22;1096;4;8;3000;2,079441542;SmartCache;64-bit;55;32;2;25,6
+Legacy;Desktop;End of Life;2012;32;82;2;2;3100;1,098612289;SmartCache;64-bit;65;32;2;21
+Legacy;Desktop;End of Life;2012;32;64;2;2;2800;1,098612289;SmartCache;64-bit;65;32;2;17
+Legacy;Desktop;End of Life;2012;32;68;2;2;2400;1,098612289;SmartCache;64-bit;35;32;2;17
+Legacy;Desktop;End of Life;2012;32;64;2;2;2900;1,098612289;SmartCache;64-bit;65;32;2;17
+Legacy;Desktop;End of Life;2012;32;64;2;2;2500;1,098612289;SmartCache;64-bit;35;32;2;17
+Legacy;Desktop;End of Life;2012;32;187;4;4;3100;1,791759469;SmartCache;64-bit;95;32;2;21
+Legacy;Desktop;End of Life;2012;32;205;4;4;3200;1,791759469;SmartCache;64-bit;95;32;2;21
+Legacy;Desktop;End of Life;2012;32;235;4;4;3400;1,791759469;SmartCache;64-bit;95;32;2;21
+Legacy;Desktop;Launched;2012;22;114,5;2;4;3300;1,098612289;SmartCache;64-bit;55;32;2;25,6
+Legacy;Desktop;Launched;2012;22;117;2;4;2800;1,098612289;SmartCache;64-bit;35;32;2;25,6
+Legacy;Desktop;End of Life;2012;22;134;2;4;3300;1,098612289;SmartCache;64-bit;55;32;2;25,6
+Legacy;Desktop;Launched;2012;22;117;2;4;3400;1,098612289;SmartCache;64-bit;55;32;2;25,6
+Legacy;Desktop;Launched;2012;22;117;2;4;2900;1,098612289;SmartCache;64-bit;35;32;2;25,6
+Legacy;Desktop;End of Life;2012;22;184,5;4;4;3000;1,791759469;SmartCache;64-bit;77;32;2;25,6
+Legacy;Desktop;End of Life;2012;22;182;4;4;2700;1,791759469;SmartCache;64-bit;65;32;2;25,6
+Legacy;Desktop;End of Life;2012;22;177;4;4;3100;1,791759469;SmartCache;64-bit;69;32,23;2;25,6
+Legacy;Desktop;End of Life;2012;22;195;4;4;3100;1,791759469;SmartCache;64-bit;77;32;2;25,6
+Legacy;Desktop;End of Life;2012;22;189,5;4;4;2800;1,791759469;SmartCache;64-bit;65;32;2;25,6
+Legacy;Desktop;Launched;2012;22;189,5;4;4;3200;1,791759469;SmartCache;64-bit;77;32;2;25,6
+Legacy;Desktop;End of Life;2012;22;184;2;4;2900;1,098612289;SmartCache;64-bit;35;32;2;25,6
+Legacy;Desktop;End of Life;2012;22;201;4;4;2900;1,791759469;SmartCache;64-bit;65;32;2;25,6
+Legacy;Desktop;End of Life;2012;22;209;4;4;3300;1,791759469;SmartCache;64-bit;77;32;2;25,6
+Legacy;Desktop;Launched;2012;22;197;4;4;3000;1,791759469;SmartCache;64-bit;65;32;2;25,6
+Legacy;Desktop;End of Life;2012;22;213;4;4;3400;1,791759469;SmartCache;64-bit;77;32;2;25,6
+Legacy;Desktop;End of Life;2012;22;230;4;4;3400;1,791759469;SmartCache;64-bit;77;32;2;25,6
+Legacy;Desktop;End of Life;2012;22;205;4;4;2300;1,791759469;SmartCache;64-bit;45;32;2;25,6
+Legacy;Desktop;End of Life;2012;22;205;4;4;3100;1,791759469;SmartCache;64-bit;65;32;2;25,6
+Legacy;Desktop;End of Life;2012;22;288,5;4;8;3400;2,079441542;SmartCache;64-bit;77;32;2;25,6
+Legacy;Desktop;End of Life;2012;22;337;4;8;3500;2,079441542;SmartCache;64-bit;77;32;2;25,6
+Legacy;Desktop;End of Life;2012;22;299,5;4;8;3100;2,079441542;SmartCache;64-bit;65;32;2;25,6
+Legacy;Desktop;End of Life;2012;22;294;4;8;2500;2,079441542;SmartCache;64-bit;45;32;2;25,6
+Legacy;Desktop;End of Life;2012;32;42;2;2;2600;0,693147181;SmartCache;64-bit;65;32;2;17
+Legacy;Desktop;End of Life;2012;32;52;2;2;2700;0,693147181;SmartCache;64-bit;65;32;2;17
+Legacy;Desktop;End of Life;2012;32;37;1;2;1900;0,405465108;SmartCache;64-bit;35;32;2;17
+Legacy;Embedded;Launched;2012;22;199;2;4;2400;1,098612289;SmartCache;64-bit;35;16;2;25,6
+Legacy;Embedded;Launched;2012;22;221;2;4;1600;1,098612289;SmartCache;64-bit;17;16;2;25,6
+Legacy;Embedded;Launched;2012;22;235;2;4;2700;1,098612289;SmartCache;64-bit;35;16;2;25,6
+Legacy;Embedded;Launched;2012;22;280;2;4;1700;1,386294361;SmartCache;64-bit;17;16;2;25,6
+Legacy;Embedded;Launched;2012;22;306;2;4;2500;1,386294361;SmartCache;64-bit;25;16;2;25,6
+Legacy;Embedded;Launched;2012;22;335;4;8;2300;1,791759469;SmartCache;64-bit;45;32,23;2;25,6
+Legacy;Embedded;Launched;2012;22;363;4;8;2100;1,791759469;SmartCache;64-bit;35;16,11;2;25,6
+Legacy;Embedded;Launched;2012;22;335;4;8;2300;1,791759469;SmartCache;64-bit;45;16,11;2;25,6
+Legacy;Mobile;Launched;2012;22;225;2;4;2400;1,098612289;SmartCache;64-bit;35;32;2;25,6
+Legacy;Mobile;Launched;2012;22;225;2;4;2500;1,098612289;SmartCache;64-bit;35;32;2;25,6
+Legacy;Mobile;Launched;2012;22;225;2;4;1800;1,098612289;SmartCache;64-bit;17;32;2;25,6
+Legacy;Mobile;Launched;2012;22;225;2;4;2500;1,098612289;SmartCache;64-bit;35;32;2;25,6
+Legacy;Mobile;Launched;2012;22;225;2;4;1700;1,098612289;SmartCache;64-bit;17;32;2;25,6
+Legacy;Mobile;Launched;2012;22;226;2;4;2600;1,098612289;SmartCache;64-bit;35;32;2;25,6
+Legacy;Mobile;Launched;2012;22;225;2;4;2500;1,098612289;SmartCache;64-bit;35;32;2;25,6
+Legacy;Mobile;Launched;2012;22;267,5;2;4;2800;1,098612289;SmartCache;64-bit;35;32;2;25,6
+Legacy;Mobile;Launched;2012;22;225;2;4;1800;1,098612289;SmartCache;64-bit;17;32;2;25,6
+Legacy;Mobile;Launched;2012;22;346;2;4;2900;1,386294361;SmartCache;64-bit;35;32;2;25,6
+Legacy;Mobile;Launched;2012;22;378;4;8;2300;1,791759469;SmartCache;64-bit;45;32;2;25,6
+Legacy;Mobile;Launched;2012;22;378;4;8;2100;1,791759469;SmartCache;64-bit;35;32;2;25,6
+Legacy;Mobile;Launched;2012;22;378;4;8;2100;1,791759469;SmartCache;64-bit;35;32;2;25,6
+Legacy;Mobile;Launched;2012;22;378;4;8;2300;1,791759469;SmartCache;64-bit;45;32;2;25,6
+Legacy;Mobile;Launched;2012;22;378;4;8;2400;1,791759469;SmartCache;64-bit;45;32;2;25,6
+Legacy;Mobile;Launched;2012;22;378;4;8;2200;1,791759469;SmartCache;64-bit;35;32;2;25,6
+Legacy;Mobile;Launched;2012;22;346;2;4;2000;1,386294361;SmartCache;64-bit;17;32;2;25,6
+Legacy;Mobile;Launched;2012;22;378;4;8;2600;1,791759469;SmartCache;64-bit;45;32;2;25,6
+Legacy;Mobile;Launched;2012;22;379;4;8;2700;1,791759469;SmartCache;64-bit;45;32;2;25,6
+Legacy;Mobile;Launched;2012;22;568;4;8;2700;2,079441542;SmartCache;64-bit;45;32;2;25,6
+Legacy;Mobile;Launched;2012;22;568;4;8;2800;2,079441542;SmartCache;64-bit;45;32;2;25,6
+Pentium;Desktop;Launched;2012;22;73,5;2;2;3100;1,098612289;SmartCache;64-bit;55;32;2;25,6
+Pentium;Mobile;Launched;2012;22;134;2;2;2400;0,693147181;SmartCache;64-bit;35;32;2;25,6
+Pentium;Mobile;Launched;2012;22;134;2;2;1800;0,693147181;SmartCache;64-bit;17;32;2;25,6
+Xeon;Embedded;Launched;2012;32;1479;8;16;2100;2,995732274;SmartCache;64-bit;95;384;4;51,2
+Xeon;Server;End of Life;2012;32;2059;8;16;2900;2,995732274;SmartCache;64-bit;135;384;4;51,2
+Xeon;Server;End of Life;2012;32;1887,5;8;16;3100;2,995732274;SmartCache;64-bit;150;256;4;51,2
+Xeon;Server;End of Life;2012;32;1725;8;16;2700;2,995732274;SmartCache;64-bit;130;384;4;51,2
+Xeon;Server;End of Life;2012;32;1554;8;16;2600;2,995732274;SmartCache;64-bit;115;384;4;51,2
+Xeon;Server;End of Life;2012;32;1552;6;12;2900;2,708050201;SmartCache;64-bit;130;384;4;51,2
+Xeon;Server;End of Life;2012;32;1442;8;16;2400;2,995732274;SmartCache;64-bit;115;384;4;51,2
+Xeon;Server;End of Life;2012;32;1331;8;16;2200;2,995732274;SmartCache;64-bit;95;384;4;51,2
+Xeon;Server;End of Life;2012;32;1109,5;8;16;2000;2,995732274;SmartCache;64-bit;95;384;4;51,2
+Xeon;Server;End of Life;2012;32;1107;8;16;1800;2,995732274;SmartCache;64-bit;70;384;4;51,2
+Xeon;Server;End of Life;2012;32;885;4;8;3300;2,302585093;SmartCache;64-bit;130;384;4;51,2
+Xeon;Server;End of Life;2012;32;1442;8;16;2300;2,995732274;SmartCache;64-bit;95;384;3;38,4
+Xeon;Server;End of Life;2012;32;1107;8;16;1800;2,995732274;SmartCache;64-bit;70;384;3;38,4
+Xeon;Server;End of Life;2012;32;887;6;12;2500;2,708050201;SmartCache;64-bit;95;384;4;42,6
+Xeon;Server;End of Life;2012;32;1109,5;8;16;2100;2,995732274;SmartCache;64-bit;95;384;3;38,4
+Xeon;Server;End of Life;2012;32;885;2;4;3000;1,609437912;SmartCache;64-bit;80;384;4;51,2
+Xeon;Server;End of Life;2012;32;3618;8;16;2600;2,995732274;SmartCache;64-bit;115;384;4;51,2
+Xeon;Server;End of Life;2012;32;662;6;12;2000;2,708050201;SmartCache;64-bit;60;384;4;42,6
+Xeon;Server;End of Life;2012;32;3618;8;16;2700;2,995732274;SmartCache;64-bit;130;384;4;51,2
+Xeon;Server;End of Life;2012;32;834,5;6;12;2400;2,708050201;SmartCache;64-bit;95;384;3;32
+Xeon;Server;End of Life;2012;32;614;6;12;2300;2,708050201;SmartCache;64-bit;95;384;4;42,6
+Xeon;Server;End of Life;2012;32;1081,5;6;12;3300;2,708050201;SmartCache;64-bit;130;256;4;51,2
+Xeon;Server;End of Life;2012;32;662;6;12;2000;2,708050201;SmartCache;64-bit;60;384;3;32
+Xeon;Server;End of Life;2012;32;536,5;6;12;2200;2,708050201;SmartCache;64-bit;95;384;3;32
+Xeon;Server;End of Life;2012;32;2727,5;8;16;2400;2,995732274;SmartCache;64-bit;95;384;4;51,2
+Xeon;Server;End of Life;2012;32;1613,5;8;16;2200;2,772588722;SmartCache;64-bit;95;384;4;42,6
+Xeon;Server;End of Life;2012;32;583;6;12;3200;2,48490665;SmartCache;64-bit;130;256;4;51,2
+Xeon;Server;Launched;2012;32;385;6;12;2000;2,708050201;SmartCache;64-bit;95;384;4;42,6
+Xeon;Server;End of Life;2012;32;389;6;12;1900;2,708050201;SmartCache;64-bit;95;384;3;32
+Xeon;Server;End of Life;2012;32;1611;6;6;2900;2,708050201;SmartCache;64-bit;130;384;4;51,2
+Xeon;Server;End of Life;2012;32;294;4;8;3600;2,302585093;SmartCache;64-bit;130;375;4;51,2
+Xeon;Server;End of Life;2012;32;296,5;4;4;2400;2,302585093;SmartCache;64-bit;80;384;4;34,1
+Xeon;Server;End of Life;2012;32;1221;6;12;2400;2,708050201;SmartCache;64-bit;95;384;4;42,6
+Xeon;Server;End of Life;2012;32;250,5;4;4;2200;2,302585093;SmartCache;64-bit;80;384;3;25
+Xeon;Server;End of Life;2012;32;887;6;12;2200;2,48490665;SmartCache;64-bit;95;384;4;34,1
+Xeon;Server;End of Life;2012;32;191,5;4;4;1800;2,302585093;SmartCache;64-bit;80;384;3;25
+Xeon;Server;End of Life;2012;32;553;4;8;2000;2,302585093;SmartCache;64-bit;95;384;4;34,1
+Xeon;Server;End of Life;2012;32;202,5;4;4;1800;2,302585093;SmartCache;64-bit;80;384;4;34,1
+Xeon;Server;End of Life;2012;22;189;2;4;2300;1,098612289;SmartCache;64-bit;17;32,23;2;25,6
+Xeon;Server;End of Life;2012;22;196;4;4;3100;2,079441542;SmartCache;64-bit;69;32,77;2;25,6
+Xeon;Server;Launched;2012;22;205;4;4;3200;2,079441542;SmartCache;64-bit;77;32,77;2;25,6
+Xeon;Server;End of Life;2012;22;222,5;4;8;3300;2,079441542;SmartCache;64-bit;69;32,77;2;25,6
+Xeon;Server;End of Life;2012;22;255,5;4;8;3400;2,079441542;SmartCache;64-bit;69;32,77;2;25,6
+Xeon;Server;End of Life;2012;22;269,5;4;8;3400;2,079441542;SmartCache;64-bit;77;32,77;2;25,6
+Xeon;Server;End of Life;2012;22;333,5;4;8;3500;2,079441542;SmartCache;64-bit;69;32,77;2;25,6
+Xeon;Server;End of Life;2012;22;623;4;8;3600;2,079441542;SmartCache;64-bit;69;32,77;2;25,6
+Xeon;Server;Launched;2012;22;334,5;4;8;3500;2,079441542;SmartCache;64-bit;77;32,77;2;25,6
+Atom;Server;Launched;2013;22;43;2;2;1700;0;Normal;64-bit;6;16;1;10,7
+Atom;Server;Launched;2013;22;70;4;4;1700;0,693147181;Normal;64-bit;9;32;2;21,3
+Atom;Server;Launched;2013;22;86;4;4;2400;0,693147181;Normal;64-bit;14;64;2;25,6
+Atom;Server;Launched;2013;22;150;8;8;1700;1,386294361;Normal;64-bit;12;32;2;25,6
+Atom;Server;Launched;2013;22;171;8;8;2400;1,386294361;Normal;64-bit;20;64;2;25,6
+Celeron;Desktop;Launched;2013;22;42;2;2;2600;0,693147181;SmartCache;64-bit;55;32;2;21
+Celeron;Desktop;Launched;2013;22;42;2;2;2300;0,693147181;SmartCache;64-bit;35;32;2;21
+Celeron;Desktop;Launched;2013;22;41;2;2;2700;0,693147181;SmartCache;64-bit;55;32;2;21
+Celeron;Desktop;Launched;2013;22;42;2;2;2400;0,693147181;SmartCache;64-bit;35;32;2;21
+Celeron;Desktop;End of Life;2013;22;52;2;2;2800;0,693147181;SmartCache;64-bit;55;32;2;21
+Celeron;Embedded;Launched;2013;22;76;2;2;2200;0,693147181;SmartCache;64-bit;35;16;2;25,6
+Celeron;Embedded;Launched;2013;22;119;2;2;1400;0,693147181;SmartCache;64-bit;17;16;2;25,6
+Celeron;Mobile;Launched;2013;22;75;2;2;1800;0,693147181;SmartCache;64-bit;35;32;2;25,6
+Celeron;Mobile;Launched;2013;22;75;2;2;2000;0,693147181;SmartCache;64-bit;37;32;2;25,6
+Celeron;Mobile;Launched;2013;22;107;2;2;1400;0,693147181;SmartCache;64-bit;15;16;2;25,6
+Celeron;Mobile;Launched;2013;22;107;2;2;1400;0,693147181;SmartCache;64-bit;15;16;2;25,6
+Celeron;Mobile;Launched;2013;22;107;2;2;1600;0,693147181;SmartCache;64-bit;15;16;2;25,6
+Celeron;Mobile;Launched;2013;22;75;2;2;1900;0,693147181;Normal;64-bit;35;32;2;25,6
+Celeron;Mobile;Launched;2013;22;75;2;2;1500;0,693147181;SmartCache;64-bit;17;32;2;25,6
+Celeron;Mobile;Launched;2013;22;75;2;2;1600;0,693147181;Normal;64-bit;17;32;2;25,6
+Celeron;Mobile;Launched;2013;22;75;2;2;2100;0,693147181;SmartCache;64-bit;35;32;2;25,6
+Core;Desktop;End of Life;2013;22;332;4;8;3700;2,302585093;SmartCache;64-bit;130;64;4;59,7
+Core;Desktop;End of Life;2013;22;594;6;12;3400;2,48490665;SmartCache;64-bit;130;64;4;59,7
+Core;Desktop;End of Life;2013;22;1059;6;12;3600;2,708050201;SmartCache;64-bit;130;64;4;59,7
+Core;Desktop;End of Life;2013;22;218,5;4;4;3400;1,791759469;SmartCache;64-bit;84;32;2;25,6
+Core;Desktop;End of Life;2013;22;317;4;8;3500;2,079441542;SmartCache;64-bit;84;32;2;25,6
+Core;Desktop;End of Life;2013;22;303;4;8;2500;2,079441542;SmartCache;64-bit;45;32;2;25,6
+Core;Desktop;Launched;2013;22;304;4;8;3100;2,079441542;SmartCache;64-bit;65;32;2;25,6
+Core;Desktop;End of Life;2013;22;358;4;8;3200;1,791759469;SmartCache;64-bit;65;32;2;25,6
+Core;Desktop;End of Life;2013;22;307,5;4;8;3400;2,079441542;SmartCache;64-bit;84;32;2;25,6
+Core;Desktop;End of Life;2013;22;303;4;8;2000;2,079441542;SmartCache;64-bit;35;32;2;25,6
+Core;Desktop;End of Life;2013;22;344,5;4;8;3500;2,079441542;SmartCache;64-bit;84;32;2;25,6
+Core;Desktop;End of Life;2013;22;184,5;4;4;3000;1,791759469;SmartCache;64-bit;84;32;2;25,6
+Core;Desktop;End of Life;2013;22;184,5;4;4;3100;1,791759469;SmartCache;64-bit;84;32;2;25,6
+Core;Desktop;End of Life;2013;22;184,5;4;4;2800;1,791759469;SmartCache;64-bit;65;32;2;25,6
+Core;Desktop;End of Life;2013;22;182;4;4;2700;1,791759469;SmartCache;64-bit;65;32;2;25,6
+Core;Desktop;End of Life;2013;22;193,5;2;4;2900;1,386294361;SmartCache;64-bit;35;32;2;25,6
+Core;Desktop;Launched;2013;22;193,5;4;4;2900;1,791759469;SmartCache;64-bit;65;32;2;25,6
+Core;Desktop;End of Life;2013;22;255;4;4;2700;1,386294361;SmartCache;64-bit;65;32;2;25,6
+Core;Desktop;End of Life;2013;22;197;4;4;3200;1,791759469;SmartCache;64-bit;84;32;2;25,6
+Core;Desktop;End of Life;2013;22;213;4;4;2300;1,791759469;SmartCache;64-bit;45;32;2;25,6
+Core;Desktop;End of Life;2013;22;276;4;4;3000;1,386294361;SmartCache;64-bit;65;32;2;25,6
+Core;Desktop;End of Life;2013;22;213;4;4;3100;1,791759469;SmartCache;64-bit;65;32;2;25,6
+Core;Desktop;End of Life;2013;22;242,5;4;4;3400;1,791759469;SmartCache;64-bit;84;32;2;25,6
+Core;Desktop;End of Life;2013;22;117;2;4;3400;1,098612289;SmartCache;64-bit;54;32;2;25,6
+Core;Desktop;End of Life;2013;22;117;2;4;2900;1,098612289;SmartCache;64-bit;35;32;2;25,6
+Core;Desktop;End of Life;2013;22;153;2;4;3600;1,386294361;SmartCache;64-bit;54;32;2;25,6
+Core;Desktop;End of Life;2013;22;138;2;4;3000;1,386294361;SmartCache;64-bit;35;32;2;25,6
+Core;Desktop;Launched;2013;22;142,5;2;4;3500;1,386294361;SmartCache;64-bit;54;32;2;25,6
+Core;Embedded;Launched;2013;22;303;4;8;2300;2,079441542;SmartCache;64-bit;45;32;2;25,6
+Core;Embedded;Launched;2013;22;378;4;8;2400;1,791759469;SmartCache;64-bit;47;32;2;25,6
+Core;Embedded;Launched;2013;22;192;2;4;2700;1,386294361;SmartCache;64-bit;35;32;2;25,6
+Core;Embedded;Launched;2013;22;225;2;4;1600;1,098612289;SmartCache;64-bit;25;16;2;25,6
+Core;Embedded;Launched;2013;22;225;2;4;2400;1,098612289;SmartCache;64-bit;37;16;2;25,6
+Core;Embedded;Launched;2013;22;122;2;4;2400;1,386294361;SmartCache;64-bit;35;32;2;25,6
+Core;Mobile;Launched;2013;22;426;2;4;2800;1,386294361;SmartCache;64-bit;28;16;2;25,6
+Core;Mobile;Launched;2013;22;426;2;4;1500;1,386294361;SmartCache;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2013;22;393;2;4;1800;1,386294361;SmartCache;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2013;22;426;2;4;1700;1,386294361;SmartCache;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2013;22;393;2;4;1700;1,386294361;SmartCache;64-bit;11,5;16;2;25,6
+Core;Mobile;Launched;2013;22;393;2;4;2100;1,386294361;SmartCache;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2013;22;346;2;4;2900;1,386294361;SmartCache;64-bit;37;32;2;25,6
+Core;Mobile;Launched;2013;22;434;4;8;2000;1,791759469;SmartCache;64-bit;47;32;2;25,6
+Core;Mobile;Launched;2013;22;378;4;8;2200;1,791759469;SmartCache;64-bit;37;32;2;25,6
+Core;Mobile;Launched;2013;22;378;4;8;2400;1,791759469;SmartCache;64-bit;47;32;2;25,6
+Core;Mobile;Launched;2013;22;378;4;8;2400;1,791759469;SmartCache;64-bit;47;32;2;25,6
+Core;Mobile;Launched;2013;22;434;4;8;2300;1,791759469;SmartCache;64-bit;47;32;2;25,6
+Core;Mobile;Launched;2013;22;380;4;8;2700;1,791759469;SmartCache;64-bit;47;32;2;25,6
+Core;Mobile;Launched;2013;22;623;4;8;2600;1,791759469;SmartCache;64-bit;47;32;2;25,6
+Core;Mobile;Launched;2013;22;623;4;8;2400;1,791759469;SmartCache;64-bit;47;32;2;25,6
+Core;Mobile;Launched;2013;22;570;4;8;2800;2,079441542;SmartCache;64-bit;47;32;2;25,6
+Core;Mobile;Launched;2013;22;315;2;4;2600;1,098612289;SmartCache;64-bit;28;16;2;25,6
+Core;Mobile;Launched;2013;22;315;2;4;2400;1,098612289;SmartCache;64-bit;28;16;2;25,6
+Core;Mobile;Launched;2013;22;315;2;4;1300;1,098612289;SmartCache;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2013;22;281;2;4;1500;1,098612289;SmartCache;64-bit;11,5;16;2;25,6
+Core;Mobile;Launched;2013;22;281;2;4;1600;1,098612289;SmartCache;64-bit;11,5;16;2;25,6
+Core;Mobile;Launched;2013;22;281;2;4;1400;1,098612289;SmartCache;64-bit;11,5;16;2;25,6
+Core;Mobile;Launched;2013;22;281;2;4;1600;1,098612289;SmartCache;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2013;22;225;2;4;2500;1,098612289;SmartCache;64-bit;37;32;2;25,6
+Core;Mobile;Launched;2013;22;225;2;4;2800;1,098612289;SmartCache;64-bit;47;32;2;25,6
+Core;Mobile;Launched;2013;22;315;2;4;1400;1,098612289;SmartCache;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2013;22;266;2;4;2800;1,098612289;SmartCache;64-bit;37;32;2;25,6
+Core;Mobile;Launched;2013;22;281;2;4;1600;1,098612289;SmartCache;64-bit;11,5;16;2;25,6
+Core;Mobile;Launched;2013;22;281;2;4;1900;1,098612289;SmartCache;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2013;22;226;2;4;2600;1,098612289;SmartCache;64-bit;37;32;2;25,6
+Core;Mobile;Launched;2013;22;281;2;4;1500;1,098612289;SmartCache;64-bit;11,5;16;2;25,6
+Core;Mobile;Launched;2013;22;281;2;4;1500;1,098612289;SmartCache;64-bit;11,5;16;2;25,6
+Core;Mobile;Launched;2013;22;281;2;4;1300;1,098612289;SmartCache;64-bit;11,5;16;2;25,6
+Core;Mobile;Launched;2013;22;281;2;4;1700;1,098612289;SmartCache;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2013;22;275;2;4;1700;1,098612289;SmartCache;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2013;22;225;2;4;2400;1,098612289;SmartCache;64-bit;37;32;2;25,6
+Core;Mobile;Launched;2013;22;315;2;4;2000;1,098612289;SmartCache;64-bit;28;16;2;25,6
+Core;Mobile;Launched;2013;22;225;2;4;2500;1,098612289;SmartCache;64-bit;37;32;2;25,6
+Core;Mobile;Launched;2013;22;281;2;4;1800;1,098612289;SmartCache;64-bit;15;16;2;25,6
+Legacy;Desktop;End of Life;2013;22;117;2;4;3200;1,098612289;SmartCache;64-bit;55;32;2;25,6
+Legacy;Desktop;End of Life;2013;22;139;2;4;3400;1,098612289;SmartCache;64-bit;55;32;2;25,6
+Legacy;Desktop;Launched;2013;22;117;2;4;3500;1,098612289;SmartCache;64-bit;55;32;2;25,6
+Legacy;Desktop;Launched;2013;22;117;2;4;3000;1,098612289;SmartCache;64-bit;35;32;2;25,6
+Legacy;Desktop;End of Life;2013;22;184,5;4;4;3100;1,791759469;SmartCache;64-bit;77;32;2;25,6
+Legacy;Desktop;End of Life;2013;22;184,5;4;4;2800;1,791759469;SmartCache;64-bit;65;32;2;25,6
+Legacy;Desktop;Launched;2013;32;37;1;2;2000;0,405465108;SmartCache;64-bit;35;32;2;17
+Legacy;Embedded;Launched;2013;22;293;2;4;2500;1,386294361;L3;64-bit;25;32;2;21,3
+Legacy;Mobile;Launched;2013;22;225;2;4;1900;1,098612289;SmartCache;64-bit;17;32;2;25,6
+Legacy;Mobile;Launched;2013;22;225;2;4;2600;1,098612289;SmartCache;64-bit;35;32;2;25,6
+Legacy;Mobile;Launched;2013;22;225;2;4;1800;1,098612289;SmartCache;64-bit;17;32;2;25,6
+Legacy;Mobile;Launched;2013;22;226;2;4;2700;1,098612289;SmartCache;64-bit;35;32;2;25,6
+Legacy;Mobile;Launched;2013;22;267,5;2;4;2900;1,098612289;SmartCache;64-bit;35;32;2;25,6
+Legacy;Mobile;Launched;2013;22;346;2;4;2000;1,386294361;SmartCache;64-bit;17;32;2;25,6
+Legacy;Mobile;Launched;2013;22;346;2;4;3000;1,386294361;SmartCache;64-bit;35;32;2;25,6
+Legacy;Mobile;Launched;2013;22;346;2;4;2100;1,386294361;SmartCache;64-bit;17;32;2;25,6
+Pentium;Desktop;Launched;2013;22;94;4;4;2410;0,693147181;L2;64-bit;10;8;2;21,3
+Pentium;Desktop;End of Life;2013;22;64;2;2;2800;1,098612289;SmartCache;64-bit;55;32;2;21
+Pentium;Desktop;End of Life;2013;22;64;2;2;2900;1,098612289;SmartCache;64-bit;55;32;2;21
+Pentium;Desktop;Launched;2013;22;64;2;2;3000;1,098612289;SmartCache;64-bit;55;32;2;21
+Pentium;Desktop;Launched;2013;22;64;2;2;2500;1,098612289;SmartCache;64-bit;35;32;2;21
+Pentium;Desktop;Launched;2013;22;64;2;2;2600;1,098612289;SmartCache;64-bit;35;32;2;21
+Pentium;Desktop;Launched;2013;22;78,5;2;2;3200;1,098612289;SmartCache;64-bit;55;32;2;25,6
+Pentium;Desktop;End of Life;2013;22;93;2;2;3300;1,098612289;SmartCache;64-bit;55;32;2;25,6
+Pentium;Desktop;End of Life;2013;22;59;2;2;3000;1,098612289;SmartCache;64-bit;53;32;2;21,3
+Pentium;Desktop;End of Life;2013;22;64;2;2;2600;1,098612289;SmartCache;64-bit;35;32;2;21,3
+Pentium;Desktop;Launched;2013;22;78,5;2;2;3200;1,098612289;SmartCache;64-bit;53;32;2;25,6
+Pentium;Desktop;End of Life;2013;22;75;2;2;2700;1,098612289;SmartCache;64-bit;35;32;2;25,6
+Pentium;Desktop;End of Life;2013;22;89,5;2;2;3300;1,098612289;SmartCache;64-bit;53;32;2;25,6
+Pentium;Embedded;Launched;2013;22;70;2;2;2300;1,098612289;SmartCache;64-bit;35;32;2;21,3
+Pentium;Mobile;Launched;2013;22;161;2;2;1200;0,693147181;SmartCache;64-bit;11,5;16;2;25,6
+Pentium;Mobile;Launched;2013;22;161;2;2;1700;0,693147181;SmartCache;64-bit;15;16;2;25,6
+Pentium;Mobile;Launched;2013;22;134;2;2;2300;0,693147181;SmartCache;64-bit;37;32;2;25,6
+Pentium;Mobile;Launched;2013;22;134;2;2;2500;0,693147181;SmartCache;64-bit;35;32;2;25,6
+Pentium;Mobile;Launched;2013;22;134;2;2;1900;0,693147181;SmartCache;64-bit;17;32;2;25,6
+Quark;Embedded;Launched;2013;32;9,62;1;1;400;-4,158883083;Normal;32-bit;2,2;2;1;1,6
+Xeon;Embedded;Launched;2013;22;1750;10;20;2400;3,218875825;SmartCache;64-bit;95;768;4;59,7
+Xeon;Embedded;Launched;2013;22;1479;10;20;1900;3,218875825;SmartCache;64-bit;70;768;4;59,7
+Xeon;Embedded;Launched;2013;22;1216;8;16;1900;2,995732274;SmartCache;64-bit;70;768;4;51,2
+Xeon;Embedded;Launched;2013;22;632;6;12;2000;2,708050201;SmartCache;64-bit;50;768;4;42,6
+Xeon;Embedded;Launched;2013;22;377;4;8;2300;2,079441542;SmartCache;64-bit;45;32;2;25,6
+Xeon;Embedded;Launched;2013;22;389;4;8;1800;2,079441542;L3;64-bit;25;32;2;25,6
+Xeon;Embedded;Launched;2013;22;545;4;8;2500;2,079441542;L3;64-bit;40;32;2;25,6
+Xeon;Server;Launched;2013;22;198;4;4;3100;2,079441542;SmartCache;64-bit;80;32;2;25,6
+Xeon;Server;Launched;2013;22;2616;12;24;2700;3,401197382;SmartCache;64-bit;130;768;4;59,7
+Xeon;Server;Launched;2013;22;2338;12;24;2400;3,401197382;SmartCache;64-bit;115;768;4;59,7
+Xeon;Server;Launched;2013;22;2059;10;20;3000;3,218875825;SmartCache;64-bit;130;768;4;59,7
+Xeon;Server;Launched;2013;22;1725;10;20;2800;3,218875825;SmartCache;64-bit;115;768;4;59,7
+Xeon;Server;Launched;2013;22;2110;8;16;3400;3,218875825;SmartCache;64-bit;150;256;4;59,7
+Xeon;Server;Launched;2013;22;1554;10;20;2500;3,218875825;SmartCache;64-bit;115;768;4;59,7
+Xeon;Server;Launched;2013;22;2057;8;16;3300;3,218875825;SmartCache;64-bit;130;768;4;59,7
+Xeon;Server;Launched;2013;22;1391;10;20;2200;3,218875825;SmartCache;64-bit;95;768;4;59,7
+Xeon;Server;Launched;2013;22;1219;10;20;1700;3,218875825;SmartCache;64-bit;70;768;4;51,2
+Xeon;Server;Launched;2013;22;1168,5;8;16;2600;2,995732274;SmartCache;64-bit;95;768;4;59,7
+Xeon;Server;Launched;2013;22;1552;6;12;3500;3,218875825;SmartCache;64-bit;130;768;4;59,7
+Xeon;Server;Launched;2013;22;887;8;16;2000;2,995732274;SmartCache;64-bit;95;768;4;51,2
+Xeon;Server;Launched;2013;22;996;4;8;3500;2,708050201;SmartCache;64-bit;130;768;4;59,7
+Xeon;Server;Launched;2013;22;612;6;12;2400;2,708050201;SmartCache;64-bit;60;768;4;51,2
+Xeon;Server;Launched;2013;22;614;6;12;2600;2,708050201;SmartCache;64-bit;80;768;4;51,2
+Xeon;Server;Launched;2013;22;408;6;12;2100;2,708050201;SmartCache;64-bit;80;768;4;51,2
+Xeon;Server;Launched;2013;22;1081,5;6;12;3700;2,708050201;SmartCache;64-bit;130;256;4;59,7
+Xeon;Server;Launched;2013;22;583;6;12;3500;2,48490665;SmartCache;64-bit;130;256;4;59,7
+Xeon;Server;Launched;2013;22;296,5;4;4;2500;2,302585093;SmartCache;64-bit;80;768;4;42,6
+Xeon;Server;Launched;2013;22;294;4;8;3700;2,302585093;SmartCache;64-bit;130;256;4;59,7
+Xeon;Server;Launched;2013;22;202;4;4;1800;2,302585093;SmartCache;64-bit;80;768;4;42,6
+Xeon;Server;Launched;2013;22;218,5;4;4;3200;2,079441542;SmartCache;64-bit;84;32;2;25,6
+Xeon;Server;End of Life;2013;22;245;4;8;3300;2,079441542;SmartCache;64-bit;80;32;2;25,6
+Xeon;Server;Launched;2013;22;250;4;8;1800;2,079441542;SmartCache;64-bit;25;32;2;25,6
+Xeon;Server;End of Life;2013;22;267,5;4;8;3400;2,079441542;SmartCache;64-bit;80;32;2;25,6
+Xeon;Server;End of Life;2013;22;281,5;4;8;3400;2,079441542;SmartCache;64-bit;84;32;2;25,6
+Xeon;Server;End of Life;2013;22;344,5;4;8;3500;2,079441542;SmartCache;64-bit;84;32;2;25,6
+Xeon;Server;Launched;2013;22;294;4;8;2500;2,079441542;SmartCache;64-bit;45;32;2;25,6
+Xeon;Server;End of Life;2013;22;333,5;4;8;3500;2,079441542;SmartCache;64-bit;80;32;2;25,6
+Xeon;Server;End of Life;2013;22;612;4;8;3600;2,079441542;SmartCache;64-bit;82;32;2;25,6
+Xeon;Server;End of Life;2013;22;662;4;8;3600;2,079441542;SmartCache;64-bit;84;32;2;25,6
+Celeron;Desktop;Launched;2014;22;42;2;2;2700;0,693147181;SmartCache;64-bit;53;32;2;21,3
+Celeron;Desktop;End of Life;2014;22;42;2;2;2400;0,693147181;SmartCache;64-bit;35;32;2;21,3
+Celeron;Desktop;End of Life;2014;22;52;2;2;2800;0,693147181;SmartCache;64-bit;53;32;2;21,3
+Celeron;Desktop;End of Life;2014;22;42;2;2;2800;0,693147181;Normal;64-bit;53;32;2;21,3
+Celeron;Desktop;End of Life;2014;22;42;2;2;2500;0,693147181;Normal;64-bit;35;32;2;21,3
+Celeron;Desktop;End of Life;2014;22;52;2;2;2900;0,693147181;Normal;64-bit;53;32;2;21,3
+Celeron;Embedded;Launched;2014;22;42;2;2;2200;0,693147181;SmartCache;64-bit;35;32;2;21,3
+Celeron;Embedded;Launched;2014;22;86;2;2;2200;0,693147181;SmartCache;64-bit;37;32;2;25,6
+Celeron;Embedded;Launched;2014;22;86;2;2;1500;0,693147181;SmartCache;64-bit;25;32;2;25,6
+Celeron;Mobile;Launched;2014;22;107;2;2;1580;0;L2;64-bit;4,5;4;1;10,66
+Celeron;Mobile;Launched;2014;22;107;2;2;2160;0;L2;64-bit;7,5;8;2;21,32
+Celeron;Mobile;Launched;2014;22;107;4;4;1830;0,693147181;L2;64-bit;7,5;8;2;21,32
+Celeron;Mobile;Launched;2014;22;75;2;2;2200;0,693147181;SmartCache;64-bit;37;32;2;25,6
+Core;Desktop;Launched;2014;22;392,5;6;12;3300;2,708050201;SmartCache;64-bit;140;64;4;68
+Core;Desktop;Launched;2014;22;588,5;6;12;3500;2,708050201;SmartCache;64-bit;140;64;4;68
+Core;Desktop;Launched;2014;22;1029;8;16;3000;2,995732274;SmartCache;64-bit;140;64;4;68
+Core;Desktop;End of Life;2014;22;303;4;8;2700;2,079441542;SmartCache;64-bit;45;32;2;25,6
+Core;Desktop;Launched;2014;22;307,5;4;8;3200;2,079441542;SmartCache;64-bit;65;32;2;25,6
+Core;Desktop;End of Life;2014;22;307,5;4;8;3600;2,079441542;SmartCache;64-bit;84;32;2;25,6
+Core;Desktop;End of Life;2014;22;303;4;8;2200;2,079441542;SmartCache;64-bit;35;32;2;25,6
+Core;Desktop;End of Life;2014;22;344,5;4;8;4000;2,079441542;SmartCache;64-bit;88;32;2;25,6
+Core;Desktop;End of Life;2014;22;184,5;4;4;3200;1,791759469;SmartCache;64-bit;84;32;2;25,6
+Core;Desktop;End of Life;2014;22;182;4;4;2900;1,791759469;SmartCache;64-bit;65;32;2;25,6
+Core;Desktop;End of Life;2014;22;182;4;4;1900;1,791759469;SmartCache;64-bit;35;32;2;25,6
+Core;Desktop;Launched;2014;22;192;4;4;2000;1,791759469;SmartCache;64-bit;35;32;2;25,6
+Core;Desktop;Launched;2014;22;197;4;4;3000;1,791759469;SmartCache;64-bit;65;32;2;25,6
+Core;Desktop;End of Life;2014;22;197;4;4;3300;1,791759469;SmartCache;64-bit;84;32;2;25,6
+Core;Desktop;End of Life;2014;22;213;4;4;2500;1,791759469;SmartCache;64-bit;45;32;2;25,6
+Core;Desktop;End of Life;2014;22;218,5;4;4;3200;1,791759469;SmartCache;64-bit;65;32;2;25,6
+Core;Desktop;End of Life;2014;22;242,5;4;4;3500;1,791759469;SmartCache;64-bit;88;32;2;25,6
+Core;Desktop;End of Life;2014;22;218,5;4;4;3500;1,791759469;SmartCache;64-bit;84;32;2;25,6
+Core;Desktop;End of Life;2014;22;117;2;4;3500;1,098612289;SmartCache;64-bit;54;32;2;25,6
+Core;Desktop;End of Life;2014;22;117;2;4;3000;1,098612289;SmartCache;64-bit;35;32;2;25,6
+Core;Desktop;End of Life;2014;22;117;2;4;3600;1,098612289;SmartCache;64-bit;54;32;2;25,6
+Core;Desktop;End of Life;2014;22;117;2;4;3100;1,098612289;SmartCache;64-bit;35;32;2;25,6
+Core;Desktop;End of Life;2014;22;142,5;2;4;3800;1,386294361;SmartCache;64-bit;54;32;2;25,6
+Core;Desktop;End of Life;2014;22;138;2;4;3200;1,386294361;SmartCache;64-bit;35;32;2;25,6
+Core;Desktop;Launched;2014;22;142,5;2;4;3700;1,386294361;SmartCache;64-bit;54;32;2;25,6
+Core;Desktop;Launched;2014;22;138;2;4;3100;1,386294361;SmartCache;64-bit;35;32;2;25,6
+Core;Desktop;End of Life;2014;22;142,5;2;4;3600;1,386294361;SmartCache;64-bit;54;32;2;25,6
+Core;Embedded;Launched;2014;22;459;4;8;2000;2,079441542;SmartCache;64-bit;27;32;2;25,6
+Core;Embedded;Launched;2014;22;459;4;8;2700;2,079441542;SmartCache;64-bit;43;32;2;25,6
+Core;Embedded;Launched;2014;22;324;2;4;2500;1,386294361;SmartCache;64-bit;27;32;2;25,6
+Core;Embedded;Launched;2014;22;266;2;4;2900;1,098612289;SmartCache;64-bit;37;16;2;25,6
+Core;Embedded;Launched;2014;22;266;2;4;1800;1,098612289;SmartCache;64-bit;25;16;2;25,6
+Core;Embedded;Launched;2014;22;225;2;4;1800;1,098612289;SmartCache;64-bit;25;32;2;25,6
+Core;Embedded;Launched;2014;22;225;2;4;2600;1,098612289;SmartCache;64-bit;37;32;2;25,6
+Core;Embedded;Launched;2014;22;138;2;4;2600;1,386294361;SmartCache;64-bit;35;32;2;25,6
+Core;Mobile;Launched;2014;22;281;2;4;1600;1,098612289;SmartCache;64-bit;11,5;16;2;25,6
+Core;Mobile;Launched;2014;22;426;2;4;3000;1,386294361;Normal;64-bit;28;16;2;25,6
+Core;Mobile;Launched;2014;14;281;2;4;800;1,386294361;Normal;64-bit;4,5;16;2;25,6
+Core;Mobile;Launched;2014;14;281;2;4;900;1,386294361;Normal;64-bit;4,5;16;2;25,6
+Core;Mobile;Launched;2014;14;281;2;4;1100;1,386294361;Normal;64-bit;4,5;16;2;25,6
+Core;Mobile;Launched;2014;14;281;2;4;1200;1,386294361;Normal;64-bit;4,5;16;2;25,6
+Core;Mobile;Launched;2014;22;393;2;4;2000;1,386294361;SmartCache;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2014;22;434;4;8;2200;1,791759469;Normal;64-bit;47;32;2;25,6
+Core;Mobile;Launched;2014;22;434;4;8;2100;1,791759469;SmartCache;64-bit;47;32;2;25,6
+Core;Mobile;Launched;2014;22;378;4;8;2300;1,791759469;SmartCache;64-bit;37;32;2;25,6
+Core;Mobile;Launched;2014;22;378;4;8;2300;1,791759469;SmartCache;64-bit;37;32;2;25,6
+Core;Mobile;Launched;2014;22;378;4;8;2500;1,791759469;SmartCache;64-bit;47;32;2;25,6
+Core;Mobile;Launched;2014;22;378;4;8;2500;1,791759469;SmartCache;64-bit;47;32;2;25,6
+Core;Mobile;Launched;2014;22;434;4;8;2500;1,791759469;Normal;64-bit;47;32;2;25,6
+Core;Mobile;Launched;2014;22;434;4;8;2400;1,791759469;SmartCache;64-bit;47;32;2;25,6
+Core;Mobile;Launched;2014;22;378;4;8;2800;1,791759469;SmartCache;64-bit;47;32;2;25,6
+Core;Mobile;Launched;2014;22;623;4;8;2800;1,791759469;Normal;64-bit;47;32;2;25,6
+Core;Mobile;Launched;2014;22;569;4;8;2900;2,079441542;SmartCache;64-bit;47;32;2;25,6
+Core;Mobile;Launched;2014;22;315;2;4;2600;1,098612289;Normal;64-bit;28;16;2;25,6
+Core;Mobile;Launched;2014;22;315;2;4;1400;1,098612289;SmartCache;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2014;22;281;2;4;1600;1,098612289;Normal;64-bit;11,5;16;2;25,6
+Core;Mobile;Launched;2014;22;281;2;4;1700;1,098612289;SmartCache;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2014;22;225;2;4;2600;1,098612289;SmartCache;64-bit;37;32;2;25,6
+Core;Mobile;Launched;2014;22;225;2;4;2900;1,098612289;SmartCache;64-bit;47;32;2;25,6
+Core;Mobile;Launched;2014;22;266;2;4;2900;1,098612289;SmartCache;64-bit;37;32;2;25,6
+Core;Mobile;Launched;2014;22;281;2;4;2000;1,098612289;SmartCache;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2014;22;315;2;4;2800;1,098612289;Normal;64-bit;28;16;2;25,6
+Core;Mobile;Launched;2014;22;281;2;4;1900;1,098612289;SmartCache;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2014;22;275;2;4;1900;1,098612289;SmartCache;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2014;22;281;2;4;2000;1,098612289;Normal;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2014;22;225;2;4;2600;1,098612289;SmartCache;64-bit;37;32;2;25,6
+Pentium;Desktop;End of Life;2014;22;59;2;2;3100;1,098612289;SmartCache;64-bit;53;32;2;21,3
+Pentium;Desktop;End of Life;2014;22;64;2;2;2700;1,098612289;SmartCache;64-bit;35;32;2;21,3
+Pentium;Desktop;End of Life;2014;22;57;2;2;3200;1,098612289;SmartCache;64-bit;53;32;2;21,3
+Pentium;Desktop;End of Life;2014;22;72;2;2;3200;1,098612289;Normal;64-bit;53;32;2;21,3
+Pentium;Desktop;End of Life;2014;22;64;2;2;2800;1,098612289;SmartCache;64-bit;35;32;2;21,3
+Pentium;Desktop;End of Life;2014;22;78,5;2;2;3300;1,098612289;SmartCache;64-bit;53;32;2;25,6
+Pentium;Desktop;End of Life;2014;22;75;2;2;2800;1,098612289;SmartCache;64-bit;35;32;2;25,6
+Pentium;Desktop;End of Life;2014;22;78,5;2;2;3400;1,098612289;SmartCache;64-bit;53;32;2;25,6
+Pentium;Desktop;End of Life;2014;22;75;2;2;2900;1,098612289;SmartCache;64-bit;35;32;2;25,6
+Pentium;Desktop;End of Life;2014;22;78,5;2;2;3500;1,098612289;SmartCache;64-bit;53;32;2;25,6
+Pentium;Embedded;Launched;2014;22;156;2;2;1400;1,791759469;SmartCache;64-bit;40;384;2;38,4
+Pentium;Mobile;Launched;2014;22;161;4;4;2160;0,693147181;L2;64-bit;7,5;8;2;21,32
+Pentium;Mobile;Launched;2014;22;134;2;2;2400;0,693147181;Normal;64-bit;37;32;2;25,6
+Quark;Embedded;Launched;2014;32;12,85;1;1;400;-4,158883083;Normal;32-bit;2,2;2;1;1,6
+Quark;Embedded;Launched;2014;32;13,39;1;1;400;-4,158883083;Normal;32-bit;2,2;2;1;1,6
+Quark;Embedded;Launched;2014;32;10,7;1;1;400;-4,158883083;Normal;32-bit;2,2;2;1;1,6
+Quark;Embedded;Launched;2014;32;11,23;1;1;400;-4,158883083;Normal;32-bit;2,2;2;1;1,6
+Quark;Embedded;Launched;2014;32;12,31;1;1;400;-4,158883083;Normal;32-bit;2,2;2;1;1,6
+Quark;Embedded;Launched;2014;32;10,16;1;1;400;-4,158883083;Normal;32-bit;2,2;2;1;1,6
+Quark;Embedded;Launched;2014;32;11,77;1;1;400;-4,158883083;Normal;32-bit;2,2;2;1;1,6
+Xeon;Embedded;Launched;2014;22;441;6;12;2000;2,708050201;SmartCache;64-bit;52;768;4;59
+Xeon;Embedded;Launched;2014;22;779;8;16;2300;2,995732274;SmartCache;64-bit;75;768;4;59
+Xeon;Embedded;Launched;2014;22;1364;10;20;2000;3,218875825;SmartCache;64-bit;75;768;4;59
+Xeon;Embedded;Launched;2014;22;1544;12;24;1800;3,401197382;SmartCache;64-bit;75;768;4;68
+Xeon;Embedded;Launched;2014;22;1832;12;24;2200;3,401197382;SmartCache;64-bit;105;768;4;68
+Xeon;Embedded;Launched;2014;22;1424;10;20;1800;3,218875825;SmartCache;64-bit;70;384;3;38,4
+Xeon;Embedded;Launched;2014;22;2405;10;20;1900;3,218875825;SmartCache;64-bit;70;768;4;59,7
+Xeon;Embedded;Launched;2014;22;1013;8;16;1800;2,995732274;SmartCache;64-bit;60;384;3;38,4
+Xeon;Embedded;Launched;2014;22;607;6;12;2000;2,708050201;SmartCache;64-bit;50;384;3;32
+Xeon;Embedded;Launched;2014;22;494;6;12;2200;2,708050201;SmartCache;64-bit;60;384;3;38,4
+Xeon;Server;Launched;2014;22;215;6;6;1600;2,708050201;SmartCache;64-bit;85;768;4;51
+Xeon;Server;Launched;2014;22;306;6;6;1900;2,708050201;SmartCache;64-bit;85;768;4;51
+Xeon;Server;Launched;2014;22;419,5;6;12;2400;2,708050201;SmartCache;64-bit;85;768;4;59
+Xeon;Server;Launched;2014;22;444;4;8;3000;2,302585093;SmartCache;64-bit;105;768;4;59
+Xeon;Server;Launched;2014;22;669;8;16;2400;2,995732274;SmartCache;64-bit;85;768;4;59
+Xeon;Server;Launched;2014;22;612;8;16;1800;2,995732274;SmartCache;64-bit;55;768;4;59
+Xeon;Server;Launched;2014;22;996;4;8;3500;2,708050201;SmartCache;64-bit;135;768;4;68
+Xeon;Server;Launched;2014;22;941,5;8;16;2600;2,995732274;SmartCache;64-bit;90;768;4;59
+Xeon;Server;Launched;2014;22;1552;6;12;3400;2,995732274;SmartCache;64-bit;135;768;4;68
+Xeon;Server;Launched;2014;22;1168,5;10;20;2300;3,218875825;SmartCache;64-bit;105;768;4;68
+Xeon;Server;Launched;2014;22;1329;12;24;1800;3,401197382;SmartCache;64-bit;65;768;4;68
+Xeon;Server;Launched;2014;22;1447;10;20;2600;3,218875825;SmartCache;64-bit;105;768;4;68
+Xeon;Server;Launched;2014;22;2057;8;16;3200;2,995732274;SmartCache;64-bit;135;768;4;68
+Xeon;Server;Launched;2014;22;1591;12;24;2300;3,401197382;SmartCache;64-bit;120;768;4;68
+Xeon;Server;Launched;2014;22;1747;12;24;2500;3,401197382;SmartCache;64-bit;120;768;4;68
+Xeon;Server;Launched;2014;22;1846;14;28;2000;3,555348061;SmartCache;64-bit;120;768;4;68
+Xeon;Server;Launched;2014;22;2143;10;20;3100;3,218875825;SmartCache;64-bit;160;768;4;68
+Xeon;Server;Launched;2014;22;2092;12;24;2600;3,401197382;SmartCache;64-bit;135;768;4;68
+Xeon;Server;Launched;2014;22;1723;8;16;3200;2,995732274;SmartCache;64-bit;140;768;4;68
+Xeon;Server;Launched;2014;22;2426;14;28;2300;3,555348061;SmartCache;64-bit;120;768;4;68
+Xeon;Server;Launched;2014;22;1080;8;16;3000;2,995732274;SmartCache;64-bit;140;768;4;68
+Xeon;Server;Launched;2014;22;584,5;6;12;3500;2,708050201;SmartCache;64-bit;140;768;4;68
+Xeon;Server;Launched;2014;22;2704;14;28;2600;3,555348061;SmartCache;64-bit;145;768;4;68
+Xeon;Server;Launched;2014;22;372;4;8;3700;2,302585093;SmartCache;64-bit;140;768;4;68
+Xeon;Server;Launched;2014;22;295,5;4;8;3500;2,302585093;SmartCache;64-bit;140;768;4;68
+Xeon;Server;Launched;2014;22;1440;10;20;2400;3,218875825;SmartCache;64-bit;95;384;3;38,4
+Xeon;Server;Launched;2014;22;1219;10;20;1700;3,218875825;SmartCache;64-bit;60;384;3;38,4
+Xeon;Server;Launched;2014;22;1107;8;16;2500;2,995732274;SmartCache;64-bit;95;384;3;38,4
+Xeon;Server;Launched;2014;22;4394;12;24;2400;3,401197382;SmartCache;64-bit;115;768;4;59,7
+Xeon;Server;Launched;2014;22;3616;10;20;2400;3,218875825;SmartCache;64-bit;95;768;4;59,7
+Xeon;Server;Launched;2014;22;832;8;16;1900;2,995732274;SmartCache;64-bit;95;384;3;38,4
+Xeon;Server;Launched;2014;22;612;6;12;2400;2,708050201;SmartCache;64-bit;60;384;3;38,4
+Xeon;Server;Launched;2014;22;2725;10;20;2200;2,995732274;SmartCache;64-bit;95;768;4;59,7
+Xeon;Server;Launched;2014;22;551;6;12;2500;2,708050201;SmartCache;64-bit;80;384;3;38,4
+Xeon;Server;Launched;2014;22;2108;8;8;3300;2,772588722;SmartCache;64-bit;130;768;4;59,7
+Xeon;Server;Launched;2014;22;406;6;12;2200;2,708050201;SmartCache;64-bit;80;384;3;38,4
+Xeon;Server;Launched;2014;22;1611;8;16;2600;2,995732274;SmartCache;64-bit;95;768;4;51,2
+Xeon;Server;Launched;2014;22;1219;8;16;2300;2,772588722;SmartCache;64-bit;95;768;4;51,2
+Xeon;Server;Launched;2014;22;885;6;12;2600;2,708050201;SmartCache;64-bit;95;768;4;42,6
+Xeon;Server;Launched;2014;22;250;4;4;2400;2,302585093;SmartCache;64-bit;80;384;3;32
+Xeon;Server;Launched;2014;22;192;4;4;1800;2,302585093;SmartCache;64-bit;80;384;3;32
+Xeon;Server;Launched;2014;22;551;4;8;2200;2,302585093;SmartCache;64-bit;95;768;4;42,6
+Xeon;Server;Launched;2014;22;218,5;4;4;3300;2,079441542;SmartCache;64-bit;84;32;2;25,6
+Xeon;Server;Launched;2014;22;245;4;8;3400;2,079441542;SmartCache;64-bit;80;32;2;25,6
+Xeon;Server;Launched;2014;22;278;4;8;2000;2,079441542;SmartCache;64-bit;25;32;2;25,6
+Xeon;Server;Launched;2014;22;267,5;4;8;3500;2,079441542;SmartCache;64-bit;80;32;2;25,6
+Xeon;Server;Launched;2014;22;281,5;4;8;3500;2,079441542;SmartCache;64-bit;84;32;2;25,6
+Xeon;Server;Launched;2014;22;333,5;4;8;3600;2,079441542;SmartCache;64-bit;80;32;2;25,6
+Xeon;Server;Launched;2014;22;328;4;8;2700;2,079441542;SmartCache;64-bit;45;32;2;25,6
+Xeon;Server;Launched;2014;22;344,5;4;8;3600;2,079441542;SmartCache;64-bit;84;32;2;25,6
+Xeon;Server;Launched;2014;22;612;4;8;3700;2,079441542;SmartCache;64-bit;82;32;2;25,6
+Xeon;Server;End of Life;2014;22;662;4;8;3700;2,079441542;SmartCache;64-bit;84;32;2;25,6
+Xeon;Server;End of Life;2014;22;774;4;8;3200;2,079441542;SmartCache;64-bit;65;32;2;25,6
+Xeon;Server;Launched;2014;22;4227;15;30;2300;3,401197382;Normal;64-bit;130;1540;4;85
+Xeon;Server;Launched;2014;22;5339;15;30;2500;3,624340933;Normal;64-bit;130;1540;4;85
+Xeon;Server;Launched;2014;22;6451;15;30;2800;3,624340933;Normal;64-bit;155;1540;4;85
+Xeon;Server;Launched;2014;22;1223;6;12;1900;2,48490665;Normal;64-bit;105;1540;4;68
+Xeon;Server;Launched;2014;22;1446;8;16;2000;2,772588722;Normal;64-bit;105;1540;4;68
+Xeon;Server;Launched;2014;22;2059;10;20;2200;2,995732274;Normal;64-bit;105;1540;4;68
+Xeon;Server;Launched;2014;22;2837;12;24;2300;3,17805383;Normal;64-bit;105;1540;4;68
+Xeon;Server;Launched;2014;22;3838;12;24;2600;3,401197382;Normal;64-bit;130;1540;4;85
+Xeon;Server;Launched;2014;22;4394;15;30;2300;3,401197382;Normal;64-bit;130;1540;4;85
+Xeon;Server;Launched;2014;22;5506;15;30;2500;3,624340933;Normal;64-bit;130;1540;4;85
+Xeon;Server;Launched;2014;22;6619;15;30;2800;3,624340933;Normal;64-bit;155;1540;4;85
+Xeon;Server;Launched;2014;22;6841;6;12;3400;3,624340933;Normal;64-bit;155;1540;4;85
+Xeon;Server;Launched;2014;22;6841;10;20;3200;3,624340933;Normal;64-bit;155;1540;4;85
+Xeon;Server;Launched;2014;22;6841;15;30;2800;3,624340933;Normal;64-bit;155;1540;4;85
+Xeon;Server;Launched;2014;22;5729;15;30;2200;3,624340933;Normal;64-bit;105;1540;4;85
+Xeon;Server;Launched;2014;22;5729;15;30;2500;3,624340933;Normal;64-bit;130;1540;4;85
+Xeon;Server;Launched;2014;22;4616;15;30;2300;3,401197382;Normal;64-bit;130;1540;4;85
+Xeon;Server;Launched;2014;22;3838;12;12;3000;3,401197382;Normal;64-bit;130;1540;4;85
+Xeon;Server;Launched;2014;22;3059;12;24;2300;3,17805383;Normal;64-bit;105;1540;4;68
+Celeron;Desktop;Launched;2015;14;42;2;2;2800;0,693147181;SmartCache;64-bit;51;64;2;34,1
+Celeron;Desktop;Launched;2015;14;52;2;2;2900;0,693147181;SmartCache;64-bit;51;64;2;34,1
+Celeron;Embedded;Launched;2015;14;42;2;2;2300;0,693147181;SmartCache;64-bit;35;64;2;34,1
+Celeron;Mobile;Launched;2015;14;107;2;2;1500;0,693147181;Normal;64-bit;15;16;2;25,6
+Celeron;Mobile;Launched;2015;14;107;2;2;1700;0,693147181;Normal;64-bit;15;16;2;25,6
+Celeron;Mobile;Launched;2015;14;107;2;2;1700;0,693147181;Normal;64-bit;15;16;2;25,6
+Celeron;Mobile;Launched;2015;14;107;2;2;1900;0,693147181;Normal;64-bit;15;16;2;25,6
+Celeron;Mobile;Launched;2015;14;107;2;2;1600;0,693147181;SmartCache;64-bit;15;32;2;34,1
+Celeron;Mobile;Launched;2015;14;107;2;2;2000;0,693147181;SmartCache;64-bit;15;32;2;34,1
+Core;Desktop;Launched;2015;14;244;4;4;2800;1,386294361;Normal;64-bit;65;32;2;29,86
+Core;Desktop;Launched;2015;14;276,5;4;4;3100;1,386294361;Normal;64-bit;65;32;2;25,6
+Core;Desktop;Launched;2015;14;265;4;4;3100;1,386294361;Normal;64-bit;65;32;2;29,86
+Core;Desktop;End of Life;2015;22;117;2;4;3700;1,098612289;Normal;64-bit;54;32;2;25,6
+Core;Desktop;End of Life;2015;22;117;2;4;3200;1,098612289;Normal;64-bit;35;32;2;25,6
+Core;Desktop;End of Life;2015;22;138;2;4;3300;1,386294361;Normal;64-bit;35;32;2;25,6
+Core;Desktop;Launched;2015;14;371,5;4;8;3300;1,791759469;Normal;64-bit;65;32;2;25,6
+Core;Desktop;Launched;2015;14;348;4;8;3300;1,791759469;Normal;64-bit;65;32;2;29,86
+Core;Desktop;Launched;2015;14;117;2;4;3600;1,098612289;Normal;64-bit;54;64;2;34,1
+Core;Desktop;Launched;2015;14;307,5;4;8;3400;2,079441542;SmartCache;64-bit;65;64;2;34,1
+Core;Desktop;Launched;2015;14;303;4;8;2800;2,079441542;SmartCache;64-bit;35;64;2;34,1
+Core;Desktop;Launched;2015;14;344,5;4;8;4000;2,079441542;SmartCache;64-bit;91;64;2;34,1
+Core;Desktop;Launched;2015;14;182;4;4;2200;1,791759469;SmartCache;64-bit;35;64;2;34,1
+Core;Desktop;Launched;2015;14;184,5;4;4;2700;1,791759469;SmartCache;64-bit;65;64;2;34,1
+Core;Desktop;Launched;2015;14;184,5;4;4;2800;1,791759469;Normal;64-bit;65;64;2;34,1
+Core;Desktop;Launched;2015;14;192;4;4;2500;1,791759469;SmartCache;64-bit;35;64;2;34,1
+Core;Desktop;Launched;2015;14;197;4;4;3200;1,791759469;SmartCache;64-bit;65;64;2;34,1
+Core;Desktop;Launched;2015;14;213;4;4;2700;1,791759469;SmartCache;64-bit;35;64;2;34,1
+Core;Desktop;Launched;2015;14;242,5;4;4;3500;1,791759469;SmartCache;64-bit;91;64;2;34,1
+Core;Desktop;Launched;2015;14;218,5;4;4;3300;1,791759469;SmartCache;64-bit;65;64;2;34,1
+Core;Desktop;Launched;2015;14;117;2;4;3200;1,098612289;SmartCache;64-bit;35;64;2;34,1
+Core;Desktop;Launched;2015;14;117;2;4;3700;1,098612289;SmartCache;64-bit;51;64;2;34,1
+Core;Desktop;Launched;2015;14;153;2;4;3900;1,386294361;SmartCache;64-bit;51;64;2;34,1
+Core;Desktop;Launched;2015;14;142,5;2;4;3300;1,386294361;SmartCache;64-bit;35;64;2;34,1
+Core;Desktop;Launched;2015;14;142,5;2;4;3800;1,386294361;SmartCache;64-bit;51;64;2;34,1
+Core;Embedded;Launched;2015;14;378;4;8;2600;1,791759469;SmartCache;64-bit;47;32;2;25,6
+Core;Embedded;Launched;2015;14;435;4;8;2700;1,791759469;SmartCache;64-bit;47;32;2;25,6
+Core;Embedded;Launched;2015;14;303;4;8;2400;2,079441542;SmartCache;64-bit;35;64;2;34,1
+Core;Embedded;Launched;2015;14;378;4;8;2800;2,079441542;SmartCache;64-bit;45;64;2;34,1
+Core;Embedded;Launched;2015;14;378;4;8;2000;2,079441542;SmartCache;64-bit;25;64;2;34,1
+Core;Embedded;Launched;2015;14;250;4;4;1900;1,791759469;SmartCache;64-bit;25;64;2;34,1
+Core;Embedded;Launched;2015;14;250;4;4;2700;1,791759469;SmartCache;64-bit;45;64;2;34,1
+Core;Embedded;Launched;2015;14;192;4;4;2300;1,791759469;SmartCache;64-bit;35;64;2;34,1
+Core;Embedded;Launched;2015;14;117;2;4;2700;1,386294361;SmartCache;64-bit;35;64;2;34,1
+Core;Embedded;Launched;2015;14;225;2;4;1900;1,098612289;SmartCache;64-bit;25;64;2;34,1
+Core;Embedded;Launched;2015;14;225;2;4;2700;1,098612289;SmartCache;64-bit;35;64;2;34,1
+Core;Mobile;Launched;2015;14;281;2;4;2200;1,098612289;Normal;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2015;14;315;2;4;1600;1,098612289;Normal;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2015;14;315;2;4;2700;1,098612289;Normal;64-bit;28;16;2;25,6
+Core;Mobile;Launched;2015;14;315;2;4;2900;1,098612289;Normal;64-bit;28;16;2;25,6
+Core;Mobile;Launched;2015;14;281;2;4;2300;1,098612289;Normal;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2015;14;289;2;4;3100;1,386294361;Normal;64-bit;47;32;2;25,6
+Core;Mobile;Launched;2015;14;315;2;4;1800;1,098612289;Normal;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2015;14;275;2;4;2000;1,098612289;Normal;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2015;14;281;2;4;2100;1,098612289;Normal;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2015;14;275;2;4;2100;1,098612289;Normal;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2015;14;281;2;4;2200;1,098612289;Normal;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2015;14;315;2;4;2500;1,098612289;Normal;64-bit;28;16;2;25,6
+Core;Mobile;Launched;2015;22;378;4;8;2400;1,791759469;Normal;64-bit;37;32;2;25,6
+Core;Mobile;Launched;2015;22;378;4;8;2600;1,791759469;Normal;64-bit;47;32;2;25,6
+Core;Mobile;Launched;2015;14;393;2;4;2600;1,386294361;Normal;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2015;14;426;2;4;2200;1,386294361;Normal;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2015;14;378;4;8;2700;1,791759469;Normal;64-bit;47;32;2;25,6
+Core;Mobile;Launched;2015;14;434;4;8;2500;1,791759469;Normal;64-bit;47;32;2;25,6
+Core;Mobile;Launched;2015;14;434;4;8;2700;1,791759469;Normal;64-bit;47;32;2;25,6
+Core;Mobile;Launched;2015;14;623;4;8;2900;1,791759469;Normal;64-bit;47;32;2;25,6
+Core;Mobile;Launched;2015;14;393;2;4;2400;1,386294361;Normal;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2015;14;281;2;4;900;1,386294361;SmartCache;64-bit;4,5;16;2;29,8
+Core;Mobile;Launched;2015;14;304;2;4;3100;1,386294361;SmartCache;64-bit;28;32;2;34,1
+Core;Mobile;Launched;2015;14;304;2;4;2900;1,386294361;SmartCache;64-bit;28;32;2;34,1
+Core;Mobile;Launched;2015;14;393;2;4;2500;1,386294361;SmartCache;64-bit;15;32;2;34,1
+Core;Mobile;Launched;2015;14;393;2;4;2600;1,386294361;SmartCache;64-bit;15;32;2;34,1
+Core;Mobile;Launched;2015;14;415;2;4;2200;1,386294361;SmartCache;64-bit;15;32;2;34,1
+Core;Mobile;Launched;2015;14;378;4;8;2600;1,791759469;SmartCache;64-bit;45;64;2;34,1
+Core;Mobile;Launched;2015;14;378;4;8;2700;2,079441542;SmartCache;64-bit;45;64;2;34,1
+Core;Mobile;Launched;2015;14;378;4;8;2700;2,079441542;SmartCache;64-bit;45;64;2;34,1
+Core;Mobile;Launched;2015;14;568;4;8;2900;2,079441542;SmartCache;64-bit;45;64;2;34,1
+Core;Mobile;Launched;2015;14;304;2;4;1800;1,386294361;SmartCache;64-bit;15;32;2;34,1
+Core;Mobile;Launched;2015;14;281;2;4;2300;1,098612289;SmartCache;64-bit;15;32;2;34,1
+Core;Mobile;Launched;2015;14;281;2;4;2400;1,098612289;SmartCache;64-bit;15;32;2;34,1
+Core;Mobile;Launched;2015;14;250;4;4;2300;1,791759469;SmartCache;64-bit;45;64;2;34,1
+Core;Mobile;Launched;2015;14;304;2;4;2000;1,386294361;SmartCache;64-bit;15;32;2;34,1
+Core;Mobile;Launched;2015;14;250;4;4;2600;1,791759469;SmartCache;64-bit;45;64;2;34,1
+Core;Mobile;Launched;2015;14;304;2;4;2700;1,098612289;SmartCache;64-bit;28;32;2;34,1
+Core;Mobile;Launched;2015;14;281;2;4;2300;1,098612289;SmartCache;64-bit;15;32;2;34,1
+Core;Mobile;Launched;2015;14;225;2;4;2700;1,098612289;SmartCache;64-bit;35;64;2;34,1
+Core;Mobile;Launched;2015;14;281;2;4;1100;1,386294361;SmartCache;64-bit;4,5;16;2;29,8
+Core;Mobile;Launched;2015;14;281;2;4;1100;1,386294361;SmartCache;64-bit;4,5;16;2;29,8
+Core;Mobile;Launched;2015;14;393;2;4;1200;1,386294361;SmartCache;64-bit;4,5;16;2;29,8
+Core;Mobile;Launched;2015;14;426;2;4;2000;1,386294361;SmartCache;64-bit;15;16;2;25,6
+Core;Mobile;Launched;2015;14;426;2;4;3100;1,386294361;Normal;64-bit;28;16;2;25,6
+Pentium;Desktop;Launched;2015;14;64;2;2;2900;1,098612289;SmartCache;64-bit;35;64;2;34,1
+Pentium;Desktop;Launched;2015;14;64;2;2;3300;1,098612289;SmartCache;64-bit;54;64;2;34,1
+Pentium;Desktop;Launched;2015;14;89,5;2;2;3600;1,098612289;SmartCache;64-bit;51;64;2;34,1
+Pentium;Desktop;Launched;2015;14;78,5;2;2;3500;1,098612289;SmartCache;64-bit;51;64;2;34,1
+Pentium;Desktop;Launched;2015;14;75;2;2;3000;1,098612289;SmartCache;64-bit;35;64;2;34,1
+Pentium;Desktop;End of Life;2015;22;64;2;2;3300;1,098612289;Normal;64-bit;53;32;2;21,3
+Pentium;Desktop;End of Life;2015;22;64;2;2;2900;1,098612289;Normal;64-bit;35;32;2;21,3
+Pentium;Desktop;End of Life;2015;22;75;2;2;3000;1,098612289;Normal;64-bit;35;32;2;25,6
+Pentium;Desktop;End of Life;2015;22;86;2;2;3600;1,098612289;Normal;64-bit;53;32;2;25,6
+Pentium;Embedded;Launched;2015;14;64;2;2;2400;1,098612289;SmartCache;64-bit;35;64;2;34,1
+Pentium;Mobile;Launched;2015;14;161;2;4;1900;0,693147181;Normal;64-bit;15;16;2;25,6
+Pentium;Mobile;Launched;2015;14;161;2;4;2100;0,693147181;SmartCache;64-bit;15;32;2;34,1
+Pentium;Mobile;Launched;2015;14;161;2;4;1500;0,693147181;SmartCache;64-bit;6;16;2;29,8
+Pentium;Mobile;Launched;2015;14;161;2;2;1900;0,693147181;Normal;64-bit;15;16;2;25,6
+Xeon;Embedded;Launched;2015;14;393;4;8;1800;1,791759469;SmartCache;64-bit;47;32;2;25,6
+Xeon;Embedded;Launched;2015;22;1832;12;24;2200;3,401197382;SmartCache;64-bit;105;768;4;68
+Xeon;Embedded;Launched;2015;22;2405;12;24;1700;3,401197382;Normal;64-bit;105;768;4;68
+Xeon;Embedded;Launched;2015;22;256;4;8;1800;2,302585093;Normal;64-bit;45;384;3;51,2
+Xeon;Embedded;Launched;2015;22;472;6;12;2000;2,708050201;Normal;64-bit;50;384;3;51,2
+Xeon;Embedded;Launched;2015;22;811;8;16;1800;2,995732274;Normal;64-bit;55;384;3;51,2
+Xeon;Embedded;Launched;2015;22;1555;10;20;1800;3,218875825;Normal;64-bit;70;384;3;51,2
+Xeon;Embedded;Launched;2015;22;608;8;16;2000;2,995732274;Normal;64-bit;65;384;3;51,2
+Xeon;Embedded;Launched;2015;14;377;4;8;2400;2,079441542;SmartCache;64-bit;35;64;2;34,1
+Xeon;Embedded;Launched;2015;14;433;4;8;2000;2,079441542;SmartCache;64-bit;25;64;2;34,1
+Xeon;Embedded;Launched;2015;14;449;4;8;2000;1,791759469;SmartCache;64-bit;47;32;2;25,6
+Xeon;Mobile;Launched;2015;14;434;4;8;2800;2,079441542;SmartCache;64-bit;45;64;2;34,1
+Xeon;Mobile;Launched;2015;14;623;4;8;2900;2,079441542;SmartCache;64-bit;45;64;2;34,1
+Xeon;Server;Launched;2015;14;198;4;4;3000;2,079441542;SmartCache;64-bit;80;64;2;34,1
+Xeon;Server;Launched;2015;22;1219;10;20;1700;3,218875825;Normal;64-bit;105;768;4;68
+Xeon;Server;Launched;2015;22;1668;10;20;2000;3,218875825;Normal;64-bit;105;768;4;68
+Xeon;Server;Launched;2015;22;2225;10;10;2600;3,218875825;Normal;64-bit;135;768;4;68
+Xeon;Server;Launched;2015;22;2859;12;24;1900;3,401197382;Normal;64-bit;105;768;4;68
+Xeon;Server;Launched;2015;22;3838;12;24;2100;3,401197382;Normal;64-bit;105;768;4;68
+Xeon;Server;Launched;2015;22;4616;6;12;2900;3,401197382;Normal;64-bit;135;768;4;68
+Xeon;Server;Launched;2015;22;4727;14;28;2100;3,555348061;Normal;64-bit;120;768;4;68
+Xeon;Server;Launched;2015;22;5729;16;32;2000;3,688879454;Normal;64-bit;135;768;4;68
+Xeon;Server;Launched;2015;22;7007;18;36;2100;3,80666249;Normal;64-bit;135;768;4;68
+Xeon;Server;Launched;2015;14;218,5;4;4;3300;2,079441542;SmartCache;64-bit;80;64;2;34,1
+Xeon;Server;Launched;2015;14;255,5;4;8;3400;2,079441542;SmartCache;64-bit;80;64;2;34,1
+Xeon;Server;Launched;2015;14;277;4;8;3500;2,079441542;SmartCache;64-bit;80;64;2;34,1
+Xeon;Server;Launched;2015;14;250;4;4;2000;2,079441542;SmartCache;64-bit;25;64;2;34,1
+Xeon;Server;Launched;2015;14;278;4;8;2100;2,079441542;SmartCache;64-bit;25;64;2;34,1
+Xeon;Server;Launched;2015;14;289;4;8;3500;2,079441542;SmartCache;64-bit;80;64;2;34,1
+Xeon;Server;Launched;2015;14;294;4;8;2900;2,079441542;SmartCache;64-bit;45;64;2;34,1
+Xeon;Server;Launched;2015;14;333,5;4;8;3600;2,079441542;SmartCache;64-bit;80;64;2;34,1
+Xeon;Server;Launched;2015;14;344,5;4;8;3600;2,079441542;SmartCache;64-bit;80;64;2;34,1
+Xeon;Server;Launched;2015;14;612;4;8;3700;2,079441542;SmartCache;64-bit;80;64;2;34,1
+Xeon;Server;Launched;2015;14;417;4;8;2300;1,791759469;Normal;64-bit;35;32;2;29,8
+Xeon;Server;Launched;2015;14;556;4;8;3500;1,791759469;Normal;64-bit;95;32;2;29,8
+Xeon;Server;Launched;2015;14;445;4;8;3400;1,791759469;Normal;64-bit;65;32;2;29,8
+Xeon;Server;Launched;2015;22;1223;8;16;2000;2,995732274;Last Level Cache;64-bit;115;1540;4;85
+Xeon;Server;Launched;2015;22;2170;12;24;2100;3,401197382;Last Level Cache;64-bit;115;1540;4;85
+Xeon;Server;Launched;2015;22;1502;10;20;1900;3,218875825;Last Level Cache;64-bit;115;1540;4;85
+Xeon;Server;Launched;2015;22;3003;14;28;2200;3,555348061;Last Level Cache;64-bit;115;1540;4;85
+Xeon;Server;Launched;2015;22;4061;16;32;2200;3,688879454;Last Level Cache;64-bit;140;1540;4;85
+Xeon;Server;Launched;2015;22;4672;16;32;2500;3,80666249;Normal;64-bit;165;1540;4;85
+Xeon;Server;Launched;2015;22;4672;18;36;2100;3,80666249;Last Level Cache;64-bit;140;1540;4;85
+Xeon;Server;Launched;2015;22;5895;18;36;2300;3,80666249;Last Level Cache;64-bit;150;1540;4;85
+Xeon;Server;Launched;2015;22;6063;18;36;2000;3,80666249;Last Level Cache;64-bit;115;1540;4;85
+Xeon;Server;Launched;2015;22;7174;18;36;2500;3,80666249;Last Level Cache;64-bit;165;1540;4;85
+Xeon;Server;Launched;2015;22;6841;10;20;2800;3,80666249;Last Level Cache;64-bit;165;1540;4;85
+Xeon;Server;Launched;2015;22;6841;4;8;3200;3,80666249;Last Level Cache;64-bit;140;1540;4;85
+Celeron;Embedded;Launched;2016;14;107;2;2;2400;0,693147181;SmartCache;64-bit;35;64;2;34,1
+Celeron;Embedded;Launched;2016;14;107;2;2;1600;0,693147181;SmartCache;64-bit;25;64;2;34,1
+Core;Mobile;Launched;2016;14;393;2;4;1300;1,386294361;SmartCache;64-bit;4,5;16;2;29,8
+Core;Mobile;Launched;2016;14;281;2;4;1200;1,386294361;SmartCache;64-bit;4,5;16;2;29,8
+Core;Mobile;Launched;2016;14;281;2;4;2500;1,098612289;SmartCache;64-bit;15;32;2;34,1
+Core;Mobile;Launched;2016;14;393;2;4;2700;1,386294361;SmartCache;64-bit;15;32;2;34,1
+Core;Mobile;Launched;2016;14;281;2;4;1000;1,386294361;SmartCache;64-bit;4,5;16;2;29,8
+Core;Mobile;Launched;2016;14;281;2;4;2400;1,098612289;SmartCache;64-bit;15;32;2;34,1
+Core;Mobile;Launched;2016;14;415;2;4;2400;1,386294361;SmartCache;64-bit;15;32;2;34,1
+Core;Mobile;Launched;2016;14;434;4;8;2600;1,791759469;SmartCache;64-bit;45;64;2;34,1
+Core;Mobile;Launched;2016;14;434;4;8;2700;2,079441542;SmartCache;64-bit;45;64;2;34,1
+Core;Mobile;Launched;2016;14;623;4;8;2800;2,079441542;SmartCache;64-bit;45;64;2;34,1
+Core;Mobile;Launched;2016;14;306;4;4;2300;1,791759469;SmartCache;64-bit;45;64;2;34,1
+Core;Mobile;Launched;2016;14;281;2;4;2000;1,098612289;SmartCache;64-bit;15;32;2;34,1
+Core;Mobile;Launched;2016;14;304;2;4;2400;1,098612289;SmartCache;64-bit;28;32;2;34,1
+Pentium;Mobile;Launched;2016;22;86;4;4;2410;0,693147181;L2;64-bit;10;8;2;21,3
+Xeon;Embedded;Launched;2016;14;363;8;16;1600;2,995732274;SmartCache;64-bit;50;1540;4;59,7
+Xeon;Embedded;Launched;2016;14;779;10;20;2200;3,218875825;SmartCache;64-bit;75;1540;4;68,3
+Xeon;Embedded;Launched;2016;14;1364;12;24;1900;3,401197382;SmartCache;64-bit;75;1540;4;68,3
+Xeon;Embedded;Launched;2016;14;1544;14;28;1800;3,555348061;SmartCache;64-bit;75;1540;4;76,8
+Xeon;Embedded;Launched;2016;14;1832;14;28;2300;3,555348061;SmartCache;64-bit;105;1540;4;76,8
+Xeon;Embedded;Launched;2016;14;4560;22;44;2200;4,007333185;Normal;64-bit;145;1540;4;76,8
+Xeon;Embedded;Launched;2016;14;2535;14;28;1800;3,555348061;Normal;64-bit;75;1540;4;68
+Xeon;Mobile;Launched;2016;14;489;4;8;2800;2,079441542;SmartCache;64-bit;45;64;2;34,1
+Xeon;Mobile;Launched;2016;14;679;4;8;2900;2,079441542;SmartCache;64-bit;45;64;2;34,1
+Xeon;Mobile;Launched;2016;14;1207;4;8;3000;2,079441542;SmartCache;64-bit;45;64;2;34,1
+Xeon;Server;Launched;2016;14;295,5;4;8;3500;2,302585093;Normal;64-bit;140;1540;4;76,8
+Xeon;Server;Launched;2016;14;406;4;8;3700;2,302585093;Normal;64-bit;140;1540;4;76,8
+Xeon;Server;Launched;2016;14;619;6;12;3600;2,708050201;Normal;64-bit;140;1540;4;76,8
+Xeon;Server;Launched;2016;14;1113;8;16;3200;2,995732274;Normal;64-bit;140;1540;4;76,8
+Xeon;Server;Launched;2016;14;1723;8;16;3400;2,995732274;Normal;64-bit;140;1540;4;76,8
+Xeon;Server;Launched;2016;14;213;6;6;1700;2,708050201;SmartCache;64-bit;85;1540;4;59,7
+Xeon;Server;Launched;2016;14;308;8;8;1700;2,995732274;SmartCache;64-bit;85;1540;4;59,7
+Xeon;Server;Launched;2016;14;419,5;8;16;2100;2,995732274;SmartCache;64-bit;85;1540;4;68,3
+Xeon;Server;Launched;2016;14;444;4;8;2600;2,302585093;SmartCache;64-bit;85;1540;4;68,3
+Xeon;Server;Launched;2016;14;612;10;20;1800;3,218875825;SmartCache;64-bit;55;1540;4;68,3
+Xeon;Server;Launched;2016;14;669;10;20;2200;3,218875825;SmartCache;64-bit;85;1540;4;68,3
+Xeon;Server;Launched;2016;14;996;4;8;3500;2,708050201;SmartCache;64-bit;135;1540;4;76,8
+Xeon;Server;Launched;2016;14;939;10;20;2400;3,218875825;SmartCache;64-bit;90;1540;4;68,3
+Xeon;Server;Launched;2016;14;1552;6;12;3400;2,995732274;SmartCache;64-bit;135;1540;4;76,8
+Xeon;Server;Launched;2016;14;1329;14;28;1700;3,555348061;SmartCache;64-bit;65;1540;4;76,8
+Xeon;Server;Launched;2016;14;1168,5;12;24;2200;3,401197382;SmartCache;64-bit;105;1540;4;76,8
+Xeon;Server;Launched;2016;14;2057;8;16;3200;3,218875825;SmartCache;64-bit;135;1540;4;76,8
+Xeon;Server;Launched;2016;14;1747;14;28;2400;3,555348061;SmartCache;64-bit;120;1540;4;76,8
+Xeon;Server;Launched;2016;14;1846;16;32;2100;3,688879454;SmartCache;64-bit;120;1540;4;76,8
+Xeon;Server;Launched;2016;14;2143;12;24;3000;3,401197382;SmartCache;64-bit;160;1540;4;76,8
+Xeon;Server;Launched;2016;14;2092;14;28;2600;3,555348061;SmartCache;64-bit;135;1540;4;76,8
+Xeon;Server;Launched;2016;14;2426;18;36;2100;3,80666249;SmartCache;64-bit;120;1540;4;76,8
+Xeon;Server;Launched;2016;14;2891;16;32;2600;3,688879454;SmartCache;64-bit;145;1540;4;76,8
+Xeon;Server;Launched;2016;14;2702;18;36;2300;3,80666249;SmartCache;64-bit;145;1540;4;76,8
+Xeon;Server;Launched;2016;14;3226;20;40;2200;3,912023005;SmartCache;64-bit;135;1540;4;76,8
+Xeon;Server;Launched;2016;14;4115;22;44;2200;4,007333185;SmartCache;64-bit;145;1540;4;76,8
+Xeon;Server;Launched;2016;14;4938;22;44;2400;4,007333185;Normal;64-bit;145;1540;4;76,8
+Xeon;Server;Launched;2016;14;1219;10;20;1800;3,218875825;Normal;64-bit;105;1540;4;68
+Xeon;Server;Launched;2016;14;1668;10;20;2100;3,218875825;Normal;64-bit;105;1540;4;68
+Xeon;Server;Launched;2016;14;2225;10;10;2600;3,218875825;Normal;64-bit;135;1540;4;68
+Xeon;Server;Launched;2016;14;2837;12;24;2100;3,401197382;Normal;64-bit;105;1540;4;68
+Xeon;Server;Launched;2016;14;3838;14;28;2200;3,555348061;Normal;64-bit;105;1540;4;68
+Xeon;Server;Launched;2016;14;4616;8;16;2500;3,401197382;Normal;64-bit;135;1540;4;68
+Xeon;Server;Launched;2016;14;4727;16;32;2200;3,688879454;Normal;64-bit;120;1540;4;68
+Xeon;Server;Launched;2016;14;5729;18;36;2200;3,80666249;Normal;64-bit;135;1540;4;68
+Xeon;Server;Launched;2016;14;7007;22;44;2200;4,007333185;Normal;64-bit;135;1540;4;68
+Xeon;Server;Launched;2016;14;1223;8;16;2100;2,995732274;Normal;64-bit;115;3070;4;85
+Xeon;Server;Launched;2016;14;2170;14;28;2000;3,555348061;Normal;64-bit;115;3070;4;85
+Xeon;Server;Launched;2016;14;1502;10;20;2000;3,218875825;Normal;64-bit;115;3070;4;85
+Xeon;Server;Launched;2016;14;3003;16;32;2100;3,688879454;Normal;64-bit;115;3070;4;85
+Xeon;Server;Launched;2016;14;4061;18;36;2200;3,80666249;Normal;64-bit;140;3070;4;85
+Xeon;Server;Launched;2016;14;4672;18;36;2400;3,80666249;Normal;64-bit;165;3070;4;85
+Xeon;Server;Launched;2016;14;4672;20;40;2100;3,912023005;Normal;64-bit;140;3070;4;85
+Xeon;Server;Launched;2016;14;5895;22;44;2200;4,007333185;Normal;64-bit;150;3070;4;85
+Xeon;Server;Launched;2016;14;7174;24;48;2200;4,094344562;Normal;64-bit;165;3070;4;85
+Xeon;Server;Launched;2016;14;6841;10;20;2800;4,094344562;Normal;64-bit;165;3070;4;85
+Xeon;Server;Launched;2016;14;6841;4;8;3200;4,094344562;Normal;64-bit;140;3070;4;85
+Celeron;Mobile;Launched;2017;14;107;2;2;1800;0,693147181;SmartCache;64-bit;15;32;2;34,1
+Celeron;Mobile;Launched;2017;14;107;2;2;2200;0,693147181;SmartCache;64-bit;15;32;2;34,1
+Core;Desktop;Launched;2017;14;117;2;4;3400;1,098612289;SmartCache;64-bit;35;64;2;34,1
+Core;Desktop;Launched;2017;14;117;2;4;3900;1,098612289;SmartCache;64-bit;54;64;2;34,1
+Core;Embedded;Launched;2017;14;250;4;4;2900;1,791759469;Normal;64-bit;45;64;2;34,1
+Core;Embedded;Launched;2017;14;250;4;4;2100;1,791759469;Normal;64-bit;25;64;2;34,1
+Core;Embedded;Launched;2017;14;378;4;8;3000;2,079441542;Normal;64-bit;45;64;2;34,1
+Core;Embedded;Launched;2017;14;225;2;4;2900;1,098612289;Normal;64-bit;35;64;2;34,1
+Core;Embedded;Launched;2017;14;225;2;4;2100;1,098612289;Normal;64-bit;25;64;2;34,1
+Core;Mobile;Launched;2017;14;297;4;8;1600;1,791759469;SmartCache;64-bit;15;32;2;34,1
+Core;Mobile;Launched;2017;14;409;4;8;1800;2,079441542;SmartCache;64-bit;15;32;2;34,1
+Core;Mobile;Launched;2017;14;281;2;4;1200;1,386294361;SmartCache;64-bit;4,5;16;2;29,8
+Core;Mobile;Launched;2017;14;304;2;4;2200;1,386294361;Normal;64-bit;15;32;2;34,1
+Core;Mobile;Launched;2017;14;250;4;4;2500;1,791759469;Normal;64-bit;45;64;2;34,1
+Core;Mobile;Launched;2017;14;281;2;4;2600;1,098612289;SmartCache;64-bit;15;32;2;34,1
+Core;Mobile;Launched;2017;14;304;2;4;2300;1,386294361;Normal;64-bit;15;32;2;34,1
+Core;Mobile;Launched;2017;14;409;4;8;1900;2,079441542;SmartCache;64-bit;15;32;2;34,1
+Core;Mobile;Launched;2017;14;297;4;8;1700;1,791759469;SmartCache;64-bit;15;32;2;34,1
+Core;Mobile;Launched;2017;14;415;2;4;2400;1,386294361;Normal;64-bit;15;32;2;34,1
+Core;Mobile;Launched;2017;14;393;2;4;2800;1,386294361;SmartCache;64-bit;15;32;2;34,1
+Core;Mobile;Launched;2017;14;415;2;4;2500;1,386294361;Normal;64-bit;15;32;2;34,1
+Core;Mobile;Launched;2017;14;378;4;8;2800;1,791759469;Normal;64-bit;45;64;2;34,1
+Core;Mobile;Launched;2017;14;378;4;8;2900;2,079441542;Normal;64-bit;45;64;2;34,1
+Core;Mobile;Launched;2017;14;378;4;8;2900;2,079441542;Normal;64-bit;45;64;2;34,1
+Core;Mobile;Launched;2017;14;568;4;8;3100;2,079441542;Normal;64-bit;45;64;2;34,1
+Core;Mobile;Launched;2017;14;225;2;4;3000;1,098612289;Normal;64-bit;35;64;2;34,1
+Core;Mobile;Launched;2017;14;281;2;4;1100;1,386294361;SmartCache;64-bit;4,5;16;2;29,8
+Pentium;Mobile;Launched;2017;14;161;2;4;1600;0,693147181;SmartCache;64-bit;6;16;2;29,8
+Pentium;Mobile;Launched;2017;14;161;2;4;1500;0,693147181;SmartCache;64-bit;6;16;2;29,8
+Pentium;Mobile;Launched;2017;14;161;2;4;2300;0,693147181;SmartCache;64-bit;15;32;2;34,1
+Xeon;Embedded;Launched;2017;14;433;4;8;2200;2,079441542;Normal;64-bit;25;64;2;34,1
+Xeon;Mobile;Launched;2017;14;434;4;8;3000;2,079441542;Normal;64-bit;45;64;2;34,1
+Xeon;Mobile;Launched;2017;14;623;4;8;3100;2,079441542;Normal;64-bit;45;64;2;34,1
+Xeon;Server;Launched;2017;14;198;4;4;3000;2,079441542;Normal;64-bit;72;64;2;37,5
+Xeon;Server;Launched;2017;14;218,5;4;4;3300;2,079441542;Normal;64-bit;73;64;2;37,5
+Xeon;Server;Launched;2017;14;255,5;4;8;3500;2,079441542;Normal;64-bit;72;64;2;37,5
+Xeon;Server;Launched;2017;14;277;4;8;3700;2,079441542;Normal;64-bit;72;64;2;37,5
+Xeon;Server;Launched;2017;14;289;4;8;3700;2,079441542;Normal;64-bit;73;64;2;37,5
+Xeon;Server;Launched;2017;14;333,5;4;8;3800;2,079441542;Normal;64-bit;72;64;2;37,5
+Xeon;Server;Launched;2017;14;339;4;8;3800;2,079441542;Normal;64-bit;73;64;2;37,5
+Xeon;Server;Launched;2017;14;383;4;8;3900;2,079441542;Normal;64-bit;72;64;2;37,5
+Xeon;Server;Launched;2017;14;450;4;8;4100;2,079441542;Normal;64-bit;79;64;2;37,5
+Xeon;Server;Launched;2017;14;1440;10;20;3300;2,621038824;Normal;64-bit;140;512;4;85,3
+Xeon;Server;Launched;2017;14;1113;8;16;3700;2,397895273;Normal;64-bit;140;512;4;85,3
+Xeon;Server;Launched;2017;14;835;6;12;3700;2,1102132;Normal;64-bit;140;512;4;85,3
+Xeon;Server;Launched;2017;14;617;6;12;3600;2,1102132;Normal;64-bit;140;512;4;85,3
+Xeon;Server;Launched;2017;14;444;4;8;4000;2,1102132;Normal;64-bit;120;512;4;85,3
+Xeon;Server;Launched;2017;14;294;4;8;3600;2,1102132;Normal;64-bit;120;512;4;85,3
+Xeon;Server;Launched;2017;14;8898;24;48;2400;4,094344562;Normal;64-bit;165;3070;4;85

@@ -20,6 +20,21 @@ Svolgimento degli esercizi proposti nel corso di Statistica (A.A. 26/27). Per og
 - **Link:** [Apri codice](./2026-09-29-ImportazioneVariabili/esercizio1.r)
 - **Descrizione:** Importa il file di testo `DatiStat1.txt`, controlla la natura e la struttura delle variabili, estrae `Altezza` nel vettore `alt`, converte il grado di istruzione dei genitori in fattori ordinali, seleziona gli studenti diplomati presso il liceo scientifico, individua gli indici degli studenti con altezza inferiore a 168 cm e filtra quelli i cui genitori possiedono entrambi la laurea.
 
+### Esercizio di riepilogo - 03 (2026-10-06) - Medie, percentili, variabilità ed eterogeneità
+
+- **Link:** [Apri codice](./2026-10-06-MedieVariabilita/esercizio1.R)
+- **Descrizione:**
+	- **Parte 1 - Importazione e analisi descrittiva di base**
+		- **Punto 1:** importare il dataset `Cpus_data.csv` e calcolare la media e la mediana della variabile `Recommended_Customer_Price`, gestendo gli eventuali valori mancanti. Rappresentare la distribuzione dei prezzi con un istogramma, specificando titolo, nomi degli assi e colore del grafico.
+	- **Parte 2 - Percentili, categorizzazione in classi e cumulate**
+		- **Punto 2:** calcolare i percentili 0, 10, 22, 40, 75, 99 e 100 di `Recommended_Customer_Price`. Utilizzare i percentili come estremi delle classi e costruire una tabella contenente frequenze assolute, frequenze relative, frequenze assolute cumulate e frequenze relative cumulate.
+	- **Parte 3 - Confronti sulle medie e rappresentazioni grafiche**
+		- **Punto 3:** confrontare la media calcolata sulla distribuzione originale con la media della distribuzione in classi. Per quest'ultima, utilizzare i punti medi delle classi e ponderarli con le frequenze assolute.
+		- **Punto 4:** rappresentare la distribuzione di `Recommended_Customer_Price` con un boxplot condizionato alla variabile categorica `Product_Collection`, così da confrontare i prezzi nelle diverse collezioni di prodotto.
+	- **Parte 4 - Variabilità ed eterogeneità (punti integrativi)**
+		- **Punto 5:** calcolare la varianza campionaria di `Max_Memory_Size` e `Max_Memory_Bandwidth`. Confrontare la variabilità relativa delle due variabili tramite il coefficiente di variazione, espresso in percentuale.
+		- **Punto 6:** analizzare l'eterogeneità della variabile qualitativa `Cache_Type` mediante le frequenze relative e l'indice di Gini assoluto. Calcolare inoltre il valore massimo teorico dell'indice, dato da $(m - 1) / m$, e l'indice di Gini normalizzato.
+
 
 
 ## Warning
