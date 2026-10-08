@@ -16,6 +16,8 @@ Controllare due diodi LED con un solo pulsante. A ogni pressione il loro stato c
 
 ![Schema del circuito](./img/circuito.png)
 
+[Link alla simulazione Arduino](https://www.tinkercad.com/things/3gGIPztGoAJ-2026-10-07-esercitazioneled?sharecode=-R7G134_52dGyjFTaGu7W92uJ1Y2h_f1ZVy1VVZ-be8)
+
 ## Collegamenti
 
 - LED 1: pin `D13` -> resistore -> anodo del LED; catodo a `GND`.

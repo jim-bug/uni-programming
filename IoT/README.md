@@ -14,6 +14,7 @@ Svolgimento degli esercizi proposti nel corso di Internet of Things (A.A. 26/27)
 
 - Consegna: mediante Arduino, controllare lo stato di due diodi LED attraverso un pulsante (switch). Premendo il pulsante, i LED devono mantenere il nuovo stato fino alla pressione successiva.
 - Link soluzioni: [soluzione 1](./2026-10-07-LedResistori/esercizio1.ino), [soluzione 2 con if](./2026-10-07-LedResistori/esercizio1-2.ino)
+- Link simulazione: [simulazione Arduino](https://www.tinkercad.com/things/3gGIPztGoAJ-2026-10-07-esercitazioneled?sharecode=-R7G134_52dGyjFTaGu7W92uJ1Y2h_f1ZVy1VVZ-be8)
 - Link relazione tecnica: [relazione tecnica e circuito](./2026-10-07-LedResistori/relazione-tecnica.md)
 
 
