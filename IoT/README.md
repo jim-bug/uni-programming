@@ -10,7 +10,7 @@ Svolgimento degli esercizi proposti nel corso di Internet of Things (A.A. 26/27)
 
 ## Elenco Esercizi
 
-### Diodi Led e Resistori - 01 (2026-10-08) - Accensione e spegnimento di due diodi led
+### Diodi Led e Resistori - 01 (2026-10-07) - Accensione e spegnimento di due diodi led
 
 - Consegna: mediante Arduino, controllare lo stato di due diodi LED attraverso un pulsante (switch). Premendo il pulsante, i LED devono mantenere il nuovo stato fino alla pressione successiva.
 - Link soluzioni: [soluzione 1](./2026-10-07-LedResistori/esercizio1.ino), [soluzione 2 con if](./2026-10-07-LedResistori/esercizio1-2.ino)

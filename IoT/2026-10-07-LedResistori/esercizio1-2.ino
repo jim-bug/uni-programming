@@ -2,7 +2,6 @@
 *   Autore: Ignazio Leonardo Calogero Sperandeo
 *   Data: 2026-10-07
 *   Consegna: Rif. README.md
-*   Soluzione con if
 *   by jimbug // :)
 */
 

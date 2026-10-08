@@ -4,13 +4,13 @@
 
 Controllare due diodi LED con un solo pulsante. A ogni pressione il loro stato cambia e resta memorizzato fino alla pressione successiva.
 
-## BOM (Bills of Material)
+## BOM (Bill of Materials)
 
-- Arduino Uno
+- Arduino Uno R3
 - 2 diodi LED
 - 2 resistori da 220 ohm
-- 1 pulsante
-- cavetti di collegamento
+- 1 pulsante (switch)
+- Jumpers
 
 ## Circuito
 
