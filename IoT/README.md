@@ -17,6 +17,8 @@ Svolgimento degli esercizi proposti nel corso di Internet of Things (A.A. 26/27)
 - Link simulazione: [simulazione Arduino](https://www.tinkercad.com/things/3gGIPztGoAJ-2026-10-07-esercitazioneled?sharecode=-R7G134_52dGyjFTaGu7W92uJ1Y2h_f1ZVy1VVZ-be8)
 - Link relazione tecnica: [relazione tecnica e circuito](./2026-10-07-LedResistori/relazione-tecnica.md)
 
+---------------------
+
 ### PWM e Potenziometro - 01 (2026-10-14) - Controllo della luminosità di un LED mediante PWM
 
 - Consegna: controllare la luminosità di un LED collegato a un'uscita PWM di Arduino, facendola aumentare e diminuire gradualmente.
