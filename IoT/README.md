@@ -17,6 +17,20 @@ Svolgimento degli esercizi proposti nel corso di Internet of Things (A.A. 26/27)
 - Link simulazione: [simulazione Arduino](https://www.tinkercad.com/things/3gGIPztGoAJ-2026-10-07-esercitazioneled?sharecode=-R7G134_52dGyjFTaGu7W92uJ1Y2h_f1ZVy1VVZ-be8)
 - Link relazione tecnica: [relazione tecnica e circuito](./2026-10-07-LedResistori/relazione-tecnica.md)
 
+### PWM e Potenziometro - 01 (2026-10-14) - Controllo della luminosità di un LED mediante PWM
+
+- Consegna: controllare la luminosità di un LED collegato a un'uscita PWM di Arduino, facendola aumentare e diminuire gradualmente.
+- Link soluzione: [esercizio 1](./2026-10-14-PWMPotenziometro/esercizio1.ino)
+- Link simulazione: [simulazione Arduino](https://www.tinkercad.com/things/hJ0taRixAe0-2026-10-14-esercitazionepwm?sharecode=rBHUbySZ0d-Kyxzkz4yGtaLbYuAzG_OOnz8UdPDL4rw)
+- Link relazione tecnica: [relazione tecnica e circuito](./2026-10-14-PWMPotenziometro/relazione_tecnica1.md)
+
+### PWM e Potenziometro - 02 (2026-10-14) - Misurazione della tensione di un potenziometro
+
+- Consegna: misurare la tensione in uscita da un potenziometro tramite l'ingresso analogico di Arduino e utilizzare il valore letto per controllare la frequenza di lampeggio del LED integrato.
+- Link soluzione: [esercizio 2](./2026-10-14-PWMPotenziometro/esercizio2.ino)
+- Link simulazione: [simulazione Arduino](https://www.tinkercad.com/things/aatgaTU9lTf-2026-10-14-esercitazionepotenziometro?sharecode=9VSyvcSaWcZFiDXdov-395C71Vjpqmv5ijsiXPDGv1k)
+- Link relazione tecnica: [relazione tecnica e circuito](./2026-10-14-PWMPotenziometro/relazione_tecnica2.md)
+
 
 
 ## Warning
