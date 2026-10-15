@@ -9,7 +9,7 @@
 *.dylib
 *.dll
 
-## File oggetti e intermedi
+## File oggetti
 *.obj
 *.ko
 *.d
