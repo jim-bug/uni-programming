@@ -21,7 +21,12 @@ Svolgimento degli esercizi proposti nel corso di Algoritmi e Strutture Dati (A.A
 - **Link extra:** [Apri codice](./2026-10-04-AlgoritmiRicerca/esercizio3.c)
 - **Descrizione:** Implementa una funzione di ricerca binaria iterativa sull'array ordinato `{2, 5, 8, 12, 16, 23, 38, 56, 72, 91}`. A ogni iterazione stampa il numero del passo e i valori di `low`, `high` e `mid`, provando la ricerca con `x = 23` e `x = 20`. Come extra, implementa anche una funzione di ricerca binaria ricorsiva in C.
 
+## Librerie ADT
 
+### Dizionario
+
+- **Link:** [Apri libreria](./lib/strutture/dict/)
+- **Consegna:** Implementazione di un dizionario mediante lista concatenata, con associazioni stringa-intero.
 ## Warning
 
 > ⚠️ **Attenzione**
