@@ -21,7 +21,7 @@ static Dict* create_pair(const char* key, int elem){
 
     if(node == NULL){
         fprintf(stderr, "Impossibile creare il Dizionario");
-        exit(0);
+        exit(EXIT_FAILURE);
     }
 
     strncpy(node->key, key, MAX_LEN_KEY);
