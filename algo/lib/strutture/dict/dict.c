@@ -5,7 +5,6 @@
 *	by jimbug // :)
 */
 
-#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include "dict.h"
@@ -19,65 +18,74 @@ struct Dict {
 static Dict* create_pair(const char* key, int elem){
     Dict* node = malloc(sizeof(Dict));
 
-    if(node == NULL){
-        fprintf(stderr, "Impossibile creare il Dizionario");
-        return NULL;
-    }
+    if (node == NULL) return NULL;
 
-    strncpy(node->key, key, MAX_LEN_KEY);
+    strcpy(node->key, key);
     node->elem = elem;
     node->next = NULL;
 
     return node;
 }
 
-Dict* dict_create(const char* key, int elem){
-    return create_pair(key, elem);
-}
+DictStatus dict_insert(Dict** dict, const char* key, int elem) {
+    if (dict == NULL || key == NULL) return DICT_NULL_ARGUMENT;
 
-Dict* dict_insert(Dict* dict, const char* key, int elem){
+    if (strlen(key) >= MAX_LEN_KEY) return DICT_KEY_TOO_LONG;
+
     Dict* node = create_pair(key, elem);
-    node->next = dict;
 
-    return node;
+    if (node == NULL) return DICT_ALLOCATION_FAILED;
+
+    node->next = *dict;
+    *dict = node;
+
+    return DICT_OK;
 }
 
-Dict* dict_remove(Dict* dict, const char* key){
-    while (dict != NULL && !strcmp(dict->key, key)){        // rimozione di occorrenze successive in testa
-        Dict* temp = dict->next;
-        free(dict);
-        dict = temp;
+DictStatus dict_remove(Dict** dict, const char* key) {
+    if (dict == NULL || key == NULL) return DICT_NULL_ARGUMENT;
+
+    int removed = 0;
+
+    while (*dict != NULL && strcmp((*dict)->key, key) == 0) {           // rimozione di occorrenze successive in testa
+        Dict* temp = (*dict)->next;
+        free(*dict);
+        *dict = temp;
+        removed = 1;
     }
 
-    if (dict == NULL) return NULL;                          // evito di dereferenziare NULL ai passi successivi
+    if (*dict == NULL) return removed ? DICT_OK : DICT_KEY_NOT_FOUND;   // evito di dereferenziare NULL (in caso) ai passi successivi
 
-    Dict* prev = dict;
-    Dict* curr = dict->next;
+    Dict* prev = *dict;
+    Dict* curr = (*dict)->next;
 
-    while (curr != NULL){
-        if (!strcmp(curr->key, key)){
-            Dict* temp = curr->next;
+    while (curr != NULL) {
+        if (strcmp(curr->key, key) == 0) {
+            prev->next = curr->next;
             free(curr);
-            prev->next = temp;
+            curr = prev->next;
+            removed = 1;
         } else {
             prev = curr;
             curr = curr->next;
         }
     }
 
-    return dict;
+    return removed ? DICT_OK : DICT_KEY_NOT_FOUND;
 }
 
-int dict_search(const Dict* dict, const char* key, int* value){
-    while(dict != NULL){
-        if (!strcmp(dict->key, key)){
+DictStatus dict_search(const Dict* dict, const char* key, int* value) {
+    if (key == NULL || value == NULL) return DICT_NULL_ARGUMENT;
+
+    while (dict != NULL) {
+        if (strcmp(dict->key, key) == 0) {
             *value = dict->elem;
-            return 1;
+            return DICT_OK;
         }
         dict = dict->next;
     }
 
-    return 0;
+    return DICT_KEY_NOT_FOUND;
 }
 
 static void free_dict(Dict* dict){

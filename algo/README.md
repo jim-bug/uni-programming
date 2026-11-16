@@ -21,12 +21,22 @@ Svolgimento degli esercizi proposti nel corso di Algoritmi e Strutture Dati (A.A
 - **Link extra:** [Apri codice](./2026-10-04-AlgoritmiRicerca/esercizio3.c)
 - **Descrizione:** Implementa una funzione di ricerca binaria iterativa sull'array ordinato `{2, 5, 8, 12, 16, 23, 38, 56, 72, 91}`. A ogni iterazione stampa il numero del passo e i valori di `low`, `high` e `mid`, provando la ricerca con `x = 23` e `x = 20`. Come extra, implementa anche una funzione di ricerca binaria ricorsiva in C.
 
-## Librerie ADT
+## Librerie di strutture dati
 
 ### Dizionario
 
 - **Link:** [Apri libreria](./lib/strutture/dict/)
-- **Consegna:** Implementazione di un dizionario mediante lista concatenata, con associazioni stringa-intero.
+- **Consegna:** Implementazione di un dizionario (ADT) mediante lista concatenata, con associazioni stringa-intero.
+- **Utilizzo:** un dizionario vuoto è rappresentato da `Dict* dict = NULL`; `dict_insert` restituisce un `DictStatus` e aggiorna la testa tramite `Dict**`.
+- **Gestione memoria:** usare `dict_destroy` al termine dell'utilizzo.
+
+### Pila
+
+- **Link:** [Apri libreria](./lib/strutture/stack/)
+- **Consegna:** Implementazione di una pila (ADT) di interi mediante lista concatenata.
+- **Utilizzo:** una pila vuota è rappresentata da `Stack* stack = NULL`; `stack_push`, `stack_pop` e `stack_top` restituiscono uno `StackStatus`.
+- **Gestione memoria:** usare `stack_destroy` al termine dell'utilizzo.
+
 ## Warning
 
 > ⚠️ **Attenzione**
@@ -34,6 +44,7 @@ Svolgimento degli esercizi proposti nel corso di Algoritmi e Strutture Dati (A.A
 > - Le soluzioni presenti sono proposte didattiche: possono esistere implementazioni diverse ugualmente corrette.
 > - Alcuni programmi assumono input validi secondo la consegna; con input fuori specifica il comportamento potrebbe non essere significativo.
 > - In base alla macroarea dell'esercizio la soluzione è designata sugli argomenti svolti fino a quel punto nel corso.
+> - Le librerie non terminano direttamente il programma in caso di errore: restituiscono stati espliciti, lasciando al chiamante la gestione di valori nulli, pila vuota, chiavi assenti e fallimenti di allocazione.
 > 
 **Autore:** Ignazio Leonardo Calogero Sperandeo
 

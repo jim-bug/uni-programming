@@ -11,12 +11,17 @@
 #define MAX_LEN_KEY 20
 
 typedef struct Dict Dict;
+typedef enum {
+    DICT_OK,
+    DICT_NULL_ARGUMENT,
+    DICT_KEY_NOT_FOUND,
+    DICT_KEY_TOO_LONG,
+    DICT_ALLOCATION_FAILED
+} DictStatus;
 
-Dict* dict_create(const char* key, int elem);
-Dict* dict_insert(Dict* dict,  const char* key, int elem);
-Dict* dict_remove(Dict* dict, const char* key);
-int dict_search(const Dict* dict, const char* key, int* value);
-void dict_destroy(Dict* dict);
-
+DictStatus dict_insert(Dict**, const char*, int);
+DictStatus dict_remove(Dict**, const char*);
+DictStatus dict_search(const Dict*, const char*, int*);
+void dict_destroy(Dict*);
 
 #endif
